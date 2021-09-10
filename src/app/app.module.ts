@@ -1,5 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { MdbCollapseModule } from 'mdb-angular-ui-kit/collapse';
+import { MdbCarouselModule } from 'mdb-angular-ui-kit/carousel'
+
 
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
@@ -14,7 +17,9 @@ import { FooterComponent } from './footer/footer.component';
     FooterComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    MdbCollapseModule,
+    MdbCarouselModule
   ],
   providers: [],
   bootstrap: [AppComponent]
