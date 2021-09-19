@@ -1,49 +1,331 @@
 <app-navbar></app-navbar>
 <app-banner></app-banner>
 <main>
-  <h2>O NAS</h2>
- 
-  <h2>OFERTA</h2>
-  <div class="row">
-    <div class="col-sm-8">
-      <div class="card">
-        <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-          <img
-            src="https://mdbootstrap.com/img/new/standard/nature/111.jpg"
-            class="img-fluid"
-          />
-          <a href="#!">
-            <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-          </a>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">
-            Some quick example text to build on the card title and make up the bulk of the
-            card's content.
-          </p>
-          <a href="#!" class="btn btn-primary">Button</a>
-        </div>
-        <mdb-accordion>
-          <mdb-accordion-item>
-            <ng-template mdbAccordionItemHeader>Accordion Item #1</ng-template>
-            <ng-template mdbAccordionItemBody>
-              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-              richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-              brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt
-              aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
-              Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente
-              ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-              farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
-              accusamus labore sustainable VHS.
-            </ng-template>
-          </mdb-accordion-item>
-        </mdb-accordion>
-      </div>
+  <div class="container">
+    <div>
+      <h2>O NAS</h2>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni vitae culpa vel, inventore tenetur sequi
+        praesentium, ipsam iure exercitationem ullam, aperiam repellendus nam totam soluta asperiores ad hic aspernatur
+        neque!</p>
     </div>
+
   </div>
+  <div class="container">
+    <div>
+      <h2>OFERTA</h2>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni vitae culpa vel, inventore tenetur sequi
+        praesentium, ipsam iure exercitationem ullam, aperiam repellendus nam totam soluta asperiores ad hic aspernatur
+        neque!</p>
+    </div>
+
+  </div>
+  <mdb-tabs style="text-align: center;">
+    <mdb-tab title="Palmy"><div class="row">
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+          [slidesPerView]="1"
+          [spaceBetween]="30"
+          [loop]="true"
+          [pagination]="{
+            clickable: true
+          }"
+          [navigation]="true"
+          class="mySwiper"
+          >
+          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Palma 1</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+            [slidesPerView]="1"
+            [spaceBetween]="30"
+            [loop]="true"
+            [pagination]="{
+              clickable: true
+            }"
+            [navigation]="true"
+            class="mySwiper"
+            >
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Palma 2</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
+            <a href="#!">
+              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+            </a>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Palma 3</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div></mdb-tab>
+    <mdb-tab title="Cytrusy"><div class="row">
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+          [slidesPerView]="1"
+          [spaceBetween]="30"
+          [loop]="true"
+          [pagination]="{
+            clickable: true
+          }"
+          [navigation]="true"
+          class="mySwiper"
+          >
+          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Cytrus 1</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+            [slidesPerView]="1"
+            [spaceBetween]="30"
+            [loop]="true"
+            [pagination]="{
+              clickable: true
+            }"
+            [navigation]="true"
+            class="mySwiper"
+            >
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Cytrus 2</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
+            <a href="#!">
+              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+            </a>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Cytrus 3</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div></mdb-tab>
+    <mdb-tab title="Drzewa oliwne"><div class="row">
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+          [slidesPerView]="1"
+          [spaceBetween]="30"
+          [loop]="true"
+          [pagination]="{
+            clickable: true
+          }"
+          [navigation]="true"
+          class="mySwiper"
+          >
+          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Oliwka 1</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+            [slidesPerView]="1"
+            [spaceBetween]="30"
+            [loop]="true"
+            [pagination]="{
+              clickable: true
+            }"
+            [navigation]="true"
+            class="mySwiper"
+            >
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Oliwka 2</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
+            <a href="#!">
+              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+            </a>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Oliwka 3</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div> </mdb-tab>
+    <mdb-tab title="Drzewa egzotyczne"><div class="row">
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+          [slidesPerView]="1"
+          [spaceBetween]="30"
+          [loop]="true"
+          [pagination]="{
+            clickable: true
+          }"
+          [navigation]="true"
+          class="mySwiper"
+          >
+          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+          >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Drzewo egzotyczne 1</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <swiper
+            [slidesPerView]="1"
+            [spaceBetween]="30"
+            [loop]="true"
+            [pagination]="{
+              clickable: true
+            }"
+            [navigation]="true"
+            class="mySwiper"
+            >
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            >
+          </swiper>
+          <div class="card-body">
+            <h5 class="card-title">Drzewo egzotyczne 2</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
+            <a href="#!">
+              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+            </a>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Drzewo egzotyczne 3</h5>
+            <p class="card-text">
+              Some quick example text to build on the card title and make up the bulk of the
+              card's content. Some quick example text to build on the card title and make up the bulk of the
+              card's content.Some quick example text to build on the card title and make up the bulk of the
+              card's content.Some quick example text to build on the card title and make up the bulk of the
+              card's content.Some quick example text to build on the card title and make up the bulk of the
+              card's content.Some quick example text to build on the card title and make up the bulk of the
+              card's content.Some quick example text to build on the card title and make up the bulk of the
+              card's content.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div> </mdb-tab>
+  </mdb-tabs>
+
   
-  <h2>NASZE ROŚLINY U KLIENTÓW</h2>
+
+  <div class="container">
+    <div>
+      <h2>NASZE ROŚLINY U KLIENTÓW</h2>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni vitae culpa vel, inventore tenetur sequi
+        praesentium, ipsam iure exercitationem ullam, aperiam repellendus nam totam soluta asperiores ad hic aspernatur
+        neque!</p>
+    </div>
+
+  </div>
   <app-contact></app-contact>
 </main>
 <app-footer></app-footer>

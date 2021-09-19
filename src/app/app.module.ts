@@ -4,6 +4,7 @@ import { MdbCollapseModule } from 'mdb-angular-ui-kit/collapse';
 import { MdbCarouselModule } from 'mdb-angular-ui-kit/carousel';
 import { MdbTabsModule } from 'mdb-angular-ui-kit/tabs';
 import { MdbAccordionModule } from 'mdb-angular-ui-kit/accordion';
+import { SwiperModule } from 'swiper/angular';
 
 
 import { AppComponent } from './app.component';
@@ -18,7 +19,7 @@ import { ContactComponent } from './contact/contact.component';
     NavbarComponent,
     BannerComponent,
     FooterComponent,
-    ContactComponent
+    ContactComponent,
   ],
   imports: [
     BrowserModule,
@@ -26,6 +27,7 @@ import { ContactComponent } from './contact/contact.component';
     MdbCarouselModule,
     MdbTabsModule,
     MdbAccordionModule,
+    SwiperModule
   ],
   providers: [],
   bootstrap: [AppComponent]
