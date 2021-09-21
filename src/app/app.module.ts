@@ -1,5 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { GoogleMapsModule } from '@angular/google-maps';
+import { CommonModule } from '@angular/common';
+import { HttpClientModule, HttpClientJsonpModule } from '@angular/common/http';
 import { MdbCollapseModule } from 'mdb-angular-ui-kit/collapse';
 import { MdbCarouselModule } from 'mdb-angular-ui-kit/carousel';
 import { MdbTabsModule } from 'mdb-angular-ui-kit/tabs';
@@ -27,7 +30,11 @@ import { ContactComponent } from './contact/contact.component';
     MdbCarouselModule,
     MdbTabsModule,
     MdbAccordionModule,
-    SwiperModule
+    SwiperModule,
+    CommonModule,
+    GoogleMapsModule,
+    HttpClientModule,
+    HttpClientJsonpModule
   ],
   providers: [],
   bootstrap: [AppComponent]
