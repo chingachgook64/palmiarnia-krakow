@@ -21,37 +21,12 @@
     </div>
 
   </div>
-  <mdb-tabs style="text-align: center;">
-    <mdb-tab title="Palmy"><div class="row">
-      <div class="col-sm-4">
-        <div class="card">
-          <swiper
-          [slidesPerView]="1"
-          [spaceBetween]="30"
-          [loop]="true"
-          [pagination]="{
-            clickable: true
-          }"
-          [navigation]="true"
-          class="mySwiper"
-          >
-          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">Palma 1</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <swiper
+  <mdb-tabs  [justified]="true" [pills]="true">
+    <mdb-tab title="Palmy">
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="card">
+            <swiper
             [slidesPerView]="1"
             [spaceBetween]="30"
             [loop]="true"
@@ -65,34 +40,71 @@
             ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
             ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
             >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">Palma 2</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
+            </swiper>
+            <div class="card-body">
+              <h5 class="card-title">Palma 1</h5>
+              <div class="mt-3" id="collapseExample" mdbCollapse #basicCollapse="mdbCollapse">
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+                sapiente ea proident.
+              </div>
+              <a
+                class="btn btn-primary"
+                (click)="basicCollapse.toggle()"
+                role="button"
+                aria-expanded="false"
+                aria-controls="collapseExample"
+              >
+                Link with href
+              </a>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
-            <a href="#!">
-              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">Palma 3</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
+        <div class="col-sm-4">
+          <div class="card">
+            <swiper
+              [slidesPerView]="1"
+              [spaceBetween]="30"
+              [loop]="true"
+              [pagination]="{
+                clickable: true
+              }"
+              [navigation]="true"
+              class="mySwiper"
+              >
+              <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+              ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+              ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+              >
+            </swiper>
+            <div class="card-body">
+              <h5 class="card-title">Palma 2</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the
+                card's content.
+              </p>
+            </div>
           </div>
         </div>
-      </div>
-    </div></mdb-tab>
+        <div class="col-sm-4">
+          <div class="card">
+            <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+              <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
+              <a href="#!">
+                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+              </a>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Palma 3</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the
+                card's content.
+              </p>
+            </div>
+          </div>
+        </div>
+    </div>
+  </mdb-tab>
     <mdb-tab title="Cytrusy"><div class="row">
       <div class="col-sm-4">
         <div class="card">
