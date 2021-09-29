@@ -24,7 +24,7 @@
   <mdb-tabs  [justified]="true" [pills]="true">
     <mdb-tab title="Palmy">
       <div class="row">
-        <div class="col-sm-4">
+        <!-- <div class="col-sm-4">
           <div class="card">
             <swiper
             [slidesPerView]="1"
@@ -56,7 +56,7 @@
               </a>
             </div>
           </div>
-        </div>
+        </div> -->
         
 
 
@@ -125,49 +125,6 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <swiper
-            [slidesPerView]="1"
-            [spaceBetween]="30"
-            [loop]="true"
-            [pagination]="{
-              clickable: true
-            }"
-            [navigation]="true"
-            class="mySwiper"
-            >
-            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">Cytrus 2</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
-            <a href="#!">
-              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">Cytrus 3</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
     </div></mdb-tab>
     <mdb-tab title="Drzewa oliwne"><div class="row">
       <div class="col-sm-4">
@@ -196,52 +153,10 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <swiper
-            [slidesPerView]="1"
-            [spaceBetween]="30"
-            [loop]="true"
-            [pagination]="{
-              clickable: true
-            }"
-            [navigation]="true"
-            class="mySwiper"
-            >
-            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">Oliwka 2</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
-            <a href="#!">
-              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">Oliwka 3</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div> </mdb-tab>
+    </div> 
+  </mdb-tab>
     <mdb-tab title="Drzewa egzotyczne"><div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-4" *ngFor="let exoticTree of dataExoticTrees">
         <div class="card">
           <swiper
           [slidesPerView]="1"
@@ -259,63 +174,17 @@
           >
           </swiper>
           <div class="card-body">
-            <h5 class="card-title">Drzewo egzotyczne 1</h5>
+            <h5 class="card-title">{{exoticTree.name}}</h5>
             <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
+              {{exoticTree.description}}
             </p>
           </div>
         </div>
       </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <swiper
-            [slidesPerView]="1"
-            [spaceBetween]="30"
-            [loop]="true"
-            [pagination]="{
-              clickable: true
-            }"
-            [navigation]="true"
-            class="mySwiper"
-            >
-            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">Drzewo egzotyczne 2</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="card">
-          <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
-            <a href="#!">
-              <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">Drzewo egzotyczne 3</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content. Some quick example text to build on the card title and make up the bulk of the
-              card's content.Some quick example text to build on the card title and make up the bulk of the
-              card's content.Some quick example text to build on the card title and make up the bulk of the
-              card's content.Some quick example text to build on the card title and make up the bulk of the
-              card's content.Some quick example text to build on the card title and make up the bulk of the
-              card's content.Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
+
+
+
+
     </div> </mdb-tab>
   </mdb-tabs>
 

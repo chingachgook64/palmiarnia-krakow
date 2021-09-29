@@ -79,16 +79,57 @@ export class AppComponent {
       name: "Palma kokosowa",
       description: "gatunek pochodzi z południowo-wschodniej Azji lub z północno-zachodniej Ameryki Południowej. Kopalne szczątki z Nowej Zelandii wskazują, że rośliny o małych orzechach kokosowych rosły tam już przed 15 milionami lat. Najstarsze skamieniałości były znajdowane w Radżastanie w Indiach. Jej owoce wyrzucone przez morze i zdolne do kiełkowania znajdowano w Norwegii. Obecnie jest najczęściej występującą palmą, gdyż rośnie wzdłuż wszystkich tropikalnych brzegów morskich. Dorasta do 30 m wysokości. Ma pierzaste liście o 4–6 m długości i szerokości 60–90 cm."
     },
-
-    {
-      name: "",
-      description: ""
-    },
-    {
-      name: "",
-      description: ""
-    },
   ];
+
+  dataExoticTrees = [
+    {
+      name: "Jukka rostrata",
+      description: "to mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. Wytrzymuje spadek temperatury do – 20 C."
+    },
+    {
+      name: "Jukka aloesowa",
+      description: "gatunek z rodzaju Yucca. Popularne nazwy to aloes, roślina sztyletu i hiszpański bagnet. Rośnie na glebach piaszczystych, szczególnie na wydmach wzdłuż wybrzeża"
+    },
+    {
+      name: "Jukka rigida",
+      description: "gatunek należący do rodziny agawowatych.Pochodzi z terenów USA i Meksyku. Jukka rigida bywa mylona z jukką rostratą ma jednak sztywniejsze i bardziej szorstkie liście."
+    },
+    {
+      name: "Jukka faxoniana",
+      description: "nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C."
+    },
+    {
+      name: "Wachlica długa",
+      description: "znana jako dasylirion longissimum, meksykańskie drzewo trawiaste, to gatunek rośliny kwitnącej na pustyni Chihuahuan i innych siedliskach kserograficznych w północno-wschodnim Meksyku."
+    },
+    {
+      name: "Dasylirion wheeleri",
+      description: "gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie."
+    },
+    {
+      name: "Dasylirion serratifolium",
+      description: "gatunek rosnący w Meksyku na wysokości ok 2 tysięcy metrów, w suchym i skalistym terenie krzewiasta i zimozielona roślina cechuje się powolnym wzrostem i dorasta do ok 3 metrów. Pień pełen dekoracyjnych pióropuszy liści o długości około 1,2 metra.Długie na niemal 5 metrów kwiatostany w formie kolby wyrastają podczas kwitnienia pięknie zdobiąc roślinę. Kwiatostan podobnie jak w przypadku odmiany Dasylirion Wheeleri koloru biało beżowego. Roślina dobrze znosi suszę i duże nasłonecznienie. Jej mrozoodporność szacowana jest na około minus 15 stopni."
+    },
+    {
+      name: "Dasylirion wheeleri",
+      description: "gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie."
+    },
+    {
+      name: "Sagowiec odwinięty",
+      description: "gatunek roślin należących do klasy sagowców i rodziny sagowcowatych. Zasięg naturalny obejmuje południową Japonię. Popularna roślina ozdobna, w środkowoeuropejskich warunkach klimatycznych uprawiana jako roślina doniczkowa."
+    },
+    {
+      name: "Alokazja Macrorrhiza",
+      description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymi liśćmi, które mają około 1 metra długości. W liściach i łodygach występuje obficie sok roślinny, który w stanie surowym jest trujący. Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. W odpowiednich warunkach roślina ta może osiągać wysokość 15 metrów."
+    },
+    {
+      name: "Nolina nelsonii",
+      description: "to roślina kwitnąca z rodzaju Nolina. Gatunek ten został po raz pierwszy opisany w 1906 roku; w swoim rodzaju jest morfologicznie najbardziej podobny do Nolina parryi."
+    },
+
+  ]
+
+
 }
 
 
@@ -101,19 +142,6 @@ function readMoreToggle(): void {
 
 const dataCitruses = [];
 const dataOliveTrees = [];
-const dataExoticTrees = [
-  {
-    name: "Jukka rostrata",
-    description: "to mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. Wytrzymuje spadek temperatury do – 20 C."
-  },
-  {
-    name: "Jukka aloesowa",
-    description: "gatunek z rodzaju Yucca. Popularne nazwy to aloes, roślina sztyletu i hiszpański bagnet. Rośnie na glebach piaszczystych, szczególnie na wydmach wzdłuż wybrzeża"
-  },
-  {
-    name: "Jukka rigida",
-    description: "gatunek należący do rodziny agawowatych.Pochodzi z terenów USA i Meksyku. Jukka rigida bywa mylona z jukką rostratą ma jednak sztywniejsze i bardziej szorstkie liście."
-  },
-]
+
 
 
