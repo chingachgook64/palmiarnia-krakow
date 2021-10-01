@@ -27,6 +27,7 @@ export class ContactComponent implements OnInit {
   options: google.maps.MapOptions = {
     center: { lat: 50.018893616228745, lng: 19.952497793538118 },
     zoom: 12,
+
   };
 
 }
