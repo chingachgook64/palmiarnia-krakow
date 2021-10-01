@@ -16,8 +16,11 @@ import { BannerComponent } from './banner/banner.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
-import { PlantsComponent } from './plants/plants.component';
 import { AppRoutingModule } from './app-routing.module';
+import { PalmsComponent } from './offer/palms/palms.component';
+import { ExoticTreesComponent } from './offer/exotic-trees/exotic-trees.component';
+import { CitrusesComponent } from './offer/citruses/citruses.component';
+import { OliveTreesComponent } from './offer/olive-trees/olive-trees.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +30,10 @@ import { AppRoutingModule } from './app-routing.module';
     FooterComponent,
     ContactComponent,
     HomeComponent,
-    PlantsComponent,
+    PalmsComponent,
+    ExoticTreesComponent,
+    CitrusesComponent,
+    OliveTreesComponent,
   ],
   imports: [
     BrowserModule,

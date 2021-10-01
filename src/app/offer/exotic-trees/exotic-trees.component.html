@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4" *ngFor="let exoticTree of exoticTreesData">
+            <div class="card">
+            <swiper
+            [slidesPerView]="1"
+            [spaceBetween]="30"
+            [loop]="true"
+            [pagination]="{
+                clickable: true
+            }"
+            [navigation]="true"
+            class="mySwiper"
+            >
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            >
+            </swiper>
+            <div class="card-body">
+                <h5 class="card-title">{{exoticTree?.name}}</h5>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>

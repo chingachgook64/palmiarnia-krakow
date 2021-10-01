@@ -1,4 +1,3 @@
-<app-navbar></app-navbar>
 <app-banner></app-banner>
 <main>
   <div class="container" id="aboutUs">
@@ -19,136 +18,7 @@
     </div>
 
   </div>
-  <mdb-tabs  [justified]="true" [pills]="true">
-    <mdb-tab title="Palmy">
-      <div class="row">
-        <div class="col-sm-4" *ngFor="let palm of dataPalms">
-          <div class="card">
-            <swiper
-            [slidesPerView]="1"
-            [spaceBetween]="30"
-            [loop]="true"
-            [pagination]="{
-              clickable: true
-            }"
-            [navigation]="true"
-            class="mySwiper"
-            >
-            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            >
-            </swiper>
-            <div class="card-body">
-              <h5 class="card-title">{{ palm.name }}</h5>
-              <p>gatunek drzewa z rodziny arekowatych. Pochodzi z gór południowych i środkowych Chin, poza tym występuje w Bhutanie, Nepalu, północnych Indiach, Mjanmie i Wietnamie, a jako gatunek naturalizowany także w Japonii. Nazwa upamiętnia Roberta Fortune'a, który przywiózł tę roślinę z Chin do Europy.
-                <span class="mt-3" id="palm1" mdbCollapse #palm1Collapse="mdbCollapse">Gatunek jest uprawiany już w Europie od ponad 160 lat jako roślina ozdobna. Ze względu na relatywnie, jak na palmę, dużą odporność na niskie temperatury jest popularna w uprawie w krajach klimatu umiarkowanego. Z włókna otrzymanego z liści w niektórych krajach wykonuje się miotły, powrozy, nieprzemakalne płaszcze, kapelusze i inne wyroby.</span><p>
-              <a
-                class="btn btn-primary"
-                (click)="palm1Collapse.toggle()"
-                role="button"
-                aria-expanded="false"
-                aria-controls="palm1"
-              >
-                Więcej
-              </a>
-            </div>
-          </div>
-        </div>
 
-
-     
-    </div>
-  </mdb-tab>
-    <mdb-tab title="Cytrusy"><div class="row">
-      <div class="col-sm-4">
-        <div class="card">
-          <swiper
-          [slidesPerView]="1"
-          [spaceBetween]="30"
-          [loop]="true"
-          [pagination]="{
-            clickable: true
-          }"
-          [navigation]="true"
-          class="mySwiper"
-          >
-          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">Cytrus 1</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div></mdb-tab>
-    <mdb-tab title="Drzewa oliwne"><div class="row">
-      <div class="col-sm-4">
-        <div class="card">
-          <swiper
-          [slidesPerView]="1"
-          [spaceBetween]="30"
-          [loop]="true"
-          [pagination]="{
-            clickable: true
-          }"
-          [navigation]="true"
-          class="mySwiper"
-          >
-          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">Oliwka 1</h5>
-            <p class="card-text">
-              Some quick example text to build on the card title and make up the bulk of the
-              card's content.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div> 
-  </mdb-tab>
-    <mdb-tab title="Drzewa egzotyczne"><div class="row">
-      <div class="col-sm-4" *ngFor="let exoticTree of dataExoticTrees">
-        <div class="card">
-          <swiper
-          [slidesPerView]="1"
-          [spaceBetween]="30"
-          [loop]="true"
-          [pagination]="{
-            clickable: true
-          }"
-          [navigation]="true"
-          class="mySwiper"
-          >
-          <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-          >
-          </swiper>
-          <div class="card-body">
-            <h5 class="card-title">{{exoticTree.name}}</h5>
-            <p class="card-text">
-              {{exoticTree.description}}
-            </p>
-          </div>
-        </div>
-      </div>
-
-
-
-
-    </div> </mdb-tab>
-  </mdb-tabs>
 
   
 
@@ -164,4 +34,3 @@
   </div>
   <app-contact id="contact"></app-contact>
 </main>
-<app-footer></app-footer>

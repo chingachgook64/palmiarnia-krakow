@@ -24,10 +24,14 @@ export class ContactComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  options: google.maps.MapOptions = {
-    center: { lat: 50.018893616228745, lng: 19.952497793538118 },
-    zoom: 12,
+  cords = { lat: 50.018893616228745, lng: 19.952497793538118 }
 
+  options: google.maps.MapOptions = {
+    center: this.cords,
+    zoom: 15,
   };
+
+
+
 
 }
