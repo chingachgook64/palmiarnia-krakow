@@ -15,6 +15,9 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { BannerComponent } from './banner/banner.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContactComponent } from './contact/contact.component';
+import { HomeComponent } from './home/home.component';
+import { PlantsComponent } from './plants/plants.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -23,6 +26,8 @@ import { ContactComponent } from './contact/contact.component';
     BannerComponent,
     FooterComponent,
     ContactComponent,
+    HomeComponent,
+    PlantsComponent,
   ],
   imports: [
     BrowserModule,
@@ -34,7 +39,8 @@ import { ContactComponent } from './contact/contact.component';
     CommonModule,
     GoogleMapsModule,
     HttpClientModule,
-    HttpClientJsonpModule
+    HttpClientJsonpModule,
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
