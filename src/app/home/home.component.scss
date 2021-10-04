@@ -1,12 +1,38 @@
 .offer {
-  // justify-content: space-between;
-}
 
-.offer-option {
-  text-align: center;
-  font-size: 18px;
-  padding: 8px;
-  height: 240px;
-  margin-bottom: 8px;
-  overflow: hidden;
+  justify-content: space-around;
+
+  .offer-option {
+    text-align: center;
+    font-size: 18px;
+    height: 240px;
+    max-width: 312px;
+    margin-bottom: 8px;
+    overflow: hidden;
+  }
+
+  .palms {
+
+    background-image: url("../../assets/home/palmy.jpg");
+  }
+
+  .olive-trees {
+
+    background-image: url("../../assets/home/drzewa_oliwne.jpg");
+
+  }
+
+  .citruses {
+
+    background-image: url("../../assets/home/cytrusy.jpg");
+
+  }
+
+  .exotic-trees {
+
+    background-image: url("../../assets/home/drzewa_egzotyczne.jpg");
+
+  }
+
+
 }
