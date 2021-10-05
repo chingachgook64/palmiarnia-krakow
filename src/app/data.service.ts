@@ -74,7 +74,7 @@ export class DataService {
     },
   ];
 
-  exoticTreesData = [
+  exoticPlantsData = [
     {
       name: "Jukka rostrata",
       description: "to mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. Wytrzymuje spadek temperatury do – 20 C."
@@ -130,9 +130,9 @@ export class DataService {
     return this.palmsData;
   }
 
-  getExoticTreesData(): Array<any> {
+  getExoticPlantsData(): Array<any> {
 
-    return this.exoticTreesData;
+    return this.exoticPlantsData;
   }
 
 }

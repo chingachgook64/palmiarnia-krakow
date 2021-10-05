@@ -18,7 +18,7 @@ import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { AppRoutingModule } from './app-routing.module';
 import { PalmsComponent } from './offer/palms/palms.component';
-import { ExoticTreesComponent } from './offer/exotic-trees/exotic-trees.component';
+import { ExoticPlantsComponent } from './offer/exotic-plants/exotic-plants.component';
 import { CitrusesComponent } from './offer/citruses/citruses.component';
 import { OliveTreesComponent } from './offer/olive-trees/olive-trees.component';
 
@@ -31,7 +31,7 @@ import { OliveTreesComponent } from './offer/olive-trees/olive-trees.component';
     ContactComponent,
     HomeComponent,
     PalmsComponent,
-    ExoticTreesComponent,
+    ExoticPlantsComponent,
     CitrusesComponent,
     OliveTreesComponent,
   ],
