@@ -21,6 +21,7 @@ import { PalmsComponent } from './offer/palms/palms.component';
 import { ExoticPlantsComponent } from './offer/exotic-plants/exotic-plants.component';
 import { CitrusesComponent } from './offer/citruses/citruses.component';
 import { OliveTreesComponent } from './offer/olive-trees/olive-trees.component';
+import { PalmDetailsComponent } from './offer/palms/palm-details/palm-details.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { OliveTreesComponent } from './offer/olive-trees/olive-trees.component';
     ExoticPlantsComponent,
     CitrusesComponent,
     OliveTreesComponent,
+    PalmDetailsComponent,
   ],
   imports: [
     BrowserModule,

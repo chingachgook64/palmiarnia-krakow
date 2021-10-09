@@ -25,6 +25,8 @@ export class ContactComponent implements OnInit {
   }
 
   cords = { lat: 50.018893616228745, lng: 19.952497793538118 }
+  title = "Palmiarnia-Kraków.pl"
+  icon = "./../../assets/LOGO2.png"
 
   options: google.maps.MapOptions = {
     center: this.cords,
