@@ -3,10 +3,10 @@ import { DataService } from '../../data.service';
 
 @Component({
   selector: 'app-citruses',
-  templateUrl: './citruses.component.html',
-  styleUrls: ['./citruses.component.scss']
+  templateUrl: './yuccas.component.html',
+  styleUrls: ['./yuccas.component.scss']
 })
-export class CitrusesComponent implements OnInit {
+export class YuccasComponent implements OnInit {
 
   constructor(private dataService: DataService) { }
 

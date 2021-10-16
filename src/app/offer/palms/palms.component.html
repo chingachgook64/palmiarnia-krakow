@@ -18,8 +18,8 @@
             ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
             >
             </swiper>
-            <div class="card-body">
-              <h5 class="card-title">{{ palm?.name }}</h5>
+            <div class="card-body" (click)="goToPalmDetails(palm?.name)">
+              <h5 class="card-title">{{ palm?.title }}</h5>
             </div>
           </div>
         </div>

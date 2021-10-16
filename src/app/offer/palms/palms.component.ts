@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { DataService } from '../../data.service';
 
 @Component({
@@ -8,11 +9,16 @@ import { DataService } from '../../data.service';
 })
 export class PalmsComponent implements OnInit {
 
-  constructor(private dataService: DataService) { }
 
-  palmsData = this.dataService.getPalmsData();
+  constructor(private dataService: DataService, private router: Router) { }
+
+  palmsData = this.dataService.getAllPalmsData();
 
   ngOnInit(): void {
+  }
+
+  goToPalmDetails(name: string) {
+    this.router.navigate(['/palmy/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
   }
 
 }

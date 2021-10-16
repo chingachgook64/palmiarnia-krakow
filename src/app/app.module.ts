@@ -19,9 +19,12 @@ import { HomeComponent } from './home/home.component';
 import { AppRoutingModule } from './app-routing.module';
 import { PalmsComponent } from './offer/palms/palms.component';
 import { ExoticPlantsComponent } from './offer/exotic-plants/exotic-plants.component';
-import { CitrusesComponent } from './offer/citruses/citruses.component';
+import { YuccasComponent } from './offer/yuccas/yuccas.component';
 import { OliveTreesComponent } from './offer/olive-trees/olive-trees.component';
 import { PalmDetailsComponent } from './offer/palms/palm-details/palm-details.component';
+import { ExoticPlantsDetailsComponent } from './offer/exotic-plants/exotic-plants-details/exotic-plants-details.component';
+import { OliveTreesDetailsComponent } from './offer/olive-trees/olive-trees-details/olive-trees-details.component';
+import { YuccasDetailsComponent } from './offer/yuccas/yuccas-details/yuccas-details.component';
 
 @NgModule({
   declarations: [
@@ -33,9 +36,12 @@ import { PalmDetailsComponent } from './offer/palms/palm-details/palm-details.co
     HomeComponent,
     PalmsComponent,
     ExoticPlantsComponent,
-    CitrusesComponent,
+    YuccasComponent,
     OliveTreesComponent,
     PalmDetailsComponent,
+    ExoticPlantsDetailsComponent,
+    OliveTreesDetailsComponent,
+    YuccasDetailsComponent,
   ],
   imports: [
     BrowserModule,
