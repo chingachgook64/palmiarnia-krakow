@@ -1,1 +1,26 @@
-<p>palm-details works!</p>
+<div class="spacer"></div>
+<div class="container">
+    <h2>Jakaś palma</h2>
+    <div class="row">
+        <div class="col-lg-8 swiper-container">
+            <swiper
+            [slidesPerView]="1"
+            [spaceBetween]="30"
+            [loop]="true"
+            [pagination]="{
+            clickable: true
+            }"
+            [navigation]="true"
+            class="mySwiper"
+            >
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/112.jpg" class="img-fluid" /></ng-template
+            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/113.jpg" class="img-fluid" /></ng-template
+            >
+            </swiper>
+        </div>
+        <div class="col-lg-4">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque qui alias magnam molestias iure consequuntur dolores, reprehenderit corrupti rem quam. Porro voluptatem error optio dolor cum quam harum, autem aliquam?</p>
+        </div>
+    </div>
+</div>

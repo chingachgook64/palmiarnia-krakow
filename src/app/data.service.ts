@@ -11,18 +11,28 @@ export class DataService {
     {
       name: "Szorstkowiec_Fortunego",
       title: "Szorstkowiec Fortunego",
-      description: "gatunek drzewa z rodziny arekowatych. Pochodzi z gór południowych i środkowych Chin, poza tym występuje w Bhutanie, Nepalu, północnych Indiach, Mjanmie i Wietnamie, a jako gatunek naturalizowany także w Japonii. Nazwa upamiętnia Roberta Fortune'a, który przywiózł tę roślinę z Chin do Europy. Gatunek jest uprawiany już w Europie od ponad 160 lat jako roślina ozdobna. Ze względu na relatywnie, jak na palmę, dużą odporność na niskie temperatury jest popularna w uprawie w krajach klimatu umiarkowanego. Z włókna otrzymanego z liści w niektórych krajach wykonuje się miotły, powrozy, nieprzemakalne płaszcze, kapelusze i inne wyroby."
+      description: "gatunek drzewa z rodziny arekowatych. Pochodzi z gór południowych i środkowych Chin, poza tym występuje w Bhutanie, Nepalu, północnych Indiach, Mjanmie i Wietnamie, a jako gatunek naturalizowany także w Japonii. Nazwa upamiętnia Roberta Fortune'a, który przywiózł tę roślinę z Chin do Europy. Gatunek jest uprawiany już w Europie od ponad 160 lat jako roślina ozdobna. Ze względu na relatywnie, jak na palmę, dużą odporność na niskie temperatury jest popularna w uprawie w krajach klimatu umiarkowanego. Z włókna otrzymanego z liści w niektórych krajach wykonuje się miotły, powrozy, nieprzemakalne płaszcze, kapelusze i inne wyroby.",
+      images: []
     },
     {
-      name: "Karlatka_niska",
-      title: "Karłatka niska",
-      description: "gatunek wiecznie zielonej rośliny z rodziny arekowatych. Jedyny przedstawiciel monotypowego rodzaju karłatka. Jako łatwy gatunek do uprawy, sadzony jest także poza swym pierwotnym zasięgiem, w tym uprawiany jest jako roślina doniczkowa. Owoce są niejadalne i nie mają wartości użytkowej."
+      name: "Karlatka",
+      title: "Karłatka",
+      description: "",
+      subspieces: [
+        {
+          title: "Karłatka niska",
+          description: "gatunek wiecznie zielonej rośliny z rodziny arekowatych. Jedyny przedstawiciel monotypowego rodzaju karłatka. Jako łatwy gatunek do uprawy, sadzony jest także poza swym pierwotnym zasięgiem, w tym uprawiany jest jako roślina doniczkowa. Owoce są niejadalne i nie mają wartości użytkowej.",
+          images: []
+        },
+        {
+          name: "Karlatka_niebieska",
+          title: "Karłatka niebieska (chamaerops humilis)",
+          description: "jest jedyną w Eruopie rodzimą palmą. Jej zasięg obejmuje zachodnią część obszaru śródziemnomorskiego, od południowych Włoch do południowej Hiszpanii oraz Afrykę, wzdłuż wybrzeża północnoafrykańskiego, od Tunezji do Maroka. Obecnie bywa uprawiana, w celach ozdobnych, na większym obszarze, między innymi na południu Chorwacji i Grecji. Ta wdzięczna i niewybredna roślina bardzo dobrze nadaje się zarówno do miejsc słonecznych jak i zacienonych. Odmiana Carifera cechuje się kolorem liści, które są z góry jak i dołu srebrzysto-niebieskie.",
+          images: []
+        },
+      ]
     },
-    {
-      name: "Karlatka_niebieska",
-      title: "Karłatka niebieska (chamaerops humilis)",
-      description: "jest jedyną w Eruopie rodzimą palmą. Jej zasięg obejmuje zachodnią część obszaru śródziemnomorskiego, od południowych Włoch do południowej Hiszpanii oraz Afrykę, wzdłuż wybrzeża północnoafrykańskiego, od Tunezji do Maroka. Obecnie bywa uprawiana, w celach ozdobnych, na większym obszarze, między innymi na południu Chorwacji i Grecji. Ta wdzięczna i niewybredna roślina bardzo dobrze nadaje się zarówno do miejsc słonecznych jak i zacienonych. Odmiana Carifera cechuje się kolorem liści, które są z góry jak i dołu srebrzysto-niebieskie. "
-    },
+
     {
       name: "Waszyngtonia_nitkowata",
       title: "Waszyngtonia nitkowata (Filifera)",
@@ -108,20 +118,21 @@ export class DataService {
       description: "nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C."
     },
     {
-      title: "Wachlica długa",
-      description: "znana jako dasylirion longissimum, meksykańskie drzewo trawiaste, to gatunek rośliny kwitnącej na pustyni Chihuahuan i innych siedliskach kserograficznych w północno-wschodnim Meksyku."
-    },
-    {
-      title: "Dasylirion wheeleri",
-      description: "gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie."
-    },
-    {
-      title: "Dasylirion serratifolium",
-      description: "gatunek rosnący w Meksyku na wysokości ok 2 tysięcy metrów, w suchym i skalistym terenie krzewiasta i zimozielona roślina cechuje się powolnym wzrostem i dorasta do ok 3 metrów. Pień pełen dekoracyjnych pióropuszy liści o długości około 1,2 metra.Długie na niemal 5 metrów kwiatostany w formie kolby wyrastają podczas kwitnienia pięknie zdobiąc roślinę. Kwiatostan podobnie jak w przypadku odmiany Dasylirion Wheeleri koloru biało beżowego. Roślina dobrze znosi suszę i duże nasłonecznienie. Jej mrozoodporność szacowana jest na około minus 15 stopni."
-    },
-    {
-      title: "Dasylirion wheeleri",
-      description: "gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie."
+      title: "Dasylirion",
+      description: "",
+      subspieces: [
+        {
+          title: "Dasylirion wheeleri",
+          description: "gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie.",
+          images: []
+        },
+        {
+          title: "Dasylirion serratifolium",
+          description: "gatunek rosnący w Meksyku na wysokości ok 2 tysięcy metrów, w suchym i skalistym terenie krzewiasta i zimozielona roślina cechuje się powolnym wzrostem i dorasta do ok 3 metrów. Pień pełen dekoracyjnych pióropuszy liści o długości około 1,2 metra.Długie na niemal 5 metrów kwiatostany w formie kolby wyrastają podczas kwitnienia pięknie zdobiąc roślinę. Kwiatostan podobnie jak w przypadku odmiany Dasylirion Wheeleri koloru biało beżowego. Roślina dobrze znosi suszę i duże nasłonecznienie. Jej mrozoodporność szacowana jest na około minus 15 stopni.",
+          images: []
+        },
+      ]
+
     },
     {
       title: "Sagowiec odwinięty",
