@@ -37,8 +37,8 @@ export class DataService {
       ]
     },
     {
-      name: "Waszyngtonie",
-      title: "Waszyngtonie",
+      name: "Waszyngtonia",
+      title: "Waszyngtonia",
       images: [],
       subspieces: [
         {
@@ -74,55 +74,117 @@ export class DataService {
     {
       name: "Bismarckia_nobilis",
       title: "Bismarckia nobilis",
+      images: [
+        "../assets/content/bismarckia_nobilis/1.jpeg",
+        "../assets/content/bismarckia_nobilis/2.jpeg",
+        "../assets/content/bismarckia_nobilis/3.jpeg",
 
-      images: [],
+      ],
       subspieces: [
         {
           title: "Bismarckia nobilis",
           description: "Bismarckia nobilis – jedyny gatunek z monotypowego rodzaju Bismarckia Hildebrandt. Palma ta występuje naturalnie na terenie Madagaskaru, gdzie jest dość rzadka. Poza tym jednak jest szeroko rozpowszechniona w uprawie jako roślina ozdobna.",
+          images: [
+            "../assets/content/bismarckia_nobilis/1.jpeg",
+            "../assets/content/bismarckia_nobilis/2.jpeg",
+            "../assets/content/bismarckia_nobilis/3.jpeg",
+            "../assets/content/bismarckia_nobilis/4.jpeg",
+            "../assets/content/bismarckia_nobilis/5.jpeg",
+            "../assets/content/bismarckia_nobilis/6.jpeg",
+          ]
+        }
+      ]
+    },
+    {
+      name: "Brahea",
+      title: "Brahea",
+      images: [],
+      subspieces: [
+        {
+          title: "Brahea armata",
+          description: "powszechnie znana jako meksykańska niebieska palma lub niebieska palma hesper, jest dużym wiecznie zielonym drzewem z rodziny arekowatych, pochodzącym z Baja California w Meksyku. Jest powszechnie sadzony jako roślina ozdobna. Dorasta do wysokości 15 metrów z grubym pniem.",
+          images: []
+        },
+        {
+          title: "Brahea edulis",
+          description: "palma Guadalupe lub palma de Guadalupe, jest endemiczną palmą występującą na wyspie Guadalupe w Meksyku, chociaż kilka drzewostanów zostało posadzonych w innych miejscach. Jest to palma wachlarzowa, która rośnie od 4,50 do 13 metrów. Rośnie na wysokości między 400 a 1000 metrów nad poziomem morza.",
+          images: []
+        },
+      ]
+    },
+
+    {
+      name: "Jubea_chilensis",
+      title: "Jubaea chilensis",
+      description: "gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich."
+    },
+    {
+      name: "Palma_sabalowa",
+      title: "Palma sabałowa",
+      images: [],
+      subspieces: [
+        {
+          title: "Palma sabałowa",
+          description: " gatunek roślin, należący do rodziny arekowatych (palm). Pochodzi z Ameryki Północnej, gdzie na naturalnych stanowiskach rośnie w USA w stanach: Oklahoma, Alabama, Arkansas, Floryda, Georgia, Luizjana, Missisipi, Karolina Północna i Karolina Południowa. Jest to krzaczasta palma o wysokości do 2 m i szerokości do 1 m. Ma bardzo krótki pęd, który zazwyczaj nie wyrasta ponad ziemię, lub tylko bardzo niewiele. Na jego szczycie wyrasta pióropusz liści. Są one sztywne, zielone lub niebieskozielone i podzielone na taśmowate listki. W krajach o cieplejszym klimacie palma ta jest uprawiana jako ogrodowa roślina ozdobna. Może też być w pojemnikach uprawiana na balkonach, w altanach, itp. W Polsce jest uprawiana jako roślina pokojowa, latem wystawiana na zewnątrz domu. Może być również hodowana na powietrzu pod warunkiem zapewnienia odpowiedniej osłony zimowej (ze szczególnym wskazaniem na dogrzewanie.",
+          images: []
+        },
+        {
+          title: "Sabal palmetto",
+          description: "opis wymaga uzupełnienia",
+          images: []
+        }
+      ]
+    },
+
+    {
+      name: "Butia",
+      title: "Butia",
+      images: [
+        "../assets/content/Butia/1.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Butia capitata",
+          description: "opis wymaga uzupełnienia",
+          images: []
+        },
+        {
+          title: "Butia capitata (palma dżemowa)",
+          description: "jedna z bardziej wytrzymałych palm – dorosła roślina potrafi znieść mrozy nawet do -12 stopni. Może upiększać taras, czy ogród od wczesnej wiosny do późnej jesieni. Dobrze znosi także hodowle domową, nie ma zbyt wielkich wymagań, potrzebuje przede wszystkim słonecznego stanowiska. Ma bardzo efektowne niebiesko-zielone liście pokrojem przypominające strusie pióra. Hodowana w doniczce dorasta do około 1,5m wysokości. Dużym atutem tej rośliny jest to, że produkuje jadalne, smaczne owoce, które w miejscu naturalnego występowania palmy, służą przede wszystkim do wyrobu dżemów oraz innych przetworów (stąd jej popularna nazwa - palma dżemowa).",
+          images: []
+        },
+        {
+          title: "Butia Yatay",
+          description: "galaretowa palma lub palma yatay, to palma Butia pochodząca z południowej Brazylii, Urugwaju i północnej Argentyny. Jest znany jako butiá-jataí w języku portugalskim na południu Brazylii, a także po prostu jataí lub butiá. Czasami jest uprawiany jako roślina ozdobna w Europie i Stanach Zjednoczonych.",
+          images: []
+        },
+      ]
+
+    },
+
+    {
+      name: "Archontophoenix_alexandrae",
+      title: "Archontophoenix alexandrae",
+      images: [],
+      subspieces: [
+        {
+          title: "Archontophoenix alexandrae",
+          description: "gatunek pochodzi z lasów deszczowych porastających nadbrzeże północno-wschodniej Australii. Ma piękny, smukły, szary pień i rozszerzoną podstawę liści z widocznymi śladami po opadłych liściach. Duże, pierzaste liście są jasnozielone od góry, srebrno-białe od spodu. Wykształca białe rozgałęzione kwiatostany, które zwisają spomiędzy liści. Owoce są okrągłe i czerwone. Dobrze rośnie w wilgotnej ziemi, ważny jest też dobry drenaż. Kiedy jest sucho warto pamiętać o dodatkowym podlewaniu. Dobrze odnajduje się w pełnym słońcu i półcieniu. Ta piękna palma doskonale nadaje się jako palma doniczkowa do jasnych pomieszczeń.",
           images: []
         }
       ]
     },
     {
-      name: "Szorstkowiec_Fortunego",
-      title: "Palma dżemowa (Butia capitata)",
-      description: "jedna z bardziej wytrzymałych palm – dorosła roślina potrafi znieść mrozy nawet do -12 stopni. Może upiększać taras, czy ogród od wczesnej wiosny do późnej jesieni. Dobrze znosi także hodowle domową, nie ma zbyt wielkich wymagań, potrzebuje przede wszystkim słonecznego stanowiska. Ma bardzo efektowne niebiesko-zielone liście pokrojem przypominające strusie pióra. Hodowana w doniczce dorasta do około 1,5m wysokości. Dużym atutem tej rośliny jest to, że produkuje jadalne, smaczne owoce, które w miejscu naturalnego występowania palmy, służą przede wszystkim do wyrobu dżemów oraz innych przetworów (stąd jej popularna nazwa - palma dżemowa)."
-    },
-    {
-      name: "Szorstkowiec_Fortunego",
-      title: "Brahea armata",
-      description: "powszechnie znana jako meksykańska niebieska palma lub niebieska palma hesper, jest dużym wiecznie zielonym drzewem z rodziny arekowatych, pochodzącym z Baja California w Meksyku. Jest powszechnie sadzony jako roślina ozdobna. Dorasta do wysokości 15 metrów z grubym pniem."
-    },
-    {
-      name: "Szorstkowiec_Fortunego",
-      title: "Brahea edulis",
-      description: "palma Guadalupe lub palma de Guadalupe, jest endemiczną palmą występującą na wyspie Guadalupe w Meksyku, chociaż kilka drzewostanów zostało posadzonych w innych miejscach. Jest to palma wachlarzowa, która rośnie od 4,50 do 13 metrów. Rośnie na wysokości między 400 a 1000 metrów nad poziomem morza."
-    },
-    {
-      name: "Szorstkowiec_Fortunego",
-      title: "Jubaea chilensis",
-      description: "gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich."
-    },
-    {
-      name: "Szorstkowiec_Fortunego",
-      title: "Palma sabalowa",
-      description: " gatunek roślin, należący do rodziny arekowatych (palm). Pochodzi z Ameryki Północnej, gdzie na naturalnych stanowiskach rośnie w USA w stanach: Oklahoma, Alabama, Arkansas, Floryda, Georgia, Luizjana, Missisipi, Karolina Północna i Karolina Południowa. Jest to krzaczasta palma o wysokości do 2 m i szerokości do 1 m. Ma bardzo krótki pęd, który zazwyczaj nie wyrasta ponad ziemię, lub tylko bardzo niewiele. Na jego szczycie wyrasta pióropusz liści. Są one sztywne, zielone lub niebieskozielone i podzielone na taśmowate listki. W krajach o cieplejszym klimacie palma ta jest uprawiana jako ogrodowa roślina ozdobna. Może też być w pojemnikach uprawiana na balkonach, w altanach, itp. W Polsce jest uprawiana jako roślina pokojowa, latem wystawiana na zewnątrz domu. Może być również hodowana na powietrzu pod warunkiem zapewnienia odpowiedniej osłony zimowej (ze szczególnym wskazaniem na dogrzewanie."
-    },
-    {
-      name: "Szorstkowiec_Fortunego",
-      title: "Butia Yatay",
-      description: "galaretowa palma lub palma yatay, to palma Butia pochodząca z południowej Brazylii, Urugwaju i północnej Argentyny. Jest znany jako butiá-jataí w języku portugalskim na południu Brazylii, a także po prostu jataí lub butiá. Czasami jest uprawiany jako roślina ozdobna w Europie i Stanach Zjednoczonych."
-    },
-    {
-      name: "Szorstkowiec_Fortunego",
-      title: "Archontophoenix alexandrae",
-      description: "gatunek pochodzi z lasów deszczowych porastających nadbrzeże północno-wschodniej Australii. Ma piękny, smukły, szary pień i rozszerzoną podstawę liści z widocznymi śladami po opadłych liściach. Duże, pierzaste liście są jasnozielone od góry, srebrno-białe od spodu. Wykształca białe rozgałęzione kwiatostany, które zwisają spomiędzy liści. Owoce są okrągłe i czerwone. Dobrze rośnie w wilgotnej ziemi, ważny jest też dobry drenaż. Kiedy jest sucho warto pamiętać o dodatkowym podlewaniu. Dobrze odnajduje się w pełnym słońcu i półcieniu. Ta piękna palma doskonale nadaje się jako palma doniczkowa do jasnych pomieszczeń."
-    },
-    {
-      name: "Szorstkowiec_Fortunego",
+      name: "Palma_kokosowa",
       title: "Palma kokosowa",
-      description: "gatunek pochodzi z południowo-wschodniej Azji lub z północno-zachodniej Ameryki Południowej. Kopalne szczątki z Nowej Zelandii wskazują, że rośliny o małych orzechach kokosowych rosły tam już przed 15 milionami lat. Najstarsze skamieniałości były znajdowane w Radżastanie w Indiach. Jej owoce wyrzucone przez morze i zdolne do kiełkowania znajdowano w Norwegii. Obecnie jest najczęściej występującą palmą, gdyż rośnie wzdłuż wszystkich tropikalnych brzegów morskich. Dorasta do 30 m wysokości. Ma pierzaste liście o 4–6 m długości i szerokości 60–90 cm."
+      images: [],
+      subspieces: [
+        {
+          title: "Palma kokosowa",
+          description: "gatunek pochodzi z południowo-wschodniej Azji lub z północno-zachodniej Ameryki Południowej. Kopalne szczątki z Nowej Zelandii wskazują, że rośliny o małych orzechach kokosowych rosły tam już przed 15 milionami lat. Najstarsze skamieniałości były znajdowane w Radżastanie w Indiach. Jej owoce wyrzucone przez morze i zdolne do kiełkowania znajdowano w Norwegii. Obecnie jest najczęściej występującą palmą, gdyż rośnie wzdłuż wszystkich tropikalnych brzegów morskich. Dorasta do 30 m wysokości. Ma pierzaste liście o 4–6 m długości i szerokości 60–90 cm.",
+          images: []
+        }
+      ]
     },
   ];
 
