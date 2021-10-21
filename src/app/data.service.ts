@@ -98,7 +98,9 @@ export class DataService {
     {
       name: "Brahea",
       title: "Brahea",
-      images: [],
+      images: [
+        "../assets/content/brahea/1.jpeg",
+      ],
       subspieces: [
         {
           title: "Brahea armata",
@@ -116,7 +118,18 @@ export class DataService {
     {
       name: "Jubea_chilensis",
       title: "Jubaea chilensis",
-      description: "gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich."
+      images: [
+        "../assets/content/jubea_chilensis/1.jpeg",
+        "../assets/content/jubea_chilensis/2.jpeg",
+        "../assets/content/jubea_chilensis/3.jpeg"
+      ],
+      subspieces: [
+        {
+          title: "Jubaea chilensis",
+          description: "gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich.",
+          images: []
+        }
+      ]
     },
     {
       name: "Palma_sabalowa",
@@ -140,7 +153,7 @@ export class DataService {
       name: "Butia",
       title: "Butia",
       images: [
-        "../assets/content/Butia/1.jpeg",
+        "../assets/content/butia/1.jpeg",
       ],
       subspieces: [
         {
