@@ -9,12 +9,16 @@ export class DataService {
 
   palmsData = [
     {
-      name: "Szorstkowiec_Fortunego",
-      title: "Szorstkowiec Fortunego",
-      images: [],
+      name: "trachycarpus_fortunei",
+      title: "Trachycarpus fortunei",
+      images: [
+        "../assets/content/trachycarpus_fortunei/1.jpeg",
+        "../assets/content/trachycarpus_fortunei/2.jpeg",
+        "../assets/content/trachycarpus_fortunei/3.jpeg",
+      ],
       subspieces: [
         {
-          title: "Szorstkowiec Fortunego",
+          title: "Trachycarpus fortunei (szorstkowiec fortunego)",
           description: "gatunek drzewa z rodziny arekowatych. Pochodzi z gór południowych i środkowych Chin, poza tym występuje w Bhutanie, Nepalu, północnych Indiach, Mjanmie i Wietnamie, a jako gatunek naturalizowany także w Japonii. Nazwa upamiętnia Roberta Fortune'a, który przywiózł tę roślinę z Chin do Europy. Gatunek jest uprawiany już w Europie od ponad 160 lat jako roślina ozdobna. Ze względu na relatywnie, jak na palmę, dużą odporność na niskie temperatury jest popularna w uprawie w krajach klimatu umiarkowanego. Z włókna otrzymanego z liści w niektórych krajach wykonuje się miotły, powrozy, nieprzemakalne płaszcze, kapelusze i inne wyroby.",
           images: []
         }
@@ -57,7 +61,11 @@ export class DataService {
     {
       name: "Phoenix",
       title: "Phoenix",
-      images: [],
+      images: [
+        "../assets/content/phoenix/1.jpeg",
+        "../assets/content/phoenix/2.jpeg",
+        "../assets/content/phoenix/3.jpeg",
+      ],
       subspieces: [
         {
           title: "Phoenix  canarsis",
@@ -176,12 +184,17 @@ export class DataService {
     },
 
     {
-      name: "Archontophoenix_alexandrae",
-      title: "Archontophoenix alexandrae",
-      images: [],
+      name: "Aarchontophoenics_alexandra",
+      title: "Aarchontophoenics alexandra",
+      images: [
+        "../assets/content/archontophoenics_alexandra/1.jpeg",
+        "../assets/content/archontophoenics_alexandra/2.jpeg",
+        "../assets/content/archontophoenics_alexandra/3.jpeg",
+
+      ],
       subspieces: [
         {
-          title: "Archontophoenix alexandrae",
+          title: "Aarchontophoenics alexandra",
           description: "gatunek pochodzi z lasów deszczowych porastających nadbrzeże północno-wschodniej Australii. Ma piękny, smukły, szary pień i rozszerzoną podstawę liści z widocznymi śladami po opadłych liściach. Duże, pierzaste liście są jasnozielone od góry, srebrno-białe od spodu. Wykształca białe rozgałęzione kwiatostany, które zwisają spomiędzy liści. Owoce są okrągłe i czerwone. Dobrze rośnie w wilgotnej ziemi, ważny jest też dobry drenaż. Kiedy jest sucho warto pamiętać o dodatkowym podlewaniu. Dobrze odnajduje się w pełnym słońcu i półcieniu. Ta piękna palma doskonale nadaje się jako palma doniczkowa do jasnych pomieszczeń.",
           images: []
         }
