@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { DataService } from 'src/app/data.service';
 
 @Component({
   selector: 'app-palm-details',
@@ -9,17 +10,20 @@ import { ActivatedRoute } from '@angular/router';
 export class PalmDetailsComponent implements OnInit {
 
   name: string = "";
+  palmData: any;
 
-  constructor(private route: ActivatedRoute) { }
+  constructor(private route: ActivatedRoute, private dataService: DataService) { }
 
   ngOnInit(): void {
     this.route.queryParams
       .subscribe(params => {
-        console.log(params); // { order: "popular" }
+        console.log(params);
 
         this.name = params.name;
 
       }
       );
+
+    this.palmData = this.dataService.getPalmData(this.name);
   }
 }

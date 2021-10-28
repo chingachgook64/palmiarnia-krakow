@@ -1,8 +1,8 @@
 <div class="spacer"></div>
-<div class="container">
-    <h2>Jakaś palma</h2>
+<div class="container"  *ngFor="let subspiece of palmData">
+    <h2>{{subspiece.title}}</h2>
     <div class="row">
-        <div class="col-lg-8 swiper-container">
+        <div class="col-lg-6 swiper-container">
             <swiper
             [slidesPerView]="1"
             [spaceBetween]="30"
@@ -13,14 +13,15 @@
             [navigation]="true"
             class="mySwiper"
             >
-            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/112.jpg" class="img-fluid" /></ng-template
+            <ng-template *ngFor="let image of subspiece.images"  swiperSlide><img src={{image}} class="img-fluid" /></ng-template>
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/112.jpg" class="img-fluid" /></ng-template
             ><ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/113.jpg" class="img-fluid" /></ng-template
             >
             </swiper>
         </div>
-        <div class="col-lg-4">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque qui alias magnam molestias iure consequuntur dolores, reprehenderit corrupti rem quam. Porro voluptatem error optio dolor cum quam harum, autem aliquam?</p>
+        <div class="col-lg-6">
+            <p>{{subspiece.description}}</p>
         </div>
     </div>
+    <div class="spacer"></div>
 </div>
