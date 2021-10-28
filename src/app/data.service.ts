@@ -43,7 +43,11 @@ export class DataService {
     {
       name: "Waszyngtonia",
       title: "Waszyngtonia",
-      images: [],
+      images: [
+        "../assets/content/waszyngtonia/1.jpeg",
+        "../assets/content/waszyngtonia/2.jpeg",
+        "../assets/content/waszyngtonia/3.jpeg",
+      ],
       subspieces: [
         {
           title: "Waszyngtonia nitkowata (Filifera)",
