@@ -30,6 +30,7 @@ export class DataService {
             "../assets/content/trachycarpus_fortunei/7.jpeg",
             "../assets/content/trachycarpus_fortunei/8.jpeg",
             "../assets/content/trachycarpus_fortunei/9.jpeg",
+
           ]
         }
       ]
@@ -171,7 +172,9 @@ export class DataService {
         {
           title: "Jubaea chilensis",
           description: "Gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich.",
-          images: []
+          images: [
+            "../assets/content/jubea_chilensis/1.jpeg",
+          ]
         }
       ]
     },

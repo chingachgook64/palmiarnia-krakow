@@ -15,6 +15,8 @@ export class PalmsComponent implements OnInit {
   palmsData = this.dataService.getAllPalmsData();
 
   ngOnInit(): void {
+
+    window.scrollTo(0, 0);
   }
 
   goToPalmDetails(name: string) {

@@ -7,7 +7,15 @@ import { Component } from '@angular/core';
 
 })
 export class AppComponent {
+
   title = 'palmiarnia-krakow';
+
+
+  onActivate(event: any) {
+    window.scroll(0, 0);
+    //or document.body.scrollTop = 0;
+    //or document.querySelector('body').scrollTo(0,0)
+  }
 
 
 }
