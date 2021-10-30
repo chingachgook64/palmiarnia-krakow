@@ -3,7 +3,6 @@
       <a class="navbar-brand" href="#" style="margin-left: 25px;">
         <img
           src="../../assets/LOGO2.png"
-          height="150"
           alt=""
           loading="lazy"
         />
@@ -28,16 +27,16 @@
             <a class="nav-link active" aria-current="page" href="#">Strona główna</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" (click)="scrollToElement('aboutUs')" href="#">O nas</a>
+            <a class="nav-link" routerLink="o_nas">O nas</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" (click)="scrollToElement('offer')" href="#">Oferta</a>
+            <a class="nav-link" routerLink="/oferta">Oferta</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" (click)="scrollToElement('ourPlants')" href="#">Nasze rośliny u klientów</a>
+            <a class="nav-link" routerLink="/nasze_rosliny_u_klientow">Nasze rośliny u klientów</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" (click)="scrollToElement('contact')" href="#">Kontakt</a>
+            <a class="nav-link" routerLink="/kontakt">Kontakt</a>
           </li>
         </ul>
       </div>

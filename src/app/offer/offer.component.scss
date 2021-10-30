@@ -1,0 +1,50 @@
+.offer {
+
+  justify-content: space-around;
+
+  .offer-option-container {
+
+    position: relative;
+    padding: 8px;
+
+    .offer-option {
+      text-align: center;
+      height: 240px;
+
+      margin-bottom: 8px;
+      overflow: hidden;
+
+      .btn {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background: rgba(92, 150, 7, 0.8);
+        color: white;
+        font-size: 18px;
+        width: 160px;
+        height: 80px;
+        padding: 12px 24x;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+
+    }
+
+    .offer-option:hover .btn {
+      background-color: #F59122;
+      transition: ease-out
+    }
+
+    .offer-option:hover a {
+      background-color: #F59122;
+      transition: ease-out
+    }
+
+
+
+  }
+
+}

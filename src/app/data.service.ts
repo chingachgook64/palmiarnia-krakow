@@ -24,6 +24,12 @@ export class DataService {
             "../assets/content/trachycarpus_fortunei/1.jpeg",
             "../assets/content/trachycarpus_fortunei/2.jpeg",
             "../assets/content/trachycarpus_fortunei/3.jpeg",
+            "../assets/content/trachycarpus_fortunei/4.jpeg",
+            "../assets/content/trachycarpus_fortunei/5.jpeg",
+            "../assets/content/trachycarpus_fortunei/6.jpeg",
+            "../assets/content/trachycarpus_fortunei/7.jpeg",
+            "../assets/content/trachycarpus_fortunei/8.jpeg",
+            "../assets/content/trachycarpus_fortunei/9.jpeg",
           ]
         }
       ]
@@ -56,12 +62,25 @@ export class DataService {
         {
           title: "Waszyngtonia nitkowata (Filifera)",
           description: "Pochodzi z północno-zachodniego Meksyku. Jest jedną z tych palm, które przykuwają naszą uwagę sowim naprawdę wyjątkowym wyglądem. Palma ta zawdzięcza to ozdobnym włóknom zwisającym z wachlarzowatych liści. Z tym też związana jest jej nazwa, ponieważ filifera z łaciny oznacza mająca włókna. Doskonale nadaje się do uprawy w pojemnikach. Szybko rośnie, w mieszkaniu wymaga dużo miejsca oraz wysokiej wilgotności powietrza. Latem można ją bez obaw wynosić na zewnątrz. Najlepiej prezentuje się samotnie - wtedy dobrze widoczne są jej dekoracyjne liście i pień.",
-          images: []
+          images: [
+            "../assets/content/waszyngtonia/1.jpeg",
+            "../assets/content/waszyngtonia/2.jpeg",
+            "../assets/content/waszyngtonia/3.jpeg",
+            "../assets/content/waszyngtonia/5.jpeg",
+            "../assets/content/waszyngtonia/6.jpeg",
+          ]
         },
         {
           title: "Waszyngtonia robusta",
           description: "Pochodzi z suchych obszarów na terenie Meksyku, gdzie ma dostęp do wód gruntowych. Rośnie również w południowych regionach USA. Washingtonia robusta zwana jest Meksykańską. W naturze pnie przysłonięte są suchymi, opadniętymi liśćmi, które tworzą wokół pnia warstwową spódniczkę.",
-          images: []
+          images: [
+            "../assets/content/waszyngtonia/7.jpeg",
+            "../assets/content/waszyngtonia/8.jpeg",
+            "../assets/content/waszyngtonia/9.jpeg",
+            "../assets/content/waszyngtonia/10.jpeg",
+            "../assets/content/waszyngtonia/11.jpeg",
+            "../assets/content/waszyngtonia/12.jpeg",
+          ]
         },
       ]
     },

@@ -12,6 +12,10 @@
 @import "~swiper/css/pagination";
 @import "~swiper/css/navigation";
 
+body {
+  min-height: 100vh;
+}
+
 .swiper {
   width: 100%;
   height: 100%;

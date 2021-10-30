@@ -25,6 +25,9 @@ import { PalmDetailsComponent } from './offer/palms/palm-details/palm-details.co
 import { ExoticPlantsDetailsComponent } from './offer/exotic-plants/exotic-plants-details/exotic-plants-details.component';
 import { OliveTreesDetailsComponent } from './offer/olive-trees/olive-trees-details/olive-trees-details.component';
 import { YuccasDetailsComponent } from './offer/yuccas/yuccas-details/yuccas-details.component';
+import { OfferComponent } from './offer/offer.component';
+import { PlantsAtCustomersComponent } from './plants-at-customers/plants-at-customers.component';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
@@ -42,6 +45,9 @@ import { YuccasDetailsComponent } from './offer/yuccas/yuccas-details/yuccas-det
     ExoticPlantsDetailsComponent,
     OliveTreesDetailsComponent,
     YuccasDetailsComponent,
+    OfferComponent,
+    PlantsAtCustomersComponent,
+    AboutComponent,
   ],
   imports: [
     BrowserModule,
