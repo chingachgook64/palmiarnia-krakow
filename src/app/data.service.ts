@@ -30,6 +30,9 @@ export class DataService {
             "../assets/content/trachycarpus_fortunei/7.jpeg",
             "../assets/content/trachycarpus_fortunei/8.jpeg",
             "../assets/content/trachycarpus_fortunei/9.jpeg",
+            "../assets/content/trachycarpus_fortunei/10.jpeg",
+            "../assets/content/trachycarpus_fortunei/11.jpeg",
+            "../assets/content/trachycarpus_fortunei/12.jpeg",
 
           ]
         }
@@ -98,17 +101,49 @@ export class DataService {
         {
           title: "Phoenix  canarsis",
           description: "Gatunek rośliny z rodziny arekowatych, pochodzący z zachodniego wybrzeża Afryki, najprawdopodobniej z Wysp Kanaryjskich. Nazywana jest palmą królewską. Ze względu na atrakcyjny wygląd daktylowiec kanaryjski jest często uprawiany w cieplejszych, na ogół subtropikalnych regionach świata, szczególnie w klimacie śródziemnomorskim. Roślina ta występuje od południowej Wielkiej Brytanii na wyspie Tresco aż po południe Chile. Bardzo popularna jest w całej południowej Europie, a także w cieplejszych regionach USA, Australii, Nowej Zelandii, południowej Afryce, Chile i Argentynie. W Polsce ze względu na klimat uprawiana jest w oranżeriach lub w pojemnikach jako roślina pokojowa.",
-          images: [],
+          images: [
+            "../assets/content/phoenix/phoenix_canariensis/1.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/2.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/3.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/4.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/5.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/6.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/7.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/8.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/9.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/10.jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/11jpeg",
+            "../assets/content/phoenix/phoenix_canariensis/12.jpeg",
+          ],
         },
         {
           title: "Phoenix  actylifera",
           description: "opis wymaga uzupełnienia",
-          images: [],
+          images: [
+            "../assets/content/phoenix/phoenix_actylifera/2.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/3.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/4.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/5.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/6.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/7.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/8.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/9.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/10.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/11.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/12.jpeg",
+            "../assets/content/phoenix/phoenix_actylifera/13.jpeg",
+          ],
         },
         {
           title: "Phoenix roebelini",
           description: "Gatunek rośliny z rodziny arekowatych, występujący naturalnie w północnych Indiach, Laosie i na południu Wietnamu. Daktylowiec niski może dorastać do 3 m. Ma pokrój krzaczasty, rosnąc dziko wytwarza liczne odrosty, w uprawie doniczkowej zazwyczaj ma tylko jeden pień. Młode pędy liściowe są pokryte szarawym nalotem. Rozwinięte liście są pierzaste, delikatne i ładnie wygięte, na łodygach mają cienkie, ostre kolce. Powierzchnia pnia przypomina fakturą niedojrzały ananas i pokryta jest w górnej części brązowymi włóknami.",
-          images: [],
+          images: [
+            "../assets/content/phoenix/phoenix _roebelini/1.jpeg",
+            "../assets/content/phoenix/phoenix _roebelini/2.jpeg",
+            "../assets/content/phoenix/phoenix _roebelini/3.jpeg",
+            "../assets/content/phoenix/phoenix _roebelini/4.jpeg",
+            "../assets/content/phoenix/phoenix _roebelini/5.jpeg",
+          ],
         },
       ]
     },
@@ -174,6 +209,8 @@ export class DataService {
           description: "Gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich.",
           images: [
             "../assets/content/jubea_chilensis/1.jpeg",
+            "../assets/content/jubea_chilensis/2.jpeg",
+            "../assets/content/jubea_chilensis/3.jpeg"
           ]
         }
       ]
@@ -206,17 +243,23 @@ export class DataService {
         {
           title: "Butia odorata",
           description: "opis wymaga uzupełnienia",
-          images: []
+          images: [
+            "../assets/content/butia/1.jpeg"
+          ]
         },
         {
           title: "Butia capitata (palma dżemowa)",
           description: "jedna z bardziej wytrzymałych palm – dorosła roślina potrafi znieść mrozy nawet do -12 stopni. Może upiększać taras, czy ogród od wczesnej wiosny do późnej jesieni. Dobrze znosi także hodowle domową, nie ma zbyt wielkich wymagań, potrzebuje przede wszystkim słonecznego stanowiska. Ma bardzo efektowne niebiesko-zielone liście pokrojem przypominające strusie pióra. Hodowana w doniczce dorasta do około 1,5m wysokości. Dużym atutem tej rośliny jest to, że produkuje jadalne, smaczne owoce, które w miejscu naturalnego występowania palmy, służą przede wszystkim do wyrobu dżemów oraz innych przetworów (stąd jej popularna nazwa - palma dżemowa).",
-          images: []
+          images: [
+            "../assets/content/butia/1.jpeg"
+          ]
         },
         {
           title: "Butia Yatay",
           description: "galaretowa palma lub palma yatay, to palma Butia pochodząca z południowej Brazylii, Urugwaju i północnej Argentyny. Jest znany jako butiá-jataí w języku portugalskim na południu Brazylii, a także po prostu jataí lub butiá. Czasami jest uprawiany jako roślina ozdobna w Europie i Stanach Zjednoczonych.",
-          images: []
+          images: [
+            "../assets/content/butia/1.jpeg"
+          ]
         },
       ]
 
@@ -235,7 +278,11 @@ export class DataService {
         {
           title: "Aarchontophoenics alexandra",
           description: "Gatunek pochodzi z lasów deszczowych porastających nadbrzeże północno-wschodniej Australii. Ma piękny, smukły, szary pień i rozszerzoną podstawę liści z widocznymi śladami po opadłych liściach. Duże, pierzaste liście są jasnozielone od góry, srebrno-białe od spodu. Wykształca białe rozgałęzione kwiatostany, które zwisają spomiędzy liści. Owoce są okrągłe i czerwone. Dobrze rośnie w wilgotnej ziemi, ważny jest też dobry drenaż. Kiedy jest sucho warto pamiętać o dodatkowym podlewaniu. Dobrze odnajduje się w pełnym słońcu i półcieniu. Ta piękna palma doskonale nadaje się jako palma doniczkowa do jasnych pomieszczeń.",
-          images: []
+          images: [
+            "../assets/content/archontophoenics_alexandra/1.jpeg",
+            "../assets/content/archontophoenics_alexandra/2.jpeg",
+            "../assets/content/archontophoenics_alexandra/3.jpeg",
+          ]
         }
       ]
     },
