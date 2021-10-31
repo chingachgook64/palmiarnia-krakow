@@ -1,1 +1,28 @@
-<p>yuccas works!</p>
+<div class="spacer"></div>
+<div class="container content-container">
+      <div class="row">
+        <div class="col-sm-4 yucca-card-container" *ngFor="let yucca of yuccasData">
+          <div class="card">
+            <swiper
+            [slidesPerView]="1"
+            [spaceBetween]="30"
+            [loop]="true"
+            [pagination]="{
+              clickable: true
+            }"
+            [navigation]="true"
+            class="mySwiper"
+            >
+      
+            <ng-template *ngFor="let image of yucca.images"  swiperSlide><img src={{image}} class="img-fluid" /></ng-template>
+            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
+            >
+            </swiper>
+            <div class="card-body pointer" (click)="goToYuccaDetails(yucca?.name)">
+              <h5 class="card-title">{{ yucca?.title }}</h5>
+            </div>
+          </div>
+        </div>
+    </div>
+</div>
+ 

@@ -12,27 +12,27 @@ export class DataService {
       name: "trachycarpus_fortunei",
       title: "Trachycarpus fortunei",
       images: [
-        "../assets/content/trachycarpus_fortunei/1.jpeg",
-        "../assets/content/trachycarpus_fortunei/2.jpeg",
-        "../assets/content/trachycarpus_fortunei/3.jpeg",
+        "../assets/content/palms/trachycarpus_fortunei/1.jpeg",
+        "../assets/content/palms/trachycarpus_fortunei/2.jpeg",
+        "../assets/content/palms/trachycarpus_fortunei/3.jpeg",
       ],
       subspieces: [
         {
           title: "Trachycarpus fortunei (szorstkowiec fortunego)",
           description: "Gatunek drzewa z rodziny arekowatych. Pochodzi z gór południowych i środkowych Chin, poza tym występuje w Bhutanie, Nepalu, północnych Indiach, Mjanmie i Wietnamie, a jako gatunek naturalizowany także w Japonii. Nazwa upamiętnia Roberta Fortune'a, który przywiózł tę roślinę z Chin do Europy. Gatunek jest uprawiany już w Europie od ponad 160 lat jako roślina ozdobna. Ze względu na relatywnie, jak na palmę, dużą odporność na niskie temperatury jest popularna w uprawie w krajach klimatu umiarkowanego. Z włókna otrzymanego z liści w niektórych krajach wykonuje się miotły, powrozy, nieprzemakalne płaszcze, kapelusze i inne wyroby.",
           images: [
-            "../assets/content/trachycarpus_fortunei/1.jpeg",
-            "../assets/content/trachycarpus_fortunei/2.jpeg",
-            "../assets/content/trachycarpus_fortunei/3.jpeg",
-            "../assets/content/trachycarpus_fortunei/4.jpeg",
-            "../assets/content/trachycarpus_fortunei/5.jpeg",
-            "../assets/content/trachycarpus_fortunei/6.jpeg",
-            "../assets/content/trachycarpus_fortunei/7.jpeg",
-            "../assets/content/trachycarpus_fortunei/8.jpeg",
-            "../assets/content/trachycarpus_fortunei/9.jpeg",
-            "../assets/content/trachycarpus_fortunei/10.jpeg",
-            "../assets/content/trachycarpus_fortunei/11.jpeg",
-            "../assets/content/trachycarpus_fortunei/12.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/1.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/2.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/3.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/4.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/5.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/6.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/7.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/8.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/9.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/10.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/11.jpeg",
+            "../assets/content/palms/trachycarpus_fortunei/12.jpeg",
 
           ]
         }
@@ -58,32 +58,32 @@ export class DataService {
       name: "Waszyngtonia",
       title: "Waszyngtonia",
       images: [
-        "../assets/content/waszyngtonia/1.jpeg",
-        "../assets/content/waszyngtonia/2.jpeg",
-        "../assets/content/waszyngtonia/3.jpeg",
+        "../assets/content/palms/waszyngtonia/1.jpeg",
+        "../assets/content/palms/waszyngtonia/2.jpeg",
+        "../assets/content/palms/waszyngtonia/3.jpeg",
       ],
       subspieces: [
         {
           title: "Waszyngtonia nitkowata (Filifera)",
           description: "Pochodzi z północno-zachodniego Meksyku. Jest jedną z tych palm, które przykuwają naszą uwagę sowim naprawdę wyjątkowym wyglądem. Palma ta zawdzięcza to ozdobnym włóknom zwisającym z wachlarzowatych liści. Z tym też związana jest jej nazwa, ponieważ filifera z łaciny oznacza mająca włókna. Doskonale nadaje się do uprawy w pojemnikach. Szybko rośnie, w mieszkaniu wymaga dużo miejsca oraz wysokiej wilgotności powietrza. Latem można ją bez obaw wynosić na zewnątrz. Najlepiej prezentuje się samotnie - wtedy dobrze widoczne są jej dekoracyjne liście i pień.",
           images: [
-            "../assets/content/waszyngtonia/1.jpeg",
-            "../assets/content/waszyngtonia/2.jpeg",
-            "../assets/content/waszyngtonia/3.jpeg",
-            "../assets/content/waszyngtonia/5.jpeg",
-            "../assets/content/waszyngtonia/6.jpeg",
+            "../assets/content/palms/waszyngtonia/1.jpeg",
+            "../assets/content/palms/waszyngtonia/2.jpeg",
+            "../assets/content/palms/waszyngtonia/3.jpeg",
+            "../assets/content/palms/waszyngtonia/5.jpeg",
+            "../assets/content/palms/waszyngtonia/6.jpeg",
           ]
         },
         {
           title: "Waszyngtonia robusta",
           description: "Pochodzi z suchych obszarów na terenie Meksyku, gdzie ma dostęp do wód gruntowych. Rośnie również w południowych regionach USA. Washingtonia robusta zwana jest Meksykańską. W naturze pnie przysłonięte są suchymi, opadniętymi liśćmi, które tworzą wokół pnia warstwową spódniczkę.",
           images: [
-            "../assets/content/waszyngtonia/7.jpeg",
-            "../assets/content/waszyngtonia/8.jpeg",
-            "../assets/content/waszyngtonia/9.jpeg",
-            "../assets/content/waszyngtonia/10.jpeg",
-            "../assets/content/waszyngtonia/11.jpeg",
-            "../assets/content/waszyngtonia/12.jpeg",
+            "../assets/content/palms/waszyngtonia/7.jpeg",
+            "../assets/content/palms/waszyngtonia/8.jpeg",
+            "../assets/content/palms/waszyngtonia/9.jpeg",
+            "../assets/content/palms/waszyngtonia/10.jpeg",
+            "../assets/content/palms/waszyngtonia/11.jpeg",
+            "../assets/content/palms/waszyngtonia/12.jpeg",
           ]
         },
       ]
@@ -93,56 +93,56 @@ export class DataService {
       name: "Phoenix",
       title: "Phoenix",
       images: [
-        "../assets/content/phoenix/1.jpeg",
-        "../assets/content/phoenix/2.jpeg",
-        "../assets/content/phoenix/3.jpeg",
+        "../assets/content/palms/phoenix/1.jpeg",
+        "../assets/content/palms/phoenix/2.jpeg",
+        "../assets/content/palms/phoenix/3.jpeg",
       ],
       subspieces: [
         {
           title: "Phoenix  canarsis",
           description: "Gatunek rośliny z rodziny arekowatych, pochodzący z zachodniego wybrzeża Afryki, najprawdopodobniej z Wysp Kanaryjskich. Nazywana jest palmą królewską. Ze względu na atrakcyjny wygląd daktylowiec kanaryjski jest często uprawiany w cieplejszych, na ogół subtropikalnych regionach świata, szczególnie w klimacie śródziemnomorskim. Roślina ta występuje od południowej Wielkiej Brytanii na wyspie Tresco aż po południe Chile. Bardzo popularna jest w całej południowej Europie, a także w cieplejszych regionach USA, Australii, Nowej Zelandii, południowej Afryce, Chile i Argentynie. W Polsce ze względu na klimat uprawiana jest w oranżeriach lub w pojemnikach jako roślina pokojowa.",
           images: [
-            "../assets/content/phoenix/phoenix_canariensis/1.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/2.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/3.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/4.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/5.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/6.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/7.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/8.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/9.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/10.jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/11jpeg",
-            "../assets/content/phoenix/phoenix_canariensis/12.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/1.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/2.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/3.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/4.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/5.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/6.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/7.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/8.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/9.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/10.jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/11jpeg",
+            "../assets/content/palms/phoenix/phoenix_canariensis/12.jpeg",
           ],
         },
         {
           title: "Phoenix  actylifera",
           description: "opis wymaga uzupełnienia",
           images: [
-            "../assets/content/phoenix/phoenix_actylifera/2.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/3.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/4.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/5.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/6.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/7.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/8.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/9.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/10.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/11.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/12.jpeg",
-            "../assets/content/phoenix/phoenix_actylifera/13.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/2.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/3.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/4.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/5.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/6.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/7.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/8.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/9.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/10.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/11.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/12.jpeg",
+            "../assets/content/palms/phoenix/phoenix_actylifera/13.jpeg",
           ],
         },
         {
           title: "Phoenix roebelini",
           description: "Gatunek rośliny z rodziny arekowatych, występujący naturalnie w północnych Indiach, Laosie i na południu Wietnamu. Daktylowiec niski może dorastać do 3 m. Ma pokrój krzaczasty, rosnąc dziko wytwarza liczne odrosty, w uprawie doniczkowej zazwyczaj ma tylko jeden pień. Młode pędy liściowe są pokryte szarawym nalotem. Rozwinięte liście są pierzaste, delikatne i ładnie wygięte, na łodygach mają cienkie, ostre kolce. Powierzchnia pnia przypomina fakturą niedojrzały ananas i pokryta jest w górnej części brązowymi włóknami.",
           images: [
-            "../assets/content/phoenix/phoenix _roebelini/1.jpeg",
-            "../assets/content/phoenix/phoenix _roebelini/2.jpeg",
-            "../assets/content/phoenix/phoenix _roebelini/3.jpeg",
-            "../assets/content/phoenix/phoenix _roebelini/4.jpeg",
-            "../assets/content/phoenix/phoenix _roebelini/5.jpeg",
+            "../assets/content/palms/phoenix/phoenix _roebelini/1.jpeg",
+            "../assets/content/palms/phoenix/phoenix _roebelini/2.jpeg",
+            "../assets/content/palms/phoenix/phoenix _roebelini/3.jpeg",
+            "../assets/content/palms/phoenix/phoenix _roebelini/4.jpeg",
+            "../assets/content/palms/phoenix/phoenix _roebelini/5.jpeg",
           ],
         },
       ]
@@ -151,9 +151,9 @@ export class DataService {
       name: "Bismarckia_nobilis",
       title: "Bismarckia nobilis",
       images: [
-        "../assets/content/bismarckia_nobilis/1.jpeg",
-        "../assets/content/bismarckia_nobilis/2.jpeg",
-        "../assets/content/bismarckia_nobilis/3.jpeg",
+        "../assets/content/palms/bismarckia_nobilis/1.jpeg",
+        "../assets/content/palms/bismarckia_nobilis/2.jpeg",
+        "../assets/content/palms/bismarckia_nobilis/3.jpeg",
 
       ],
       subspieces: [
@@ -161,12 +161,12 @@ export class DataService {
           title: "Bismarckia nobilis",
           description: "Bismarckia nobilis – jedyny gatunek z monotypowego rodzaju Bismarckia Hildebrandt. Palma ta występuje naturalnie na terenie Madagaskaru, gdzie jest dość rzadka. Poza tym jednak jest szeroko rozpowszechniona w uprawie jako roślina ozdobna.",
           images: [
-            "../assets/content/bismarckia_nobilis/1.jpeg",
-            "../assets/content/bismarckia_nobilis/2.jpeg",
-            "../assets/content/bismarckia_nobilis/3.jpeg",
-            "../assets/content/bismarckia_nobilis/4.jpeg",
-            "../assets/content/bismarckia_nobilis/5.jpeg",
-            "../assets/content/bismarckia_nobilis/6.jpeg",
+            "../assets/content/palms/bismarckia_nobilis/1.jpeg",
+            "../assets/content/palms/bismarckia_nobilis/2.jpeg",
+            "../assets/content/palms/bismarckia_nobilis/3.jpeg",
+            "../assets/content/palms/bismarckia_nobilis/4.jpeg",
+            "../assets/content/palms/bismarckia_nobilis/5.jpeg",
+            "../assets/content/palms/bismarckia_nobilis/6.jpeg",
           ]
         }
       ]
@@ -175,21 +175,21 @@ export class DataService {
       name: "Brahea",
       title: "Brahea",
       images: [
-        "../assets/content/brahea/1.jpeg",
+        "../assets/content/palms/brahea/1.jpeg",
       ],
       subspieces: [
         {
           title: "Brahea armata",
           description: "Powszechnie znana jako meksykańska niebieska palma lub niebieska palma hesper, jest dużym wiecznie zielonym drzewem z rodziny arekowatych, pochodzącym z Baja California w Meksyku. Jest powszechnie sadzony jako roślina ozdobna. Dorasta do wysokości 15 metrów z grubym pniem.",
           images: [
-            "../assets/content/brahea/1.jpeg"
+            "../assets/content/palms/brahea/1.jpeg"
           ]
         },
         {
           title: "Brahea edulis",
           description: "Palma Guadalupe lub palma de Guadalupe, jest endemiczną palmą występującą na wyspie Guadalupe w Meksyku, chociaż kilka drzewostanów zostało posadzonych w innych miejscach. Jest to palma wachlarzowa, która rośnie od 4,50 do 13 metrów. Rośnie na wysokości między 400 a 1000 metrów nad poziomem morza.",
           images: [
-            "../assets/content/brahea/1.jpeg"
+            "../assets/content/palms/brahea/1.jpeg"
           ]
         },
       ]
@@ -199,18 +199,18 @@ export class DataService {
       name: "Jubea_chilensis",
       title: "Jubaea chilensis",
       images: [
-        "../assets/content/jubea_chilensis/1.jpeg",
-        "../assets/content/jubea_chilensis/2.jpeg",
-        "../assets/content/jubea_chilensis/3.jpeg"
+        "../assets/content/palms/jubea_chilensis/1.jpeg",
+        "../assets/content/palms/jubea_chilensis/2.jpeg",
+        "../assets/content/palms/jubea_chilensis/3.jpeg"
       ],
       subspieces: [
         {
           title: "Jubaea chilensis",
           description: "Gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich.",
           images: [
-            "../assets/content/jubea_chilensis/1.jpeg",
-            "../assets/content/jubea_chilensis/2.jpeg",
-            "../assets/content/jubea_chilensis/3.jpeg"
+            "../assets/content/palms/jubea_chilensis/1.jpeg",
+            "../assets/content/palms/jubea_chilensis/2.jpeg",
+            "../assets/content/palms/jubea_chilensis/3.jpeg"
           ]
         }
       ]
@@ -237,28 +237,28 @@ export class DataService {
       name: "Butia",
       title: "Butia",
       images: [
-        "../assets/content/butia/1.jpeg",
+        "../assets/content/palms/butia/1.jpeg",
       ],
       subspieces: [
         {
           title: "Butia odorata",
           description: "opis wymaga uzupełnienia",
           images: [
-            "../assets/content/butia/1.jpeg"
+            "../assets/content/palms/butia/1.jpeg"
           ]
         },
         {
           title: "Butia capitata (palma dżemowa)",
           description: "jedna z bardziej wytrzymałych palm – dorosła roślina potrafi znieść mrozy nawet do -12 stopni. Może upiększać taras, czy ogród od wczesnej wiosny do późnej jesieni. Dobrze znosi także hodowle domową, nie ma zbyt wielkich wymagań, potrzebuje przede wszystkim słonecznego stanowiska. Ma bardzo efektowne niebiesko-zielone liście pokrojem przypominające strusie pióra. Hodowana w doniczce dorasta do około 1,5m wysokości. Dużym atutem tej rośliny jest to, że produkuje jadalne, smaczne owoce, które w miejscu naturalnego występowania palmy, służą przede wszystkim do wyrobu dżemów oraz innych przetworów (stąd jej popularna nazwa - palma dżemowa).",
           images: [
-            "../assets/content/butia/1.jpeg"
+            "../assets/content/palms/butia/1.jpeg"
           ]
         },
         {
           title: "Butia Yatay",
           description: "galaretowa palma lub palma yatay, to palma Butia pochodząca z południowej Brazylii, Urugwaju i północnej Argentyny. Jest znany jako butiá-jataí w języku portugalskim na południu Brazylii, a także po prostu jataí lub butiá. Czasami jest uprawiany jako roślina ozdobna w Europie i Stanach Zjednoczonych.",
           images: [
-            "../assets/content/butia/1.jpeg"
+            "../assets/content/palms/butia/1.jpeg"
           ]
         },
       ]
@@ -269,9 +269,9 @@ export class DataService {
       name: "Aarchontophoenics_alexandra",
       title: "Aarchontophoenics alexandra",
       images: [
-        "../assets/content/archontophoenics_alexandra/1.jpeg",
-        "../assets/content/archontophoenics_alexandra/2.jpeg",
-        "../assets/content/archontophoenics_alexandra/3.jpeg",
+        "../assets/content/palms/archontophoenics_alexandra/1.jpeg",
+        "../assets/content/palms/archontophoenics_alexandra/2.jpeg",
+        "../assets/content/palms/archontophoenics_alexandra/3.jpeg",
 
       ],
       subspieces: [
@@ -279,9 +279,9 @@ export class DataService {
           title: "Aarchontophoenics alexandra",
           description: "Gatunek pochodzi z lasów deszczowych porastających nadbrzeże północno-wschodniej Australii. Ma piękny, smukły, szary pień i rozszerzoną podstawę liści z widocznymi śladami po opadłych liściach. Duże, pierzaste liście są jasnozielone od góry, srebrno-białe od spodu. Wykształca białe rozgałęzione kwiatostany, które zwisają spomiędzy liści. Owoce są okrągłe i czerwone. Dobrze rośnie w wilgotnej ziemi, ważny jest też dobry drenaż. Kiedy jest sucho warto pamiętać o dodatkowym podlewaniu. Dobrze odnajduje się w pełnym słońcu i półcieniu. Ta piękna palma doskonale nadaje się jako palma doniczkowa do jasnych pomieszczeń.",
           images: [
-            "../assets/content/archontophoenics_alexandra/1.jpeg",
-            "../assets/content/archontophoenics_alexandra/2.jpeg",
-            "../assets/content/archontophoenics_alexandra/3.jpeg",
+            "../assets/content/palms/archontophoenics_alexandra/1.jpeg",
+            "../assets/content/palms/archontophoenics_alexandra/2.jpeg",
+            "../assets/content/palms/archontophoenics_alexandra/3.jpeg",
           ]
         }
       ]
@@ -312,22 +312,126 @@ export class DataService {
     },
   ];
 
-  exoticPlantsData = [
+  yuccasData = [
     {
+      name: "jukka_rostrata",
       title: "Jukka rostrata",
-      description: "To mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. Wytrzymuje spadek temperatury do – 20 C."
+      images: [
+        "../assets/content/yuccas/yucca_rostrata/1.jpeg",
+        "../assets/content/yuccas/yucca_rostrata/2.jpeg",
+        "../assets/content/yuccas/yucca_rostrata/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Jukka rostrata",
+          description: "To mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. Wytrzymuje spadek temperatury do – 20 C.",
+          images: [
+            "../assets/content/yuccas/yucca_rostrata/1.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/2.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/3.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/4.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/5.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/6.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/7.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/8.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/9.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/10.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/11.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/12.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/13.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/14.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/15.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/16.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/17.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/18.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/19.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/20.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/21.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/22.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/23.jpeg",
+            "../assets/content/yuccas/yucca_rostrata/24.jpeg",
+          ]
+        }
+      ]
     },
     {
-      title: "Jukka aloesowa",
-      description: "Gatunek z rodzaju Yucca. Popularne nazwy to aloes, roślina sztyletu i hiszpański bagnet. Rośnie na glebach piaszczystych, szczególnie na wydmach wzdłuż wybrzeża"
+      name: "jukka_aloifolia",
+      title: "Jukka aloifolia",
+      images: [
+        "../assets/content/yuccas/yucca_aloifolia/1.jpeg",
+        "../assets/content/yuccas/yucca_aloifolia/2.jpeg",
+        "../assets/content/yuccas/yucca_aloifolia/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Jukka aloifolia",
+          description: "Gatunek z rodzaju Yucca. Popularne nazwy to aloes, roślina sztyletu i hiszpański bagnet. Rośnie na glebach piaszczystych, szczególnie na wydmach wzdłuż wybrzeża",
+          images: [
+            "../assets/content/yuccas/yucca_aloifolia/1.jpeg",
+            "../assets/content/yuccas/yucca_aloifolia/2.jpeg",
+            "../assets/content/yuccas/yucca_aloifolia/3.jpeg",
+            "../assets/content/yuccas/yucca_aloifolia/4.jpeg",
+            "../assets/content/yuccas/yucca_aloifolia/5.jpeg",
+            "../assets/content/yuccas/yucca_aloifolia/6.jpeg",
+            "../assets/content/yuccas/yucca_aloifolia/7.jpeg",
+          ],
+        }
+      ]
     },
     {
+      name: "jukka_filifera",
+      title: "Jukka filifera",
+      images: [
+        "../assets/content/yuccas/yucca_filifera/1.jpeg",
+        "../assets/content/yuccas/yucca_filifera/2.jpeg",
+        "../assets/content/yuccas/yucca_filifera/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Jukka filifera",
+          description: "Opis wymaga uzupełnienia",
+          images: [
+            "../assets/content/yuccas/yucca_filifera/1.jpeg",
+            "../assets/content/yuccas/yucca_filifera/2.jpeg",
+            "../assets/content/yuccas/yucca_filifera/3.jpeg",
+            "../assets/content/yuccas/yucca_filifera/4.jpeg",
+            "../assets/content/yuccas/yucca_filifera/5.jpeg",
+            "../assets/content/yuccas/yucca_filifera/6.jpeg",
+            "../assets/content/yuccas/yucca_filifera/7.jpeg",
+            "../assets/content/yuccas/yucca_filifera/8.jpeg",
+            "../assets/content/yuccas/yucca_filifera/9.jpeg",
+            "../assets/content/yuccas/yucca_filifera/10.jpeg",
+            "../assets/content/yuccas/yucca_filifera/11.jpeg",
+            "../assets/content/yuccas/yucca_filifera/12.jpeg",
+          ]
+        }
+      ]
+    },
+
+    {
+      name: "jukka_rigida",
       title: "Jukka rigida",
-      description: "Gatunek należący do rodziny agawowatych.Pochodzi z terenów USA i Meksyku. Jukka rigida bywa mylona z jukką rostratą ma jednak sztywniejsze i bardziej szorstkie liście."
+      images: [],
+      subspieces: [
+        {
+          title: "Jukka rigida",
+          description: "Gatunek należący do rodziny agawowatych.Pochodzi z terenów USA i Meksyku. Jukka rigida bywa mylona z jukką rostratą ma jednak sztywniejsze i bardziej szorstkie liście.",
+          images: [],
+        }
+      ]
     },
     {
+      name: "jukka_faxoniana",
       title: "Jukka faxoniana",
-      description: "Nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C."
+      images: [],
+      subspieces: [
+        {
+          title: "Jukka faxoniana",
+          description: "Nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C.",
+          images: [],
+        }
+      ]
+
     },
     {
       title: "Dasylirion",
@@ -347,16 +451,54 @@ export class DataService {
 
     },
     {
+      name: "sagowiec_odwiniety",
       title: "Sagowiec odwinięty",
-      description: "Gatunek roślin należących do klasy sagowców i rodziny sagowcowatych. Zasięg naturalny obejmuje południową Japonię. Popularna roślina ozdobna, w środkowoeuropejskich warunkach klimatycznych uprawiana jako roślina doniczkowa."
+      images: [],
+      subspieces: [
+        {
+          title: "Sagowiec odwinięty",
+          description: "Gatunek roślin należących do klasy sagowców i rodziny sagowcowatych. Zasięg naturalny obejmuje południową Japonię. Popularna roślina ozdobna, w środkowoeuropejskich warunkach klimatycznych uprawiana jako roślina doniczkowa.",
+          images: [],
+        }
+      ]
+
     },
     {
+      name: "alokazja_macrorrhiza",
       title: "Alokazja Macrorrhiza",
-      description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymi liśćmi, które mają około 1 metra długości. W liściach i łodygach występuje obficie sok roślinny, który w stanie surowym jest trujący. Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. W odpowiednich warunkach roślina ta może osiągać wysokość 15 metrów."
+      images: [],
+      subspieces: [
+        {
+          title: "Alokazja Macrorrhiza",
+          description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymi liśćmi, które mają około 1 metra długości. W liściach i łodygach występuje obficie sok roślinny, który w stanie surowym jest trujący. Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. W odpowiednich warunkach roślina ta może osiągać wysokość 15 metrów.",
+          images: [],
+        }
+      ]
     },
     {
+      name: "nolina_nelsonii",
       title: "Nolina nelsonii",
-      description: "To roślina kwitnąca z rodzaju Nolina. Gatunek ten został po raz pierwszy opisany w 1906 roku; w swoim rodzaju jest morfologicznie najbardziej podobny do Nolina parryi."
+      images: [
+        "../assets/content/yuccas/nolina_nelsoni/1.jpeg",
+        "../assets/content/yuccas/nolina_nelsoni/2.jpeg",
+        "../assets/content/yuccas/nolina_nelsoni/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Nolina nelsonii",
+          images: [
+            "../assets/content/yuccas/nolina_nelsoni/1.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/2.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/3.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/4.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/5.jpeg",
+          ],
+          description: "To roślina kwitnąca z rodzaju Nolina. Gatunek ten został po raz pierwszy opisany w 1906 roku; w swoim rodzaju jest morfologicznie najbardziej podobny do Nolina parryi."
+
+        }
+      ]
+
+
     },
 
   ]
@@ -376,9 +518,21 @@ export class DataService {
     return result ? result.subspieces : [];
   }
 
+  getAllYuccasData(): Array<any> {
+
+    return this.yuccasData;
+  }
+
+  getYuccaData(name: string): Array<any> {
+
+    const result = this.yuccasData.find(element => element.name === name);
+
+    return result ? result.subspieces : [];
+  }
+
   getExoticPlantsData(): Array<any> {
 
-    return this.exoticPlantsData;
+    return [];
   }
 
 }

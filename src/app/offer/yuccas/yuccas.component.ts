@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { DataService } from '../../data.service';
 
 @Component({
@@ -8,9 +9,16 @@ import { DataService } from '../../data.service';
 })
 export class YuccasComponent implements OnInit {
 
-  constructor(private dataService: DataService) { }
+  constructor(private dataService: DataService, private router: Router) { }
+
+  yuccasData = this.dataService.getAllYuccasData();
 
   ngOnInit(): void {
   }
+
+  goToYuccaDetails(name: string) {
+    this.router.navigate(['/jukki/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
+  }
+
 
 }
