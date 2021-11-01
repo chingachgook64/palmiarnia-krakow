@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { DataService } from '../../data.service';
 
 @Component({
@@ -8,11 +9,15 @@ import { DataService } from '../../data.service';
 })
 export class ExoticPlantsComponent implements OnInit {
 
-  constructor(private dataService: DataService) { }
+  constructor(private dataService: DataService, private router: Router) { }
 
-  exoticPlantsData = this.dataService.getExoticPlantsData();
+  exoticPlantsData = this.dataService.getAllExoticPlantsData();
 
   ngOnInit(): void {
+  }
+
+  goToExoticPlantDetails(name: string) {
+    this.router.navigate(['rosliny_egzotyczne/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
   }
 
 }

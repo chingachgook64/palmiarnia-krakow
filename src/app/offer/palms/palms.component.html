@@ -15,8 +15,7 @@
             >
       
             <ng-template *ngFor="let image of palm.images"  swiperSlide><img src={{image}} class="img-fluid" /></ng-template>
-            <ng-template swiperSlide><img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" /></ng-template
-            >
+            
             </swiper>
             <div class="card-body pointer" (click)="goToPalmDetails(palm?.name)">
               <h5 class="card-title">{{ palm?.title }}</h5>

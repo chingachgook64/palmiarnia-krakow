@@ -41,16 +41,23 @@ export class DataService {
     {
       name: "Karlatka",
       title: "Karłatka",
+      images: [
+        "../assets/brak_zdjecia.jpeg",
+      ],
       subspieces: [
         {
           title: "Karłatka niska (chamaerops humilis)",
           description: "Gatunek wiecznie zielonej rośliny z rodziny arekowatych. Jedyny przedstawiciel monotypowego rodzaju karłatka. Jako łatwy gatunek do uprawy, sadzony jest także poza swym pierwotnym zasięgiem, w tym uprawiany jest jako roślina doniczkowa. Owoce są niejadalne i nie mają wartości użytkowej.",
-          images: []
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ]
         },
         {
           title: "Karłatka niebieska (chamaerops humilis carifera)",
           description: "Jest jedyną w Eruopie rodzimą palmą. Jej zasięg obejmuje zachodnią część obszaru śródziemnomorskiego, od południowych Włoch do południowej Hiszpanii oraz Afrykę, wzdłuż wybrzeża północnoafrykańskiego, od Tunezji do Maroka. Obecnie bywa uprawiana, w celach ozdobnych, na większym obszarze, między innymi na południu Chorwacji i Grecji. Ta wdzięczna i niewybredna roślina bardzo dobrze nadaje się zarówno do miejsc słonecznych jak i zacienonych. Odmiana Carifera cechuje się kolorem liści, które są z góry jak i dołu srebrzysto-niebieskie.",
-          images: [],
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ],
         },
       ]
     },
@@ -218,17 +225,23 @@ export class DataService {
     {
       name: "Palma_sabalowa",
       title: "Palma sabałowa",
-      images: [],
+      images: [
+        "../assets/brak_zdjecia.jpeg",
+      ],
       subspieces: [
         {
           title: "Palma sabałowa",
           description: "Gatunek roślin, należący do rodziny arekowatych (palm). Pochodzi z Ameryki Północnej, gdzie na naturalnych stanowiskach rośnie w USA w stanach: Oklahoma, Alabama, Arkansas, Floryda, Georgia, Luizjana, Missisipi, Karolina Północna i Karolina Południowa. Jest to krzaczasta palma o wysokości do 2 m i szerokości do 1 m. Ma bardzo krótki pęd, który zazwyczaj nie wyrasta ponad ziemię, lub tylko bardzo niewiele. Na jego szczycie wyrasta pióropusz liści. Są one sztywne, zielone lub niebieskozielone i podzielone na taśmowate listki. W krajach o cieplejszym klimacie palma ta jest uprawiana jako ogrodowa roślina ozdobna. Może też być w pojemnikach uprawiana na balkonach, w altanach, itp. W Polsce jest uprawiana jako roślina pokojowa, latem wystawiana na zewnątrz domu. Może być również hodowana na powietrzu pod warunkiem zapewnienia odpowiedniej osłony zimowej (ze szczególnym wskazaniem na dogrzewanie.",
-          images: []
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ]
         },
         {
           title: "Sabal palmetto",
           description: "opis wymaga uzupełnienia",
-          images: []
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ]
         }
       ]
     },
@@ -289,24 +302,32 @@ export class DataService {
     {
       name: "Palma_kokosowa",
       title: "Palma kokosowa",
-      images: [],
+      images: [
+        "../assets/brak_zdjecia.jpeg",
+      ],
       subspieces: [
         {
           title: "Palma kokosowa",
           description: "Gatunek pochodzi z południowo-wschodniej Azji lub z północno-zachodniej Ameryki Południowej. Kopalne szczątki z Nowej Zelandii wskazują, że rośliny o małych orzechach kokosowych rosły tam już przed 15 milionami lat. Najstarsze skamieniałości były znajdowane w Radżastanie w Indiach. Jej owoce wyrzucone przez morze i zdolne do kiełkowania znajdowano w Norwegii. Obecnie jest najczęściej występującą palmą, gdyż rośnie wzdłuż wszystkich tropikalnych brzegów morskich. Dorasta do 30 m wysokości. Ma pierzaste liście o 4–6 m długości i szerokości 60–90 cm.",
-          images: []
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ]
         }
       ]
     },
     {
       name: "Tritrinox_capestis",
       title: "Tritrinox capestis",
-      images: [],
+      images: [
+        "../assets/brak_zdjecia.jpeg",
+      ],
       subspieces: [
         {
           title: "Tritrinox capestis",
           description: "opis wymaga uzupełnienia",
-          images: []
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ]
         }
       ]
     },
@@ -411,67 +432,32 @@ export class DataService {
     {
       name: "jukka_rigida",
       title: "Jukka rigida",
-      images: [],
+      images: [
+        "../assets/brak_zdjecia.jpeg",
+      ],
       subspieces: [
         {
           title: "Jukka rigida",
           description: "Gatunek należący do rodziny agawowatych.Pochodzi z terenów USA i Meksyku. Jukka rigida bywa mylona z jukką rostratą ma jednak sztywniejsze i bardziej szorstkie liście.",
-          images: [],
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ],
         }
       ]
     },
     {
       name: "jukka_faxoniana",
       title: "Jukka faxoniana",
-      images: [],
+      images: [
+        "../assets/brak_zdjecia.jpeg",
+      ],
       subspieces: [
         {
           title: "Jukka faxoniana",
           description: "Nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C.",
-          images: [],
-        }
-      ]
-
-    },
-    {
-      title: "Dasylirion",
-      description: "",
-      subspieces: [
-        {
-          title: "Dasylirion wheeleri",
-          description: "Gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie.",
-          images: []
-        },
-        {
-          title: "Dasylirion serratifolium",
-          description: "Gatunek rosnący w Meksyku na wysokości ok 2 tysięcy metrów, w suchym i skalistym terenie krzewiasta i zimozielona roślina cechuje się powolnym wzrostem i dorasta do ok 3 metrów. Pień pełen dekoracyjnych pióropuszy liści o długości około 1,2 metra.Długie na niemal 5 metrów kwiatostany w formie kolby wyrastają podczas kwitnienia pięknie zdobiąc roślinę. Kwiatostan podobnie jak w przypadku odmiany Dasylirion Wheeleri koloru biało beżowego. Roślina dobrze znosi suszę i duże nasłonecznienie. Jej mrozoodporność szacowana jest na około minus 15 stopni.",
-          images: []
-        },
-      ]
-
-    },
-    {
-      name: "sagowiec_odwiniety",
-      title: "Sagowiec odwinięty",
-      images: [],
-      subspieces: [
-        {
-          title: "Sagowiec odwinięty",
-          description: "Gatunek roślin należących do klasy sagowców i rodziny sagowcowatych. Zasięg naturalny obejmuje południową Japonię. Popularna roślina ozdobna, w środkowoeuropejskich warunkach klimatycznych uprawiana jako roślina doniczkowa.",
-          images: [],
-        }
-      ]
-
-    },
-    {
-      name: "alokazja_macrorrhiza",
-      title: "Alokazja Macrorrhiza",
-      images: [],
-      subspieces: [
-        {
-          title: "Alokazja Macrorrhiza",
-          description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymi liśćmi, które mają około 1 metra długości. W liściach i łodygach występuje obficie sok roślinny, który w stanie surowym jest trujący. Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. W odpowiednich warunkach roślina ta może osiągać wysokość 15 metrów.",
-          images: [],
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ],
         }
       ]
     },
@@ -502,9 +488,201 @@ export class DataService {
     },
 
   ]
+  exoticPlantsData = [
+    {
+      name: "cytrusy",
+      title: "Cytrusy",
+      images: [
+        "../assets/brak_zdjecia.jpeg"
+      ],
+      subspieces: [
+        {
+          title: "Cytrusy",
+          description: "Opis wymaga uzupełnienia",
+          images: [
+            "../assets/brak_zdjecia.jpeg"
+          ],
+        },
+      ]
+    },
+    {
+      name: "strelicja",
+      title: "Strelicja",
+      images: [
+        "../assets/content/exotic_plants/strelicja/1.jpeg",
+        "../assets/content/exotic_plants/strelicja/2.jpeg",
+        "../assets/content/exotic_plants/strelicja/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Strelicja augusta",
+          description: "Opis wymaga uzupełnienia",
+          images: [
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/1.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/2.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/3.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/4.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/5.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/6.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/7.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/8.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/9.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/10.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/11.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/12.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/13.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/14.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_augusta/15.jpeg",
+          ],
+        },
+        {
+          title: "Strelicja reginae",
+          description: "Opis wymaga uzupełnienia",
+          images: [
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/1.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/2.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/3.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/4.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/5.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/6.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/7.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/8.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/9.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/10.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/11.jpeg",
+            "../assets/content/exotic_plants/strelicja/strelicja_reginae/12.jpeg",
+          ],
+        }
+      ]
+    },
+    {
+      name: "alokazja_macrorrhiza",
+      title: "Alokazja macrorrhiza",
+      images: [
+        "../assets/brak_zdjecia.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Alokazja Macrorrhiza",
+          description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymi liśćmi, które mają około 1 metra długości. W liściach i łodygach występuje obficie sok roślinny, który w stanie surowym jest trujący. Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. W odpowiednich warunkach roślina ta może osiągać wysokość 15 metrów.",
+          images: [
+            "../assets/brak_zdjecia.jpeg",
+          ],
+        }
+      ]
+    },
+    {
+      name: "dasylirion",
+      title: "Dasylirion ",
+      images: [
+        "../assets/content/exotic_plants/dasylirion/1.jpeg",
+        "../assets/content/exotic_plants/dasylirion/2.jpeg",
+        "../assets/content/exotic_plants/dasylirion/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Dasylirion longisimum",
+          description: "Opis wymaga uzupełnienia",
+          images: [
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/1.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/2.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/3.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/4.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/5.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/6.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/7.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/8.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/9.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/10.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/11.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/12.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/13.jpeg",
+          ],
+        },
+        {
+          title: "Dasylirion seratifolium",
+          description: "Opis wymaga uzupełnienia",
+          images: [
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/1.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/2.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/3.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/4.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/5.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/6.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/7.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/8.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/9.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/10.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/11.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/12.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/13.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/14.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/15.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/16.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/17.jpeg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/18.jpeg",
+          ],
+        },
+        {
+          title: "Dasylirion wheeleri",
+          description: "Gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie.",
+          images: [
+            "../assets/brak_zdjecia.jpeg"
+          ]
+        },
+      ]
+    },
+    {
+      name: "cycas_revoluta",
+      title: "Cycas revoluta",
+      images: [
+        "../assets/content/exotic_plants/cycas_revoluta/1.jpeg",
+        "../assets/content/exotic_plants/cycas_revoluta/2.jpeg",
+        "../assets/content/exotic_plants/cycas_revoluta/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Cycas revoluta (Sagowiec odwinięty)",
+          description: "Gatunek roślin należących do klasy sagowców i rodziny sagowcowatych. Zasięg naturalny obejmuje południową Japonię. Popularna roślina ozdobna, w środkowoeuropejskich warunkach klimatycznych uprawiana jako roślina doniczkowa.",
+          images: [
+            "../assets/content/exotic_plants/cycas_revoluta/1.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/2.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/3.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/4.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/5.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/6.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/7.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/8.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/9.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/10.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/11.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/12.jpeg",
+            "../assets/content/exotic_plants/cycas_revoluta/13.jpeg",
+          ],
+        }
+      ]
 
-  citrusesData = [];
-  oliveTreesData = [];
+    },
+  ];
+
+  oliveTreesData = [
+    {
+      name: "drzewa_oliwne",
+      title: "Drzewa oliwne",
+      images: [
+        "../assets/brak_zdjecia.jpeg"
+      ],
+      subspieces: [
+        {
+          title: "Drzewa oliwne",
+          description: "Opis wymaga uzupełnienia",
+          images: [
+            "../assets/brak_zdjecia.jpeg"
+          ],
+        },
+      ]
+    },
+  ];
 
   getAllPalmsData(): Array<any> {
 
@@ -530,9 +708,28 @@ export class DataService {
     return result ? result.subspieces : [];
   }
 
-  getExoticPlantsData(): Array<any> {
+  getAllExoticPlantsData(): Array<any> {
 
-    return [];
+    return this.exoticPlantsData;
+  }
+
+  getExoticPlantData(name: string): Array<any> {
+
+    const result = this.exoticPlantsData.find(element => element.name === name);
+
+    return result ? result.subspieces : [];
+  }
+
+  getAllOliveTreesData(): Array<any> {
+
+    return this.oliveTreesData;
+  }
+
+  getOliveTreeData(name: string): Array<any> {
+
+    const result = this.oliveTreesData.find(element => element.name === name);
+
+    return result ? result.subspieces : [];
   }
 
 }

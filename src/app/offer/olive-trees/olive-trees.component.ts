@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { DataService } from '../../data.service';
 
 @Component({
@@ -8,9 +9,16 @@ import { DataService } from '../../data.service';
 })
 export class OliveTreesComponent implements OnInit {
 
-  constructor(private dataService: DataService) { }
+  constructor(private dataService: DataService, private router: Router) { }
+
+  oliveTreesData = this.dataService.getAllOliveTreesData();
+
 
   ngOnInit(): void {
+  }
+
+  goToOliveTreeDetails(name: string) {
+    this.router.navigate(['drzewa_oliwne/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
   }
 
 }

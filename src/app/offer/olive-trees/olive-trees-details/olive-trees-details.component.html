@@ -1,1 +1,39 @@
-<p>olive-trees-details works!</p>
+<div class="spacer"></div>
+<div class="container content-container">
+    <div class="row">
+        <div class="col-sm-12" *ngFor="let subspiece of oliveTreeData">
+            <div class="card mb-3" >
+                <div class="row">
+                    <div class="col-md-4">
+                        <swiper
+                        [slidesPerView]="1"
+                        [spaceBetween]="30"
+                        [loop]="true"
+                        [pagination]="{
+                        clickable: true
+                        }"
+                        [navigation]="true"
+                        class="mySwiper"
+                        >
+                
+                        <ng-template *ngFor="let image of subspiece.images"  swiperSlide><img src={{image}} class="img-fluid" /></ng-template>
+            
+                        >
+                        </swiper>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">{{subspiece.title}}</h5>
+                            <p class="card-text">
+                                {{subspiece.description}}
+                            </p>
+                            <p class="card-text">
+                            <small class="text-muted">...</small>
+                            </p>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>

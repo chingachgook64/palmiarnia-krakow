@@ -11,6 +11,8 @@ import { OfferComponent } from './offer/offer.component';
 import { PlantsAtCustomersComponent } from './plants-at-customers/plants-at-customers.component';
 import { ContactComponent } from './contact/contact.component';
 import { AboutComponent } from './about/about.component';
+import { ExoticPlantsDetailsComponent } from './offer/exotic-plants/exotic-plants-details/exotic-plants-details.component';
+import { OliveTreesDetailsComponent } from './offer/olive-trees/olive-trees-details/olive-trees-details.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
@@ -22,11 +24,11 @@ const routes: Routes = [
   { path: 'palmy', component: PalmsComponent },
   { path: 'palmy/szczegoly', component: PalmDetailsComponent },
   { path: 'rosliny_egzotyczne', component: ExoticPlantsComponent },
-  { path: 'rosliny_egzotyczne/szczegoly', component: ExoticPlantsComponent },
+  { path: 'rosliny_egzotyczne/szczegoly', component: ExoticPlantsDetailsComponent },
   { path: 'jukki', component: YuccasComponent },
   { path: 'jukki/szczegoly', component: YuccasDetailsComponent },
   { path: 'drzewa_oliwne', component: OliveTreesComponent },
-  { path: 'drzewa_oliwne/szczegoly', component: OliveTreesComponent },
+  { path: 'drzewa_oliwne/szczegoly', component: OliveTreesDetailsComponent },
 
 ];
 
