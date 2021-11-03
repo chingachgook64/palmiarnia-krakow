@@ -183,20 +183,40 @@ export class DataService {
       title: "Brahea",
       images: [
         "../assets/content/palms/brahea/1.jpeg",
+        "../assets/content/palms/brahea/2.jpeg",
+        "../assets/content/palms/brahea/3.jpeg",
       ],
       subspieces: [
         {
           title: "Brahea armata",
           description: "Powszechnie znana jako meksykańska niebieska palma lub niebieska palma hesper, jest dużym wiecznie zielonym drzewem z rodziny arekowatych, pochodzącym z Baja California w Meksyku. Jest powszechnie sadzony jako roślina ozdobna. Dorasta do wysokości 15 metrów z grubym pniem.",
           images: [
-            "../assets/content/palms/brahea/1.jpeg"
+            "../assets/content/palms/brahea/brahea_armata/1.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/2.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/3.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/4.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/5.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/6.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/7.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/8.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/9.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/10.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/11.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/12.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/13.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/14.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/15.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/16.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/17.jpeg",
+            "../assets/content/palms/brahea/brahea_armata/18.jpeg",
+
           ]
         },
         {
           title: "Brahea edulis",
           description: "Palma Guadalupe lub palma de Guadalupe, jest endemiczną palmą występującą na wyspie Guadalupe w Meksyku, chociaż kilka drzewostanów zostało posadzonych w innych miejscach. Jest to palma wachlarzowa, która rośnie od 4,50 do 13 metrów. Rośnie na wysokości między 400 a 1000 metrów nad poziomem morza.",
           images: [
-            "../assets/content/palms/brahea/1.jpeg"
+            "../assets/brak_zdjecia.jpeg",
           ]
         },
       ]
@@ -670,14 +690,37 @@ export class DataService {
       name: "drzewa_oliwne",
       title: "Drzewa oliwne",
       images: [
-        "../assets/brak_zdjecia.jpeg"
+        "../assets/content/olive_trees/1.jpeg",
+        "../assets/content/olive_trees/2.jpeg",
+        "../assets/content/olive_trees/3.jpeg",
       ],
       subspieces: [
         {
           title: "Drzewa oliwne",
           description: "Opis wymaga uzupełnienia",
           images: [
-            "../assets/brak_zdjecia.jpeg"
+            "../assets/content/olive_trees/1.jpeg",
+            "../assets/content/olive_trees/2.jpeg",
+            "../assets/content/olive_trees/3.jpeg",
+            "../assets/content/olive_trees/4.jpeg",
+            "../assets/content/olive_trees/5.jpeg",
+            "../assets/content/olive_trees/6.jpeg",
+            "../assets/content/olive_trees/7.jpeg",
+            "../assets/content/olive_trees/8.jpeg",
+            "../assets/content/olive_trees/9.jpeg",
+            "../assets/content/olive_trees/10.jpeg",
+            "../assets/content/olive_trees/11.jpeg",
+            "../assets/content/olive_trees/12.jpeg",
+            "../assets/content/olive_trees/13.jpeg",
+            "../assets/content/olive_trees/14.jpeg",
+            "../assets/content/olive_trees/15.jpeg",
+            "../assets/content/olive_trees/16.jpeg",
+            "../assets/content/olive_trees/17.jpeg",
+            "../assets/content/olive_trees/18.jpeg",
+            "../assets/content/olive_trees/19.jpeg",
+            "../assets/content/olive_trees/20.jpeg",
+            "../assets/content/olive_trees/21.jpeg",
+            "../assets/content/olive_trees/22.jpeg",
           ],
         },
       ]
