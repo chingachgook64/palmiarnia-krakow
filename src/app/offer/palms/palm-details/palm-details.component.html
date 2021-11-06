@@ -61,7 +61,7 @@
         <div class="col-sm-12" *ngFor="let subspiece of palmData">
             <div class="card mb-3" >
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <swiper
                         [slidesPerView]="1"
                         [spaceBetween]="30"
@@ -78,12 +78,10 @@
                         >
                         </swiper>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-lg-8">
                         <div class="card-body">
                             <h5 class="card-title">{{subspiece.title}}</h5>
-                            <p class="card-text">
-                                {{subspiece.description}}
-                            </p>
+                            <p class="card-text" [innerHtml]="subspiece.description"></p>
                             <p class="card-text">
                             <small class="text-muted">...</small>
                             </p>
