@@ -290,7 +290,7 @@ export class DataService {
         },
         {
           title: "Butia capitata (palma dżemowa)",
-          description: "jedna z bardziej wytrzymałych palm – dorosła roślina potrafi znieść mrozy nawet do -12 stopni. Może upiększać taras, czy ogród od wczesnej wiosny do późnej jesieni. Dobrze znosi także hodowle domową, nie ma zbyt wielkich wymagań, potrzebuje przede wszystkim słonecznego stanowiska. Ma bardzo efektowne niebiesko-zielone liście pokrojem przypominające strusie pióra. Hodowana w doniczce dorasta do około 1,5m wysokości. Dużym atutem tej rośliny jest to, że produkuje jadalne, smaczne owoce, które w miejscu naturalnego występowania palmy, służą przede wszystkim do wyrobu dżemów oraz innych przetworów (stąd jej popularna nazwa - palma dżemowa).",
+          description: "Butia Capitata zwana też często palmą dżemową i bucją główkowatą w naturze występująca w Ameryce Połudiowej (Brazylii, Urugwaju na teranach Bahia, Goias, Minar Gerais). Dorastająca do około 5 metrów wysokości. W naturze czasami zdarza się iż występuje z podziemnym pniem, pień szeroki masywny. Liście łukowate wpadające w odcienie koloru niebieskiego i szarej-zieleni w kształcie piór osiągające do 170 cm długości w koronie. <br><br>Palmę najlepiej posadzić w miejscu dobrze nasłoneczniony (jednak miejsca częsciowo zacienione równiez będą tolerowane), palma jest dość prosta w uprawie, dobrze znosi suszę oraz nie jest wymagająca jeśli chodzi o warunki glebowe. Palma rośnie wolno, rozłożyste liście.Nasiona owalne do jajowatych z zarysowanym włóknem (ala kokos). <br><br>Odporność na mróz: Tak do -12°C",
           images: [
             "../assets/content/palms/butia/1.jpeg"
           ]
@@ -438,7 +438,7 @@ export class DataService {
       subspieces: [
         {
           title: "Jukka filifera",
-          description: "Opis wymaga uzupełnienia",
+          description: "Juki należą do rodziny agawowatych. Juka nitkowata (Yucca filifera) tworzy rozgałęziający się pień, dzięki czamu z daleka może przypominać drzewo. W swoim naturalnym środowisku dorasta do 10-15 m wysokości, licząc przy tym do 50 rozgałęzień. Szorstkie liście są matowo zielone i mierzą 30-80 cm długości. Cechą charakterystyczną tej juki są wyraźnie widoczne włókna na brzegach liści.Kiedy zakwita, wykształca dzwonkowate, kremowe kwiaty. Mrozoodporna do -15°C – przy zapewnieniu bardzo suchego stanowiska. Doskonała do uprawy doniczkowej.",
           images: [
             "../assets/content/yuccas/yucca_filifera/1.jpeg",
             "../assets/content/yuccas/yucca_filifera/2.jpeg",
@@ -568,7 +568,7 @@ export class DataService {
       subspieces: [
         {
           title: "Strelicja augusta",
-          description: "Opis wymaga uzupełnienia",
+          description: "Najbardziej znana i ceniona odmiana Rajskiego ptaka pochodząca z RPA w Afryce. Niezwykle okazała i szybko rosnąca roślina stała się nawet wizerunkiem na monetach RPA. <br><br>Charakterystyczne dla tej rośliny przepiękne biało niebieskie kwiatostany kształtem do złudzenia przypominają ptaka. Duże ciemnozielone liście i szybki wzrost pozwalają cieszyć się niezwykle okazałymi okazami w okresie ciepłym na zewnątrz natomiast zimą w ogrodach zimowych lub mieszkaniach. <br><br>Jest rośliną wieloletnią, preferującą stanowiska jasne o dużym natężeniu promieni słonecznych. Podłoże przepuszczalne z dobrym drenażem. Podlewać po przeschnięciu górnej warstwy ziemi. Nie dopuszczać do stania wody. Strelicja Augusta nie lubi silnego wiatru, powinniśmy wybrać stanowisko osłonięte od podmuchów. <br><br>W czasie wegetacji podlewać obficie natomiast w okresie spoczynku opodlewanie ograniczyć do minimum. Odpowiednia temperatura w domu dla rośliny to około 20 stopni. <br><br>Odporność na mróz: Nie",
           images: [
             "../assets/content/exotic_plants/strelicja/strelicja_augusta/1.jpeg",
             "../assets/content/exotic_plants/strelicja/strelicja_augusta/2.jpeg",
@@ -588,8 +588,8 @@ export class DataService {
           ],
         },
         {
-          title: "Strelicja reginae",
-          description: "Opis wymaga uzupełnienia",
+          title: "Strelicja reginae (królewska)",
+          description: "Gatunek pochodzący z Afryki Południowej, wyróżniający się efektownym, niezwykle oryginalnym kwitnieniem. Dorasta do około 100-120 cm wysokości. Zjawiskowe, okazałe kwiaty w pięknym, intensywnym, pomarańczowo-niebieskim kolorze pojawiają się wiosną i utrzymują nawet 6 miesięcy. Kształtem przypominają one kolorowego ptaka, stąd zwyczajowa nazwa rośliny 'Rajski ptak'. Kwiaty charakteryzują się nie tylko pięknym ubarwieniem i ciekawym kształtem, ale także niezwykłą trwałością, dlatego często sprzedawane są w kwiaciarniach jako kwiat cięty. Liście rośliny są eliptyczne, ciemno zielone (40cm), osadzone na bardzo długich, mięsistych ogonkach (60cm). Wyglądem przypominają one liście bananowca. <br><br>Strelicja królewska to niezwykle atrakcyjna roślina, stanowiąca oryginalną, wyjątkową ozdobę wnętrz. Gatunek zachwyca egzotycznym wyglądem, przepięknym kwitnieniem,  a dodatkowo jest  niewymagający i łatwy w uprawie.",
           images: [
             "../assets/content/exotic_plants/strelicja/strelicja_reginae/1.jpeg",
             "../assets/content/exotic_plants/strelicja/strelicja_reginae/2.jpeg",
@@ -634,7 +634,7 @@ export class DataService {
       subspieces: [
         {
           title: "Dasylirion longisimum",
-          description: "Opis wymaga uzupełnienia",
+          description: "meksykańskie drzewo trawiaste, to gatunek rośliny kwitnącej na pustyni Chihuahuan i innych siedliskach kserograficznych w północno-wschodnim Meksyku.",
           images: [
             "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/1.jpeg",
             "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/2.jpeg",
@@ -679,7 +679,8 @@ export class DataService {
           title: "Dasylirion wheeleri",
           description: "Gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie.",
           images: [
-            "../assets/brak_zdjecia.jpeg"
+            "../assets/content/exotic_plants/dasylirion/dasylirion_wheeleri/1.jpg",
+            "../assets/content/exotic_plants/dasylirion/dasylirion_wheeleri/2.jpg",
           ]
         },
       ]
@@ -714,6 +715,24 @@ export class DataService {
         }
       ]
 
+    },
+    {
+      name: "bungewilla",
+      title: "Bungewilla",
+      images: [
+        "../assets/content/exotic_plants/bungewilla/1.jpeg",
+        "../assets/content/exotic_plants/bungewilla/2.jpeg"
+      ],
+      subspieces: [
+        {
+          title: "Bungewilla",
+          description: "Opis wymaga uzupełnienia.",
+          images: [
+            "../assets/content/exotic_plants/bungewilla/1.jpeg",
+            "../assets/content/exotic_plants/bungewilla/2.jpeg"
+          ],
+        }
+      ]
     },
   ];
 
