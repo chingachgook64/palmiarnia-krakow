@@ -282,13 +282,6 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Butia odorata",
-          description: "opis wymaga uzupełnienia",
-          images: [
-            "../assets/content/palms/butia/1.jpeg"
-          ]
-        },
-        {
           title: "Butia capitata (palma dżemowa)",
           description: "Butia Capitata zwana też często palmą dżemową i bucją główkowatą w naturze występująca w Ameryce Połudiowej (Brazylii, Urugwaju na teranach Bahia, Goias, Minar Gerais). Dorastająca do około 5 metrów wysokości. W naturze czasami zdarza się iż występuje z podziemnym pniem, pień szeroki masywny. Liście łukowate wpadające w odcienie koloru niebieskiego i szarej-zieleni w kształcie piór osiągające do 170 cm długości w koronie. <br><br>Palmę najlepiej posadzić w miejscu dobrze nasłoneczniony (jednak miejsca częsciowo zacienione równiez będą tolerowane), palma jest dość prosta w uprawie, dobrze znosi suszę oraz nie jest wymagająca jeśli chodzi o warunki glebowe. Palma rośnie wolno, rozłożyste liście.Nasiona owalne do jajowatych z zarysowanym włóknem (ala kokos). <br><br>Odporność na mróz: Tak do -12°C",
           images: [
@@ -608,17 +601,17 @@ export class DataService {
       ]
     },
     {
-      name: "alokazja_macrorrhiza",
-      title: "Alokazja macrorrhiza",
+      name: "alocazja_macrorrhiza",
+      title: "Alocazja macrorrhiza",
       images: [
-        "../assets/brak_zdjecia.jpeg",
+        "../assets/content/exotic_plants/alocazja_macrorrhiza/1.jpeg",
       ],
       subspieces: [
         {
-          title: "Alokazja Macrorrhiza",
-          description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymi liśćmi, które mają około 1 metra długości. W liściach i łodygach występuje obficie sok roślinny, który w stanie surowym jest trujący. Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. W odpowiednich warunkach roślina ta może osiągać wysokość 15 metrów.",
+          title: "Alocazja Macrorrhiza",
+          description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymimi liśćmi, które mają około 1 – metra długości. <br><br>Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate, ciemnozielone liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. Alokazja macrorrhiza w odpowiednich warunkach domowych osiąga wysokość 1.5 metra. <br><br>Pielęgnacja Alokazja Macrorrhiza <br>Alokazja ma typowe wymagania związane z jej tropikalnym pochodzeniem, ale nie zgadza się na żadne kompromisy. Lubi ciepłe i wilgotne warunki w domu, ale nie znosi zimna. Latem należy zapewnić jej temperaturę około 22-28 stopni Celsjusza, zimą 18-22 stopnie oraz odpowiednie nawilżenie powietrza. Podłoże powinno być żyzne, próchnicze i przepuszczalne o lekko kwaśnym odczynie pH. W donicy należy zapewnić drenaż oraz otwory odpływowe. Alokazja nie akceptuje ani przesuszenia, ani przesadnego podlewania. W mieszkaniu należy ustawić nawilżacz powietrza lub odkryte akwarium oraz systematycznie zraszać ją letnią wodą. Jeśli nam się to nie uda i roślina straci większość liści, nie należy spisywać jej na straty, gdyż wiosną znów wznowi wegetację. Roślinę należy przesadzać w rękawiczkach. Nie powinny mieć do niej dostępu ani dzieci oraz zwierzęta domowe.",
           images: [
-            "../assets/brak_zdjecia.jpeg",
+            "../assets/content/exotic_plants/alocazja_macrorrhiza/1.jpeg",
           ],
         }
       ]
@@ -652,8 +645,8 @@ export class DataService {
           ],
         },
         {
-          title: "Dasylirion seratifolium",
-          description: "Opis wymaga uzupełnienia",
+          title: "Dasylirion serratifolium",
+          description: "Dasylirion Serratifolium rośnie w południowym stanie Oaxaca w Meksyku, na wysokości 1800-2350m na suchych i skalistych zboczach gór.Ta krzewiasta i wiecznie zielona roślina o powolnym wzroście osiąga w naturze wysokość 3m. <br><br>Roślina wyglądem podobna do juki, o masywnym i prostym, pojedynczym lub złożonym pniu.Pień zwieńczonym jest dekoracyjnym pióropuszem wąskich, mieczowatych, zielonych liści o długości do 1,2m. Z korony liści wyrastają długie, stojące kwiatostany w formie kolby dorastające do 4,5m wysokości. Kwiatostan kwitnie delikatnymi kwiatuszkami o kształcie dzwonu, w biało-beżowym kolorze. <br><br>Tolerancja na mróz -15",
           images: [
             "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/1.jpeg",
             "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/2.jpeg",
@@ -717,16 +710,16 @@ export class DataService {
 
     },
     {
-      name: "bungewilla",
-      title: "Bungewilla",
+      name: "bugenwilla",
+      title: "Bugenwilla",
       images: [
         "../assets/content/exotic_plants/bungewilla/1.jpeg",
         "../assets/content/exotic_plants/bungewilla/2.jpeg"
       ],
       subspieces: [
         {
-          title: "Bungewilla",
-          description: "Opis wymaga uzupełnienia.",
+          title: "Bugenwilla",
+          description: "Bugenwilla (Bougainvillea) inaczej kącicierń, to rodzaj tak zwanych prymitywnych pnączy z rodziny nocnicowatych (Nyctaginaceae). Ich naturalnym miejscem występowania są tropikalne rejony Ameryki Południowej. W krajach klimatu śródziemnomorskiego porasta mury, ażurowe pergole i inne podpory, a w naszym klimacie rośliny te uprawiane są w pojemnikach. <br><br>Bugenwille mogą być prowadzone jako pnącza, krzewy lub drzewka. Ich długie, cienkie pędy osiągają nawet 12 m długości! Mają charakterystycznie zakrzywione ciernie ukryte w kątach liści, które służą roślinie do wspinania się na podpory. Eliptyczne, skórzaste liście rosną na krótkich ogonkach i mają włoski od spodniej strony blaszki. Właściwe kwiaty bugenwilli pojawiają się na całej długości pędu rośliny i są niepozorne, zazwyczaj białe lub różowe. Największą ich ozdobę stanowią imitujące kwiaty barwne podsadki, będące tak naprawdę liśćmi rośliny. Mogą być one różowe, pomarańczowe, łososiowe, czerwone, fioletowe, purpurowe i białe. <br><br> W chłodniejszym klimacie panującym w Polsce, kącicierń kwitnie niemal przez całe lato (zdarza się, że zakwita już wiosną!). <br><br>Uprawa i wymagania <br>Bugenwilla jest roślina wymagającą – w sezonie wiosenno-letnim roślina potrzebuje dużo słońca, preferuje południowe lub wschodnie stanowisko, wilgotne i żyzne podłoże oraz powinniśmy ją zraszać. Liście rośliny są wrażliwe i dość łatwo opadają! Aby tego uniknąć powinniśmy wybierać dla nich miejsca osłonięte od wiatru i uważać, by jej nie przelewać.Chcąc pobudzić kwitnienie dobrze jest stosunkowo często nawozić roślinę, a żeby obficie kwitła niektórzy polecają sadzić ją w mniejszych doniczkach.Jesienią kąciciernie chowamy do domu ograniczając podlewanie i starając się wybrać chłodniejsze pomieszczenie. Od listopada do lutego roślina przechodzi okres spoczynku i dobrze gdy uda się zapewnić jej temperaturę ok. 10 ºC. Wtedy też ogranicza się jej podlewanie (raz w tygodniu). W tym okresie liście rośliny mogą dość mocno opadać, jednak pędy pozostają żywe i nie tracą turgoru.Aby bugenwilla zachowała zwartą, krzaczastą formę oraz zawiązywała dużo pąków kwiatowych, pod koniec lutego należy skracać jej pędy o 1/3 długości.",
           images: [
             "../assets/content/exotic_plants/bungewilla/1.jpeg",
             "../assets/content/exotic_plants/bungewilla/2.jpeg"
