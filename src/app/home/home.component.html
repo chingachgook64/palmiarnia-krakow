@@ -13,6 +13,45 @@
 
   </div>
  <app-offer></app-offer>
-<app-plants-at-customers></app-plants-at-customers>
+ <div class="spacer"></div>
+ <h2>SADZENIE DO GRUNTU Z ZABEZPIECZENIEM ZIMOWYM</h2>
+ <swiper
+     [slidesPerView]="1"
+     [spaceBetween]="10"
+     [pagination]="{
+       clickable: true
+     }"
+     [breakpoints]="{
+       '640': {
+         slidesPerView: 2,
+         spaceBetween: 20
+       },
+       '768': {
+         slidesPerView: 4,
+         spaceBetween: 40
+       },
+       '1024': {
+         slidesPerView: 5,
+         spaceBetween: 50
+       }
+     }"
+     class="mySwiper"
+   >
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/1.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/2.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/3.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/4.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/5.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/6.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/7.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/8.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/9.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/10.jpeg" class="img-fluid" /></ng-template>
+   <ng-template swiperSlide><img src="../../assets/content/our_plants_at_the_customer/11.jpeg" class="img-fluid" /></ng-template>
+   </swiper>
+   <div class="col-lg-12">
+     <br>
+     Rośliny egzotyczne wymagają odpowiedniego zabezpieczenia zimowego w zakresie którego udzielamy wszelkich niezbędnych informacji naszym klientom. Oferujemy wsparcie i&nbsp;doradztwo techniczne. 
+   </div>
   <app-contact></app-contact>
 </main>

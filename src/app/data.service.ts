@@ -60,7 +60,7 @@ export class DataService {
           ]
         },
         {
-          title: "Chamaerops humilis carifera",
+          title: "Chamaerops humilis cerifera",
           description: "Jest jedyną w Eruopie rodzimą palmą. Jej zasięg obejmuje zachodnią część obszaru śródziemnomorskiego, od południowych Włoch do południowej Hiszpanii oraz Afrykę, wzdłuż wybrzeża północnoafrykańskiego, od Tunezji do Maroka. <br><br>Obecnie bywa uprawiana, w celach ozdobnych, na większym obszarze, między innymi na południu Chorwacji i Grecji. Ta wdzięczna i niewybredna roślina bardzo dobrze nadaje się zarówno do miejsc słonecznych jak i zacienonych. Odmiana Carifera cechuje się kolorem liści, które są z góry jak i dołu srebrzysto-niebieskie.",
           images: [
             "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/1.jpeg",
@@ -70,8 +70,8 @@ export class DataService {
       ]
     },
     {
-      name: "Waszyngtonia",
-      title: "Waszyngtonia",
+      name: "washingtonia",
+      title: "Washingtonia",
       images: [
         "../assets/content/palms/waszyngtonia/1.jpeg",
         "../assets/content/palms/waszyngtonia/2.jpeg",
@@ -79,7 +79,7 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Waszyngtonia nitkowata (Filifera)",
+          title: "Washingtonia filifera",
           description: "Pochodzi z północno-zachodniego Meksyku. Jest jedną z tych palm, które przykuwają naszą uwagę sowim naprawdę wyjątkowym wyglądem. Palma ta zawdzięcza to ozdobnym włóknom zwisającym z wachlarzowatych liści. Z tym też związana jest jej nazwa, ponieważ filifera z łaciny oznacza mająca włókna. <br><br>Doskonale nadaje się do uprawy w pojemnikach. Szybko rośnie, w mieszkaniu wymaga dużo miejsca oraz wysokiej wilgotności powietrza. Latem można ją bez obaw wynosić na zewnątrz. Najlepiej prezentuje się samotnie - wtedy dobrze widoczne są jej dekoracyjne liście i pień.",
           images: [
             "../assets/content/palms/waszyngtonia/1.jpeg",
@@ -90,7 +90,7 @@ export class DataService {
           ]
         },
         {
-          title: "Waszyngtonia robusta",
+          title: "Washingtonia robusta",
           description: "Pochodzi z suchych obszarów na terenie Meksyku, gdzie ma dostęp do wód gruntowych. Rośnie również w południowych regionach USA. Washingtonia robusta zwana jest Meksykańską. W naturze pnie przysłonięte są suchymi, opadniętymi liśćmi, które tworzą wokół pnia warstwową spódniczkę.",
           images: [
             "../assets/content/palms/waszyngtonia/7.jpeg",
@@ -114,7 +114,7 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Phoenix  canarsis",
+          title: "Phoenix  canariensis",
           description: "Gatunek z rodziny arekowatych, pochodzący z zachodniego wybrzeża Afryki, najprawdopodobniej z Wysp Kanaryjskich. Nazywana jest palmą królewską. Ze względu na atrakcyjny wygląd daktylowiec kanaryjski jest często uprawiany w cieplejszych, na ogół subtropikalnych regionach świata, szczególnie w klimacie śródziemnomorskim. <br><br>Roślina ta występuje od południowej Wielkiej Brytanii na wyspie Tresco aż po południe Chile. Bardzo popularna jest w całej południowej Europie, a także w cieplejszych regionach USA, Australii, Nowej Zelandii, południowej Afryce, Chile i Argentynie. W Polsce ze względu na klimat uprawiana jest w oranżeriach lub w pojemnikach jako roślina pokojowa.",
           images: [
             "../assets/content/palms/phoenix/phoenix_canariensis/1.jpeg",
@@ -132,7 +132,7 @@ export class DataService {
           ],
         },
         {
-          title: "Phoenix  actylifera",
+          title: "Phoenix  dactylifera",
           description: "Daktylowiec, z łac. Phoenix, to rodzaj wiecznie zielonej palmy, która pochodzi z północnej Afryki, z Azji i Wysp Kanaryjskich. W naturalnym środowisku rośnie w strefie tropikalnej i subtropikalnej, dlatego w polskich warunkach klimatycznych może być hodowany wyłącznie w domach oraz palmiarniach. <br><br>Daktylowiec jest rośliną jadalną. Z soku wydzielanego z pnia wyrabia się cukier i wino palmowe. Owoce rośliny – daktyle – można spożywać na surowo bądź po przetworzeniu. Na krajowy rynek trafiają przed wszystkim daktyle w formie ususzonej. Daktylowiec hodowany w mieszkaniu rośnie mniej okazale i efektownie od gatunków w naturalnym środowisku. Osiąga do 150 cm wysokości. Posiada długi, smukły pień zakończony na szczycie pióropuszem długich, pierzastych liści w kolorze ciemnozielonym.",
           images: [
             "../assets/content/palms/phoenix/phoenix_actylifera/2.jpeg",
@@ -150,7 +150,7 @@ export class DataService {
           ],
         },
         {
-          title: "Phoenix roebelini",
+          title: "Phoenix roebellini",
           description: "Gatunek rośliny z rodziny arekowatych, występujący naturalnie w północnych Indiach, Laosie i na południu Wietnamu. Daktylowiec niski może dorastać do 3 m. Ma pokrój krzaczasty, rosnąc dziko wytwarza liczne odrosty, w uprawie doniczkowej zazwyczaj ma tylko jeden pień. Młode pędy liściowe są pokryte szarawym nalotem. Rozwinięte liście są pierzaste, delikatne i ładnie wygięte, na łodygach mają cienkie, ostre kolce. Powierzchnia pnia przypomina fakturą niedojrzały ananas i pokryta jest w górnej części brązowymi włóknami.",
           images: [
             "../assets/content/palms/phoenix/phoenix _roebelini/1.jpeg",
@@ -224,7 +224,7 @@ export class DataService {
           title: "Brahea edulis",
           description: "Palma Guadalupe lub palma de Guadalupe, jest endemiczną palmą występującą na wyspie Guadalupe w Meksyku, chociaż kilka drzewostanów zostało posadzonych w innych miejscach. Jest to palma wachlarzowa, która rośnie od 4,50 do 13 metrów. Rośnie na wysokości między 400 a 1000 metrów nad poziomem morza.",
           images: [
-            "../assets/content/palms/brahea_edulis/1.jpeg",
+            "../assets/content/palms/brahea/brahea_edulis/1.jpeg",
           ]
         },
       ]
@@ -277,19 +277,17 @@ export class DataService {
       title: "Butia",
       images: [
         "../assets/content/palms/butia/1.jpeg",
-        "../assets/content/palms/butia/2.jpeg",
-        "../assets/content/palms/butia/3.jpeg",
       ],
       subspieces: [
         {
-          title: "Butia capitata (palma dżemowa)",
+          title: "Butia capitata (odorata)",
           description: "Butia Capitata zwana też często palmą dżemową i bucją główkowatą w naturze występująca w Ameryce Połudiowej (Brazylii, Urugwaju na teranach Bahia, Goias, Minar Gerais). Dorastająca do około 5 metrów wysokości. W naturze czasami zdarza się iż występuje z podziemnym pniem, pień szeroki masywny. Liście łukowate wpadające w odcienie koloru niebieskiego i szarej-zieleni w kształcie piór osiągające do 170 cm długości w koronie. <br><br>Palmę najlepiej posadzić w miejscu dobrze nasłoneczniony (jednak miejsca częsciowo zacienione równiez będą tolerowane), palma jest dość prosta w uprawie, dobrze znosi suszę oraz nie jest wymagająca jeśli chodzi o warunki glebowe. Palma rośnie wolno, rozłożyste liście.Nasiona owalne do jajowatych z zarysowanym włóknem (ala kokos). <br><br>Odporność na mróz: Tak do -12°C",
           images: [
             "../assets/content/palms/butia/1.jpeg"
           ]
         },
         {
-          title: "Butia Yatay",
+          title: "Butia yatay",
           description: "galaretowa palma lub palma yatay, to palma Butia pochodząca z południowej Brazylii, Urugwaju i północnej Argentyny. Jest znany jako butiá-jataí w języku portugalskim na południu Brazylii, a także po prostu jataí lub butiá. Czasami jest uprawiany jako roślina ozdobna w Europie i Stanach Zjednoczonych.",
           images: [
             "../assets/content/palms/butia/1.jpeg"
@@ -321,14 +319,14 @@ export class DataService {
       ]
     },
     {
-      name: "Palma_kokosowa",
-      title: "Palma kokosowa",
+      name: "coco_nucifera",
+      title: "Coco nucifera",
       images: [
         "../assets/content/palms/coco_nucifera/1.jpeg",
       ],
       subspieces: [
         {
-          title: "Palma kokosowa",
+          title: "Coco nucifera",
           description: "Coco nucifera często występuje również pod nazwami kokos właściwy, kokosowiec właściwy czy kokosowiec to należąca do rodziny arekowatych roślina którą spotkać możemy niemal na całym świecie. Najpopularniejsz w krajach Azjatyckich oraz w Ameryce Południowej. <br><br>Dorastająca do 30 metrów palma kokosowa o pojedynczym prostym pniu którego średnica nie przekracza 40 cm. Dorosła coco nucifera wypuszcza wiele łodyk których długie liście mogące dochodzić nawet do 6 metrów. Palma ta wymaga odpowiednio wysokiej temperatury, nie jest mrozoodporna, zimowanie powinniśmy przeprowadzić w chłodnym miejscu w którym to temperatura nie spada poniżej 10 stopni lub bez zimowania zapewnić palmie jasne stanowisko z temperaturą powyżej 20 stopni i odpowiednią wilgotnością powietrza. <br><br>Palma kokosowa uwielbia podlewanie, nie powinniśmy dopuszczać do całkowitego przeschnięcia podłoża które powinno być lekko kwaśne i przepuszczalne. <br><br>Palma preferuje stanowisko jasne, nasłonecznione.",
           images: [
             "../assets/content/palms/coco_nucifera/1.jpeg"
@@ -337,14 +335,14 @@ export class DataService {
       ]
     },
     {
-      name: "Tritrinox_capestris",
-      title: "Tritrinox capestris",
+      name: "Trithrinax_campestris",
+      title: "Trithrinax campestris",
       images: [
         "../assets/content/palms/trithrinax_campestris/1.jpeg",
       ],
       subspieces: [
         {
-          title: "Tritrinox capestris",
+          title: "Trithrinax campestris",
           description: "Niesamowita palma pochodząca z Argentyny i Urugwaju. Jest w stanie wytrzymać zarówno bardzo duże mrozy jak i silny wiatr, ponieważ liście tej palmy są niezwykle sztywne. Bardziej niż u Trachycarpus wagnerianus. Znane są przypadki, gdzie dorosłe, dobrze ukorzenione palmy wytrzymały bez uszkodzeń nawet -17C. <br><br>Sztywne liście na końcu pokryte są bardzo dużymi kolcami. Pień również jest uzbrojony w kolce (igły). Trzeba być bardzo ostrożnym. Wysokość palmy w naturze dochodzi do 5 metrów. Z reguły wytwarza kilka pni. Liście są majestatyczne w kolorze srebrzysto-niebieskim. <br>W naturze palma rośnie w rejonach górskich Ameryki Południowej. wytrzymuje zarówno ekstremalne susze i gorąco jak i mróz. <br><br>Palma bardzo trudna do zdobycia. Rośnie niezwykle wolno przez co jej ceny są wysokie. <br><br>Według mojej opinii mrozoodporność tej palmy, przy krótkotrwałych (kilku godzinnych) spadkach temperatury dla dorosłego dobrze ukorzenionego osobnika w gruncie to ok -12C. <br><br>Liście dorosłej palmy wytrzymują spadki temperatur do -10C, -12C. Zalecam okrywać zanim temperatura dojdzie do -10C",
           images: [
             "../assets/content/palms/trithrinax_campestris/1.jpeg",
@@ -356,8 +354,8 @@ export class DataService {
 
   yuccasData = [
     {
-      name: "jukka_rostrata",
-      title: "Jukka rostrata",
+      name: "yucca_rostrata",
+      title: "Yucca rostrata",
       images: [
         "../assets/content/yuccas/yucca_rostrata/1.jpeg",
         "../assets/content/yuccas/yucca_rostrata/2.jpeg",
@@ -365,7 +363,7 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Jukka rostrata",
+          title: "Yucca rostrata",
           description: "To mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. Wytrzymuje spadek temperatury do – 20 C.",
           images: [
             "../assets/content/yuccas/yucca_rostrata/1.jpeg",
@@ -397,8 +395,8 @@ export class DataService {
       ]
     },
     {
-      name: "jukka_aloifolia",
-      title: "Jukka aloifolia",
+      name: "yucca_aloifolia",
+      title: "Yucca aloifolia",
       images: [
         "../assets/content/yuccas/yucca_aloifolia/1.jpeg",
         "../assets/content/yuccas/yucca_aloifolia/2.jpeg",
@@ -406,7 +404,7 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Jukka aloifolia",
+          title: "Yucca aloifolia",
           description: "Gatunek z rodzaju Yucca. Popularne nazwy to aloes, roślina sztyletu i hiszpański bagnet. Rośnie na glebach piaszczystych, szczególnie na wydmach wzdłuż wybrzeża",
           images: [
             "../assets/content/yuccas/yucca_aloifolia/1.jpeg",
@@ -421,8 +419,8 @@ export class DataService {
       ]
     },
     {
-      name: "jukka_filifera",
-      title: "Jukka filifera",
+      name: "yucca_filifera",
+      title: "Yucca filifera",
       images: [
         "../assets/content/yuccas/yucca_filifera/1.jpeg",
         "../assets/content/yuccas/yucca_filifera/2.jpeg",
@@ -430,7 +428,7 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Jukka filifera",
+          title: "Yucca filifera",
           description: "Juki należą do rodziny agawowatych. Juka nitkowata (Yucca filifera) tworzy rozgałęziający się pień, dzięki czamu z daleka może przypominać drzewo. W swoim naturalnym środowisku dorasta do 10-15 m wysokości, licząc przy tym do 50 rozgałęzień. Szorstkie liście są matowo zielone i mierzą 30-80 cm długości. Cechą charakterystyczną tej juki są wyraźnie widoczne włókna na brzegach liści.Kiedy zakwita, wykształca dzwonkowate, kremowe kwiaty. Mrozoodporna do -15°C – przy zapewnieniu bardzo suchego stanowiska. Doskonała do uprawy doniczkowej.",
           images: [
             "../assets/content/yuccas/yucca_filifera/1.jpeg",
@@ -451,15 +449,15 @@ export class DataService {
     },
 
     {
-      name: "jukka_rigida",
-      title: "Jukka rigida",
+      name: "yucca_rigida",
+      title: "Yucca rigida",
       images: [
         "../assets/content/yuccas/yucca_rigidia/1.jpeg",
         "../assets/content/yuccas/yucca_rigidia/2.jpeg",
       ],
       subspieces: [
         {
-          title: "Jukka rigida",
+          title: "Yucca rigida",
           description: "Juka rigida bywa mylona z jukką rostrata, rigida ma jednak sztywniejsze i bardziej szorstkie liście. Roślina wykształca pień, który może się rozgałęziać, dorasta do 2-5 m. Liście niebieskawe, sztywne, ząbkowane, osiągają 30-60 cm długości.",
           images: [
             "../assets/content/yuccas/yucca_rigidia/1.jpeg",
@@ -469,8 +467,8 @@ export class DataService {
       ]
     },
     {
-      name: "jukka_faxoniana",
-      title: "Jukka faxoniana",
+      name: "yucca_faxoniana",
+      title: "Yucca faxoniana",
       images: [
         "../assets/content/yuccas/yucca_faxoniana/1.jpeg",
         "../assets/content/yuccas/yucca_faxoniana/2.jpeg",
@@ -478,7 +476,7 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Jukka faxoniana",
+          title: "Yucca faxoniana",
           description: "Nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C. <br><br>Juka ta dorasta do 6-10 metrów. Czasami formuje kilka głów pełnych liści. W naturze jej zielone liście mają 90-110 cm długości i 5 cm szerokości ale w uprawie ogrodowej mogą mieć 120-140 cm i tworzyć wielką symetryczną kulę.",
           images: [
             "../assets/content/yuccas/yucca_faxoniana/1.jpeg",
@@ -488,31 +486,6 @@ export class DataService {
           ],
         }
       ]
-    },
-    {
-      name: "nolina_nelsonii",
-      title: "Nolina nelsonii",
-      images: [
-        "../assets/content/yuccas/nolina_nelsoni/1.jpeg",
-        "../assets/content/yuccas/nolina_nelsoni/2.jpeg",
-        "../assets/content/yuccas/nolina_nelsoni/3.jpeg",
-      ],
-      subspieces: [
-        {
-          title: "Nolina nelsonii",
-          images: [
-            "../assets/content/yuccas/nolina_nelsoni/1.jpeg",
-            "../assets/content/yuccas/nolina_nelsoni/2.jpeg",
-            "../assets/content/yuccas/nolina_nelsoni/3.jpeg",
-            "../assets/content/yuccas/nolina_nelsoni/4.jpeg",
-            "../assets/content/yuccas/nolina_nelsoni/5.jpeg",
-          ],
-          description: "To roślina kwitnąca z rodzaju Nolina. Gatunek ten został po raz pierwszy opisany w 1906 roku; w swoim rodzaju jest morfologicznie najbardziej podobny do Nolina parryi."
-
-        }
-      ]
-
-
     },
 
   ]
@@ -551,8 +524,8 @@ export class DataService {
       ]
     },
     {
-      name: "strelicja",
-      title: "Strelicja",
+      name: "strelitzia",
+      title: "Strelitzia",
       images: [
         "../assets/content/exotic_plants/strelicja/1.jpeg",
         "../assets/content/exotic_plants/strelicja/2.jpeg",
@@ -560,7 +533,7 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Strelicja augusta",
+          title: "Strelitzia augusta",
           description: "Najbardziej znana i ceniona odmiana Rajskiego ptaka pochodząca z RPA w Afryce. Niezwykle okazała i szybko rosnąca roślina stała się nawet wizerunkiem na monetach RPA. <br><br>Charakterystyczne dla tej rośliny przepiękne biało niebieskie kwiatostany kształtem do złudzenia przypominają ptaka. Duże ciemnozielone liście i szybki wzrost pozwalają cieszyć się niezwykle okazałymi okazami w okresie ciepłym na zewnątrz natomiast zimą w ogrodach zimowych lub mieszkaniach. <br><br>Jest rośliną wieloletnią, preferującą stanowiska jasne o dużym natężeniu promieni słonecznych. Podłoże przepuszczalne z dobrym drenażem. Podlewać po przeschnięciu górnej warstwy ziemi. Nie dopuszczać do stania wody. Strelicja Augusta nie lubi silnego wiatru, powinniśmy wybrać stanowisko osłonięte od podmuchów. <br><br>W czasie wegetacji podlewać obficie natomiast w okresie spoczynku opodlewanie ograniczyć do minimum. Odpowiednia temperatura w domu dla rośliny to około 20 stopni. <br><br>Odporność na mróz: Nie",
           images: [
             "../assets/content/exotic_plants/strelicja/strelicja_augusta/1.jpeg",
@@ -581,7 +554,7 @@ export class DataService {
           ],
         },
         {
-          title: "Strelicja reginae (królewska)",
+          title: "Strelitzia reginae (królewska)",
           description: "Gatunek pochodzący z Afryki Południowej, wyróżniający się efektownym, niezwykle oryginalnym kwitnieniem. Dorasta do około 100-120 cm wysokości. Zjawiskowe, okazałe kwiaty w pięknym, intensywnym, pomarańczowo-niebieskim kolorze pojawiają się wiosną i utrzymują nawet 6 miesięcy. Kształtem przypominają one kolorowego ptaka, stąd zwyczajowa nazwa rośliny 'Rajski ptak'. Kwiaty charakteryzują się nie tylko pięknym ubarwieniem i ciekawym kształtem, ale także niezwykłą trwałością, dlatego często sprzedawane są w kwiaciarniach jako kwiat cięty. Liście rośliny są eliptyczne, ciemno zielone (40cm), osadzone na bardzo długich, mięsistych ogonkach (60cm). Wyglądem przypominają one liście bananowca. <br><br>Strelicja królewska to niezwykle atrakcyjna roślina, stanowiąca oryginalną, wyjątkową ozdobę wnętrz. Gatunek zachwyca egzotycznym wyglądem, przepięknym kwitnieniem,  a dodatkowo jest  niewymagający i łatwy w uprawie.",
           images: [
             "../assets/content/exotic_plants/strelicja/strelicja_reginae/1.jpeg",
@@ -710,22 +683,47 @@ export class DataService {
 
     },
     {
-      name: "bugenwilla",
-      title: "Bugenwilla",
+      name: "bougainvillea",
+      title: "Bougainvillea",
       images: [
         "../assets/content/exotic_plants/bungewilla/1.jpeg",
         "../assets/content/exotic_plants/bungewilla/2.jpeg"
       ],
       subspieces: [
         {
-          title: "Bugenwilla",
-          description: "Bugenwilla (Bougainvillea) inaczej kącicierń, to rodzaj tak zwanych prymitywnych pnączy z rodziny nocnicowatych (Nyctaginaceae). Ich naturalnym miejscem występowania są tropikalne rejony Ameryki Południowej. W krajach klimatu śródziemnomorskiego porasta mury, ażurowe pergole i inne podpory, a w naszym klimacie rośliny te uprawiane są w pojemnikach. <br><br>Bugenwille mogą być prowadzone jako pnącza, krzewy lub drzewka. Ich długie, cienkie pędy osiągają nawet 12 m długości! Mają charakterystycznie zakrzywione ciernie ukryte w kątach liści, które służą roślinie do wspinania się na podpory. Eliptyczne, skórzaste liście rosną na krótkich ogonkach i mają włoski od spodniej strony blaszki. Właściwe kwiaty bugenwilli pojawiają się na całej długości pędu rośliny i są niepozorne, zazwyczaj białe lub różowe. Największą ich ozdobę stanowią imitujące kwiaty barwne podsadki, będące tak naprawdę liśćmi rośliny. Mogą być one różowe, pomarańczowe, łososiowe, czerwone, fioletowe, purpurowe i białe. <br><br> W chłodniejszym klimacie panującym w Polsce, kącicierń kwitnie niemal przez całe lato (zdarza się, że zakwita już wiosną!). <br><br>Uprawa i wymagania <br>Bugenwilla jest roślina wymagającą – w sezonie wiosenno-letnim roślina potrzebuje dużo słońca, preferuje południowe lub wschodnie stanowisko, wilgotne i żyzne podłoże oraz powinniśmy ją zraszać. Liście rośliny są wrażliwe i dość łatwo opadają! Aby tego uniknąć powinniśmy wybierać dla nich miejsca osłonięte od wiatru i uważać, by jej nie przelewać.Chcąc pobudzić kwitnienie dobrze jest stosunkowo często nawozić roślinę, a żeby obficie kwitła niektórzy polecają sadzić ją w mniejszych doniczkach.Jesienią kąciciernie chowamy do domu ograniczając podlewanie i starając się wybrać chłodniejsze pomieszczenie. Od listopada do lutego roślina przechodzi okres spoczynku i dobrze gdy uda się zapewnić jej temperaturę ok. 10 ºC. Wtedy też ogranicza się jej podlewanie (raz w tygodniu). W tym okresie liście rośliny mogą dość mocno opadać, jednak pędy pozostają żywe i nie tracą turgoru.Aby bugenwilla zachowała zwartą, krzaczastą formę oraz zawiązywała dużo pąków kwiatowych, pod koniec lutego należy skracać jej pędy o 1/3 długości.",
+          title: "Bougainvillea",
+          description: "Bougainvillea inaczej kącicierń, to rodzaj tak zwanych prymitywnych pnączy z rodziny nocnicowatych (Nyctaginaceae). Ich naturalnym miejscem występowania są tropikalne rejony Ameryki Południowej. W krajach klimatu śródziemnomorskiego porasta mury, ażurowe pergole i inne podpory, a w naszym klimacie rośliny te uprawiane są w pojemnikach. <br><br>Bugenwille mogą być prowadzone jako pnącza, krzewy lub drzewka. Ich długie, cienkie pędy osiągają nawet 12 m długości! Mają charakterystycznie zakrzywione ciernie ukryte w kątach liści, które służą roślinie do wspinania się na podpory. Eliptyczne, skórzaste liście rosną na krótkich ogonkach i mają włoski od spodniej strony blaszki. Właściwe kwiaty bugenwilli pojawiają się na całej długości pędu rośliny i są niepozorne, zazwyczaj białe lub różowe. Największą ich ozdobę stanowią imitujące kwiaty barwne podsadki, będące tak naprawdę liśćmi rośliny. Mogą być one różowe, pomarańczowe, łososiowe, czerwone, fioletowe, purpurowe i białe. <br><br> W chłodniejszym klimacie panującym w Polsce, kącicierń kwitnie niemal przez całe lato (zdarza się, że zakwita już wiosną!). <br><br>Uprawa i wymagania <br>Bugenwilla jest roślina wymagającą – w sezonie wiosenno-letnim roślina potrzebuje dużo słońca, preferuje południowe lub wschodnie stanowisko, wilgotne i żyzne podłoże oraz powinniśmy ją zraszać. Liście rośliny są wrażliwe i dość łatwo opadają! Aby tego uniknąć powinniśmy wybierać dla nich miejsca osłonięte od wiatru i uważać, by jej nie przelewać.Chcąc pobudzić kwitnienie dobrze jest stosunkowo często nawozić roślinę, a żeby obficie kwitła niektórzy polecają sadzić ją w mniejszych doniczkach.Jesienią kąciciernie chowamy do domu ograniczając podlewanie i starając się wybrać chłodniejsze pomieszczenie. Od listopada do lutego roślina przechodzi okres spoczynku i dobrze gdy uda się zapewnić jej temperaturę ok. 10 ºC. Wtedy też ogranicza się jej podlewanie (raz w tygodniu). W tym okresie liście rośliny mogą dość mocno opadać, jednak pędy pozostają żywe i nie tracą turgoru.Aby bugenwilla zachowała zwartą, krzaczastą formę oraz zawiązywała dużo pąków kwiatowych, pod koniec lutego należy skracać jej pędy o 1/3 długości.",
           images: [
             "../assets/content/exotic_plants/bungewilla/1.jpeg",
             "../assets/content/exotic_plants/bungewilla/2.jpeg"
           ],
         }
       ]
+    },
+    {
+      name: "nolina_nelsonii",
+      title: "Nolina nelsonii",
+      images: [
+        "../assets/content/yuccas/nolina_nelsoni/1.jpeg",
+        "../assets/content/yuccas/nolina_nelsoni/2.jpeg",
+        "../assets/content/yuccas/nolina_nelsoni/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Nolina nelsonii",
+          images: [
+            "../assets/content/yuccas/nolina_nelsoni/1.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/2.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/3.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/4.jpeg",
+            "../assets/content/yuccas/nolina_nelsoni/5.jpeg",
+          ],
+          description: "To roślina kwitnąca z rodzaju Nolina. Gatunek ten został po raz pierwszy opisany w 1906 roku; w swoim rodzaju jest morfologicznie najbardziej podobny do Nolina parryi."
+
+        }
+      ]
+
+
     },
   ];
 
