@@ -57,6 +57,15 @@ export class DataService {
             "../assets/content/palms/chamaerops/chamaerops_humilis/4.jpeg",
             "../assets/content/palms/chamaerops/chamaerops_humilis/5.jpeg",
             "../assets/content/palms/chamaerops/chamaerops_humilis/6.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/7.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/8.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/9.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/10.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/11.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/12.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/13.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis/14.jpeg",
+
           ]
         },
         {
@@ -65,6 +74,12 @@ export class DataService {
           images: [
             "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/1.jpeg",
             "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/2.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/3.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/4.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/5.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/6.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/7.jpeg",
+            "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/8.jpeg",
           ],
         },
       ]
@@ -82,23 +97,42 @@ export class DataService {
           title: "Washingtonia filifera",
           description: "Pochodzi z północno-zachodniego Meksyku. Jest jedną z tych palm, które przykuwają naszą uwagę sowim naprawdę wyjątkowym wyglądem. Palma ta zawdzięcza to ozdobnym włóknom zwisającym z wachlarzowatych liści. Z tym też związana jest jej nazwa, ponieważ filifera z łaciny oznacza mająca włókna. <br><br>Doskonale nadaje się do uprawy w pojemnikach. Szybko rośnie, w mieszkaniu wymaga dużo miejsca oraz wysokiej wilgotności powietrza. Latem można ją bez obaw wynosić na zewnątrz. Najlepiej prezentuje się samotnie - wtedy dobrze widoczne są jej dekoracyjne liście i pień.",
           images: [
-            "../assets/content/palms/waszyngtonia/1.jpeg",
-            "../assets/content/palms/waszyngtonia/2.jpeg",
-            "../assets/content/palms/waszyngtonia/3.jpeg",
-            "../assets/content/palms/waszyngtonia/5.jpeg",
-            "../assets/content/palms/waszyngtonia/6.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/1.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/2.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/3.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/4.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/5.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/6.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/7.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/8.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/9.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/10.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/11.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_filifera/12.jpeg",
+
           ]
         },
         {
           title: "Washingtonia robusta",
           description: "Pochodzi z suchych obszarów na terenie Meksyku, gdzie ma dostęp do wód gruntowych. Rośnie również w południowych regionach USA. Washingtonia robusta zwana jest Meksykańską. W naturze pnie przysłonięte są suchymi, opadniętymi liśćmi, które tworzą wokół pnia warstwową spódniczkę.",
           images: [
-            "../assets/content/palms/waszyngtonia/7.jpeg",
-            "../assets/content/palms/waszyngtonia/8.jpeg",
-            "../assets/content/palms/waszyngtonia/9.jpeg",
-            "../assets/content/palms/waszyngtonia/10.jpeg",
-            "../assets/content/palms/waszyngtonia/11.jpeg",
-            "../assets/content/palms/waszyngtonia/12.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/1.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/2.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/3.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/4.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/5.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/6.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/7.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/8.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/9.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/10.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/11.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/12.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/13.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/14.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/15.jpeg",
+            "../assets/content/palms/waszyngtonia/washingtonia_robusta/16.jpeg",
+
           ]
         },
       ]
@@ -121,13 +155,11 @@ export class DataService {
             "../assets/content/palms/phoenix/phoenix_canariensis/2.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/3.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/4.jpeg",
-            "../assets/content/palms/phoenix/phoenix_canariensis/5.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/6.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/7.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/8.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/9.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/10.jpeg",
-            "../assets/content/palms/phoenix/phoenix_canariensis/11jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/12.jpeg",
           ],
         },
@@ -202,21 +234,6 @@ export class DataService {
             "../assets/content/palms/brahea/brahea_armata/1.jpeg",
             "../assets/content/palms/brahea/brahea_armata/2.jpeg",
             "../assets/content/palms/brahea/brahea_armata/3.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/4.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/5.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/6.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/7.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/8.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/9.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/10.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/11.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/12.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/13.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/14.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/15.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/16.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/17.jpeg",
-            "../assets/content/palms/brahea/brahea_armata/18.jpeg",
 
           ]
         },
@@ -729,45 +746,151 @@ export class DataService {
 
   oliveTreesData = [
     {
-      name: "drzewa_oliwne",
-      title: "Drzewa oliwne",
+      name: "young_skin",
+      title: "Young skin",
       images: [
-        "../assets/content/olive_trees/1.jpeg",
-        "../assets/content/olive_trees/2.jpeg",
-        "../assets/content/olive_trees/3.jpeg",
+        "../assets/content/olive_trees/young_skin/1.jpeg",
+        "../assets/content/olive_trees/young_skin/2.jpeg",
+        "../assets/content/olive_trees/young_skin/3.jpeg",
+
       ],
       subspieces: [
         {
-          title: "Drzewa oliwne",
+          title: "Young skin",
           description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
           images: [
-            "../assets/content/olive_trees/1.jpeg",
-            "../assets/content/olive_trees/2.jpeg",
-            "../assets/content/olive_trees/3.jpeg",
-            "../assets/content/olive_trees/4.jpeg",
-            "../assets/content/olive_trees/5.jpeg",
-            "../assets/content/olive_trees/6.jpeg",
-            "../assets/content/olive_trees/7.jpeg",
-            "../assets/content/olive_trees/8.jpeg",
-            "../assets/content/olive_trees/9.jpeg",
-            "../assets/content/olive_trees/10.jpeg",
-            "../assets/content/olive_trees/11.jpeg",
-            "../assets/content/olive_trees/12.jpeg",
-            "../assets/content/olive_trees/13.jpeg",
-            "../assets/content/olive_trees/14.jpeg",
-            "../assets/content/olive_trees/15.jpeg",
-            "../assets/content/olive_trees/16.jpeg",
-            "../assets/content/olive_trees/17.jpeg",
-            "../assets/content/olive_trees/18.jpeg",
-            "../assets/content/olive_trees/19.jpeg",
-            "../assets/content/olive_trees/20.jpeg",
-            "../assets/content/olive_trees/21.jpeg",
-            "../assets/content/olive_trees/22.jpeg",
+            "../assets/content/olive_trees/young_skin/1.jpeg",
+            "../assets/content/olive_trees/young_skin/2.jpeg",
+            "../assets/content/olive_trees/young_skin/3.jpeg",
+            "../assets/content/olive_trees/young_skin/4.jpeg",
+            "../assets/content/olive_trees/young_skin/5.jpeg",
+            "../assets/content/olive_trees/young_skin/6.jpeg",
+            "../assets/content/olive_trees/young_skin/7.jpeg",
+            "../assets/content/olive_trees/young_skin/8.jpeg",
+            "../assets/content/olive_trees/young_skin/9.jpeg",
+            "../assets/content/olive_trees/young_skin/10.jpeg",
+            "../assets/content/olive_trees/young_skin/11.jpeg",
+            "../assets/content/olive_trees/young_skin/12.jpeg",
+            "../assets/content/olive_trees/young_skin/13.jpeg",
+            "../assets/content/olive_trees/young_skin/14.jpeg",
+            "../assets/content/olive_trees/young_skin/15.jpeg",
+            "../assets/content/olive_trees/young_skin/16.jpeg",
+            "../assets/content/olive_trees/young_skin/17.jpeg",
+            "../assets/content/olive_trees/young_skin/18.jpeg",
+            "../assets/content/olive_trees/young_skin/19.jpeg",
+
           ],
         },
+
       ]
     },
-  ];
+    {
+      name: "old_skin",
+      title: "Old skin",
+      images: [
+        "../assets/content/olive_trees/old_skin/1.jpeg",
+        "../assets/content/olive_trees/old_skin/2.jpeg",
+        "../assets/content/olive_trees/old_skin/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Old skin",
+          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
+          images: [
+            "../assets/content/olive_trees/old_skin/1.jpeg",
+            "../assets/content/olive_trees/old_skin/2.jpeg",
+            "../assets/content/olive_trees/old_skin/3.jpeg",
+            "../assets/content/olive_trees/old_skin/4.jpeg",
+            "../assets/content/olive_trees/old_skin/5.jpeg",
+            "../assets/content/olive_trees/old_skin/6.jpeg",
+            "../assets/content/olive_trees/old_skin/7.jpeg",
+            "../assets/content/olive_trees/old_skin/8.jpeg",
+            "../assets/content/olive_trees/old_skin/9.jpeg",
+            "../assets/content/olive_trees/old_skin/10.jpeg",
+            "../assets/content/olive_trees/old_skin/11.jpeg",
+            "../assets/content/olive_trees/old_skin/12.jpeg",
+            "../assets/content/olive_trees/old_skin/13.jpeg",
+            "../assets/content/olive_trees/old_skin/14.jpeg",
+            "../assets/content/olive_trees/old_skin/15.jpeg",
+            "../assets/content/olive_trees/old_skin/16.jpeg",
+            "../assets/content/olive_trees/old_skin/17.jpeg",
+            "../assets/content/olive_trees/old_skin/18.jpeg",
+            "../assets/content/olive_trees/old_skin/19.jpeg",
+            "../assets/content/olive_trees/old_skin/20.jpeg",
+            "../assets/content/olive_trees/old_skin/21.jpeg",
+            "../assets/content/olive_trees/old_skin/22.jpeg",
+            "../assets/content/olive_trees/old_skin/23.jpeg",
+            "../assets/content/olive_trees/old_skin/24.jpeg",
+            "../assets/content/olive_trees/old_skin/25.jpeg",
+            "../assets/content/olive_trees/old_skin/26.jpeg",
+            "../assets/content/olive_trees/old_skin/27.jpeg",
+            "../assets/content/olive_trees/old_skin/28.jpeg",
+            "../assets/content/olive_trees/old_skin/29.jpeg",
+            "../assets/content/olive_trees/old_skin/30.jpeg",
+
+
+          ],
+        },
+
+      ]
+    },
+    {
+      name: "pom_pom",
+      title: "Pom-pom",
+      images: [
+        "../assets/content/olive_trees/pom_pom/1.jpeg",
+        "../assets/content/olive_trees/pom_pom/2.jpeg",
+        "../assets/content/olive_trees/pom_pom/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Pom-pom",
+          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
+          images: [
+            "../assets/content/olive_trees/pom_pom/1.jpeg",
+            "../assets/content/olive_trees/pom_pom/2.jpeg",
+            "../assets/content/olive_trees/pom_pom/3.jpeg",
+            "../assets/content/olive_trees/pom_pom/4.jpeg",
+            "../assets/content/olive_trees/pom_pom/5.jpeg",
+            "../assets/content/olive_trees/pom_pom/6.jpeg",
+            "../assets/content/olive_trees/pom_pom/7.jpeg",
+            "../assets/content/olive_trees/pom_pom/8.jpeg",
+            "../assets/content/olive_trees/pom_pom/9.jpeg",
+
+          ],
+        },
+
+      ]
+    },
+    {
+      name: "bonsai",
+      title: "Bonsai",
+      images: [
+        "../assets/content/olive_trees/bonsai/1.jpeg",
+        "../assets/content/olive_trees/bonsai/2.jpeg",
+        "../assets/content/olive_trees/bonsai/3.jpeg",
+      ],
+      subspieces: [
+        {
+          title: "Bonsai",
+          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
+          images: [
+            "../assets/content/olive_trees/bonsai/1.jpeg",
+            "../assets/content/olive_trees/bonsai/2.jpeg",
+            "../assets/content/olive_trees/bonsai/3.jpeg",
+            "../assets/content/olive_trees/bonsai/4.jpeg",
+            "../assets/content/olive_trees/bonsai/5.jpeg",
+            "../assets/content/olive_trees/bonsai/6.jpeg",
+            "../assets/content/olive_trees/bonsai/7.jpeg",
+            "../assets/content/olive_trees/bonsai/8.jpeg",
+            "../assets/content/olive_trees/bonsai/9.jpeg",
+
+          ],
+        },
+
+      ]
+    },
+  ]
 
   getAllPalmsData(): Array<any> {
 
