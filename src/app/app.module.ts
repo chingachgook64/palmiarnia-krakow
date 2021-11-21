@@ -28,6 +28,7 @@ import { YuccasDetailsComponent } from './offer/yuccas/yuccas-details/yuccas-det
 import { OfferComponent } from './offer/offer.component';
 import { PlantsAtCustomersComponent } from './plants-at-customers/plants-at-customers.component';
 import { AboutComponent } from './about/about.component';
+import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -62,7 +63,7 @@ import { AboutComponent } from './about/about.component';
     HttpClientJsonpModule,
     AppRoutingModule,
   ],
-  providers: [],
+  providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
