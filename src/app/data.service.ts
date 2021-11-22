@@ -19,7 +19,7 @@ export class DataService {
       subspieces: [
         {
           title: "Trachycarpus fortunei (szorstkowiec fortunego)",
-          description: "Gatunek drzewa z rodziny arekowatych. Pochodzi z gór południowych i środkowych Chin, poza tym występuje w Bhutanie, Nepalu, północnych Indiach, Mjanmie i Wietnamie, a jako gatunek naturalizowany także w Japonii. Nazwa upamiętnia Roberta Fortune'a, który przywiózł tę roślinę z Chin do Europy. <br><br>Roślina jest uprawiana już w Europie od ponad 160 lat w celach ozdobnych. Ze względu na relatywnie, jak na palmę, dużą odporność na niskie temperatury jest popularna w uprawie w krajach klimatu umiarkowanego. Z włókna otrzymanego z liści w niektórych krajach wykonuje się miotły, powrozy, nieprzemakalne płaszcze, kapelusze i inne wyroby.",
+          description: "Gatunek drzewa z rodziny arekowatych. Pochodzi z gór południowych i środkowych Chin, poza tym występuje w Bhutanie, Nepalu, północnych Indiach, Mjanmie i Wietnamie, a jako gatunek naturalizowany także w Japonii. Nazwa upamiętnia Roberta Fortune'a, który przywiózł tę roślinę z Chin do Europy. <br><br>Roślina jest uprawiana już w Europie od ponad 160 lat w celach ozdobnych. Ze względu na relatywnie, jak na palmę, dużą odporność na niskie temperatury jest popularna w uprawie w krajach klimatu umiarkowanego. Z włókna otrzymanego z liści w niektórych krajach wykonuje się miotły, powrozy, nieprzemakalne płaszcze, kapelusze i inne wyroby. <br><br><b>Tolerancja na mróz:</b> od -14 do -15. ",
           images: [
             "../assets/content/palms/trachycarpus_fortunei/1.jpeg",
             "../assets/content/palms/trachycarpus_fortunei/2.jpeg",
@@ -49,7 +49,7 @@ export class DataService {
       subspieces: [
         {
           title: "Chamaerops humilis",
-          description: "Gatunek wiecznie zielonej rośliny z rodziny arekowatych. Jedyny przedstawiciel monotypowego rodzaju karłatka. Jako łatwy gatunek do uprawy, sadzony jest także poza swym pierwotnym zasięgiem, w tym uprawiany jest jako roślina doniczkowa. Owoce są niejadalne i nie mają wartości użytkowej.",
+          description: "Gatunek wiecznie zielonej rośliny z rodziny arekowatych. Jedyny przedstawiciel monotypowego rodzaju karłatka. Jako łatwy gatunek do uprawy, sadzony jest także poza swym pierwotnym zasięgiem, w tym uprawiany jest jako roślina doniczkowa. Owoce są niejadalne i nie mają wartości użytkowej. <br><br><b>Tolerancja na mróz:</b> od -14 do -15.",
           images: [
             "../assets/content/palms/chamaerops/chamaerops_humilis/1.jpeg",
             "../assets/content/palms/chamaerops/chamaerops_humilis/2.jpeg",
@@ -60,17 +60,12 @@ export class DataService {
             "../assets/content/palms/chamaerops/chamaerops_humilis/7.jpeg",
             "../assets/content/palms/chamaerops/chamaerops_humilis/8.jpeg",
             "../assets/content/palms/chamaerops/chamaerops_humilis/9.jpeg",
-            "../assets/content/palms/chamaerops/chamaerops_humilis/10.jpeg",
-            "../assets/content/palms/chamaerops/chamaerops_humilis/11.jpeg",
-            "../assets/content/palms/chamaerops/chamaerops_humilis/12.jpeg",
-            "../assets/content/palms/chamaerops/chamaerops_humilis/13.jpeg",
-            "../assets/content/palms/chamaerops/chamaerops_humilis/14.jpeg",
 
           ]
         },
         {
           title: "Chamaerops humilis cerifera",
-          description: "Jest jedyną w Eruopie rodzimą palmą. Jej zasięg obejmuje zachodnią część obszaru śródziemnomorskiego, od południowych Włoch do południowej Hiszpanii oraz Afrykę, wzdłuż wybrzeża północnoafrykańskiego, od Tunezji do Maroka. <br><br>Obecnie bywa uprawiana, w celach ozdobnych, na większym obszarze, między innymi na południu Chorwacji i Grecji. Ta wdzięczna i niewybredna roślina bardzo dobrze nadaje się zarówno do miejsc słonecznych jak i zacienonych. Odmiana Carifera cechuje się kolorem liści, które są z góry jak i dołu srebrzysto-niebieskie.",
+          description: "Jest jedyną w Eruopie rodzimą palmą. Jej zasięg obejmuje zachodnią część obszaru śródziemnomorskiego, od południowych Włoch do południowej Hiszpanii oraz Afrykę, wzdłuż wybrzeża północnoafrykańskiego, od Tunezji do Maroka. <br><br>Obecnie bywa uprawiana, w celach ozdobnych, na większym obszarze, między innymi na południu Chorwacji i Grecji. Ta wdzięczna i niewybredna roślina bardzo dobrze nadaje się zarówno do miejsc słonecznych jak i zacienonych. Odmiana Carifera cechuje się kolorem liści, które są z góry jak i dołu srebrzysto-niebieskie. <br><br><b>Tolerancja na mróz:</b> do -16. ",
           images: [
             "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/1.jpeg",
             "../assets/content/palms/chamaerops/chamaerops_humilis_carifera/2.jpeg",
@@ -95,7 +90,7 @@ export class DataService {
       subspieces: [
         {
           title: "Washingtonia filifera",
-          description: "Pochodzi z północno-zachodniego Meksyku. Jest jedną z tych palm, które przykuwają naszą uwagę sowim naprawdę wyjątkowym wyglądem. Palma ta zawdzięcza to ozdobnym włóknom zwisającym z wachlarzowatych liści. Z tym też związana jest jej nazwa, ponieważ filifera z łaciny oznacza mająca włókna. <br><br>Doskonale nadaje się do uprawy w pojemnikach. Szybko rośnie, w mieszkaniu wymaga dużo miejsca oraz wysokiej wilgotności powietrza. Latem można ją bez obaw wynosić na zewnątrz. Najlepiej prezentuje się samotnie - wtedy dobrze widoczne są jej dekoracyjne liście i pień.",
+          description: "Pochodzi z północno-zachodniego Meksyku. Jest jedną z tych palm, które przykuwają naszą uwagę sowim naprawdę wyjątkowym wyglądem. Palma ta zawdzięcza to ozdobnym włóknom zwisającym z wachlarzowatych liści. Z tym też związana jest jej nazwa, ponieważ filifera z łaciny oznacza mająca włókna. <br><br>Doskonale nadaje się do uprawy w pojemnikach. Szybko rośnie, w mieszkaniu wymaga dużo miejsca oraz wysokiej wilgotności powietrza. Latem można ją bez obaw wynosić na zewnątrz. Najlepiej prezentuje się samotnie - wtedy dobrze widoczne są jej dekoracyjne liście i pień. <br><br><b>Tolerancja na mróz:</b> od -8 do -10.",
           images: [
             "../assets/content/palms/waszyngtonia/washingtonia_filifera/1.jpeg",
             "../assets/content/palms/waszyngtonia/washingtonia_filifera/2.jpeg",
@@ -114,7 +109,7 @@ export class DataService {
         },
         {
           title: "Washingtonia robusta",
-          description: "Pochodzi z suchych obszarów na terenie Meksyku, gdzie ma dostęp do wód gruntowych. Rośnie również w południowych regionach USA. Washingtonia robusta zwana jest Meksykańską. W naturze pnie przysłonięte są suchymi, opadniętymi liśćmi, które tworzą wokół pnia warstwową spódniczkę.",
+          description: "Pochodzi z suchych obszarów na terenie Meksyku, gdzie ma dostęp do wód gruntowych. Rośnie również w południowych regionach USA. Washingtonia robusta zwana jest Meksykańską. W naturze pnie przysłonięte są suchymi, opadniętymi liśćmi, które tworzą wokół pnia warstwową spódniczkę. <br><br><b>Tolerancja na mróz:</b> od -6 do -8.",
           images: [
             "../assets/content/palms/waszyngtonia/washingtonia_robusta/1.jpeg",
             "../assets/content/palms/waszyngtonia/washingtonia_robusta/2.jpeg",
@@ -149,7 +144,7 @@ export class DataService {
       subspieces: [
         {
           title: "Phoenix  canariensis",
-          description: "Gatunek z rodziny arekowatych, pochodzący z zachodniego wybrzeża Afryki, najprawdopodobniej z Wysp Kanaryjskich. Nazywana jest palmą królewską. Ze względu na atrakcyjny wygląd daktylowiec kanaryjski jest często uprawiany w cieplejszych, na ogół subtropikalnych regionach świata, szczególnie w klimacie śródziemnomorskim. <br><br>Roślina ta występuje od południowej Wielkiej Brytanii na wyspie Tresco aż po południe Chile. Bardzo popularna jest w całej południowej Europie, a także w cieplejszych regionach USA, Australii, Nowej Zelandii, południowej Afryce, Chile i Argentynie. W Polsce ze względu na klimat uprawiana jest w oranżeriach lub w pojemnikach jako roślina pokojowa.",
+          description: "Gatunek z rodziny arekowatych, pochodzący z zachodniego wybrzeża Afryki, najprawdopodobniej z Wysp Kanaryjskich. Nazywana jest palmą królewską. Ze względu na atrakcyjny wygląd daktylowiec kanaryjski jest często uprawiany w cieplejszych, na ogół subtropikalnych regionach świata, szczególnie w klimacie śródziemnomorskim. <br><br>Roślina ta występuje od południowej Wielkiej Brytanii na wyspie Tresco aż po południe Chile. Bardzo popularna jest w całej południowej Europie, a także w cieplejszych regionach USA, Australii, Nowej Zelandii, południowej Afryce, Chile i Argentynie. W Polsce ze względu na klimat uprawiana jest w oranżeriach lub w pojemnikach jako roślina pokojowa. <br><br><b>Tolerancja na mróz:</b> do -6.",
           images: [
             "../assets/content/palms/phoenix/phoenix_canariensis/1.jpeg",
             "../assets/content/palms/phoenix/phoenix_canariensis/2.jpeg",
@@ -165,7 +160,7 @@ export class DataService {
         },
         {
           title: "Phoenix  dactylifera",
-          description: "Daktylowiec, z łac. Phoenix, to rodzaj wiecznie zielonej palmy, która pochodzi z północnej Afryki, z Azji i Wysp Kanaryjskich. W naturalnym środowisku rośnie w strefie tropikalnej i subtropikalnej, dlatego w polskich warunkach klimatycznych może być hodowany wyłącznie w domach oraz palmiarniach. <br><br>Daktylowiec jest rośliną jadalną. Z soku wydzielanego z pnia wyrabia się cukier i wino palmowe. Owoce rośliny – daktyle – można spożywać na surowo bądź po przetworzeniu. Na krajowy rynek trafiają przed wszystkim daktyle w formie ususzonej. Daktylowiec hodowany w mieszkaniu rośnie mniej okazale i efektownie od gatunków w naturalnym środowisku. Osiąga do 150 cm wysokości. Posiada długi, smukły pień zakończony na szczycie pióropuszem długich, pierzastych liści w kolorze ciemnozielonym.",
+          description: "Daktylowiec, z łac. Phoenix, to rodzaj wiecznie zielonej palmy, która pochodzi z północnej Afryki, z Azji i Wysp Kanaryjskich. W naturalnym środowisku rośnie w strefie tropikalnej i subtropikalnej, dlatego w polskich warunkach klimatycznych może być hodowany wyłącznie w domach oraz palmiarniach. <br><br>Daktylowiec jest rośliną jadalną. Z soku wydzielanego z pnia wyrabia się cukier i wino palmowe. Owoce rośliny – daktyle – można spożywać na surowo bądź po przetworzeniu. Na krajowy rynek trafiają przed wszystkim daktyle w formie ususzonej. Daktylowiec hodowany w mieszkaniu rośnie mniej okazale i efektownie od gatunków w naturalnym środowisku. Osiąga do 150 cm wysokości. Posiada długi, smukły pień zakończony na szczycie pióropuszem długich, pierzastych liści w kolorze ciemnozielonym. <br><br><b>Tolerancja na mróz:</b> do -7.",
           images: [
             "../assets/content/palms/phoenix/phoenix_actylifera/2.jpeg",
             "../assets/content/palms/phoenix/phoenix_actylifera/3.jpeg",
@@ -183,7 +178,7 @@ export class DataService {
         },
         {
           title: "Phoenix roebellini",
-          description: "Gatunek rośliny z rodziny arekowatych, występujący naturalnie w północnych Indiach, Laosie i na południu Wietnamu. Daktylowiec niski może dorastać do 3 m. Ma pokrój krzaczasty, rosnąc dziko wytwarza liczne odrosty, w uprawie doniczkowej zazwyczaj ma tylko jeden pień. Młode pędy liściowe są pokryte szarawym nalotem. Rozwinięte liście są pierzaste, delikatne i ładnie wygięte, na łodygach mają cienkie, ostre kolce. Powierzchnia pnia przypomina fakturą niedojrzały ananas i pokryta jest w górnej części brązowymi włóknami.",
+          description: "Gatunek rośliny z rodziny arekowatych, występujący naturalnie w północnych Indiach, Laosie i na południu Wietnamu. Daktylowiec niski może dorastać do 3 m. Ma pokrój krzaczasty, rosnąc dziko wytwarza liczne odrosty, w uprawie doniczkowej zazwyczaj ma tylko jeden pień. Młode pędy liściowe są pokryte szarawym nalotem. Rozwinięte liście są pierzaste, delikatne i ładnie wygięte, na łodygach mają cienkie, ostre kolce. Powierzchnia pnia przypomina fakturą niedojrzały ananas i pokryta jest w górnej części brązowymi włóknami. <br><br><b>Tolerancja na mróz:</b> od -5 do -6.",
           images: [
             "../assets/content/palms/phoenix/phoenix _roebelini/1.jpeg",
             "../assets/content/palms/phoenix/phoenix _roebelini/2.jpeg",
@@ -206,7 +201,7 @@ export class DataService {
       subspieces: [
         {
           title: "Bismarckia nobilis",
-          description: "Bismarckia nobilis – jedyny gatunek z monotypowego rodzaju Bismarckia Hildebrandt. Palma ta występuje naturalnie na terenie Madagaskaru, gdzie jest dość rzadka. Poza tym jednak jest szeroko rozpowszechniona w uprawie jako roślina ozdobna.",
+          description: "Bismarckia nobilis – jedyny gatunek z monotypowego rodzaju Bismarckia Hildebrandt. Palma ta występuje naturalnie na terenie Madagaskaru, gdzie jest dość rzadka. Poza tym jednak jest szeroko rozpowszechniona w uprawie jako roślina ozdobna. <br><br><b>Tolerancja na mróz:</b> do -3.",
           images: [
             "../assets/content/palms/bismarckia_nobilis/1.jpeg",
             "../assets/content/palms/bismarckia_nobilis/2.jpeg",
@@ -229,7 +224,7 @@ export class DataService {
       subspieces: [
         {
           title: "Brahea armata",
-          description: "Powszechnie znana jako meksykańska niebieska palma lub niebieska palma hesper, jest dużym wiecznie zielonym drzewem z rodziny arekowatych, pochodzącym z Baja California w Meksyku. Jest powszechnie sadzony jako roślina ozdobna. Dorasta do wysokości 15 metrów z grubym pniem.",
+          description: "Powszechnie znana jako meksykańska niebieska palma lub niebieska palma hesper, jest dużym wiecznie zielonym drzewem z rodziny arekowatych, pochodzącym z Baja California w Meksyku. Jest powszechnie sadzony jako roślina ozdobna. Dorasta do wysokości 15 metrów z grubym pniem. <br><br><b>Tolerancja na mróz:</b> do -6.",
           images: [
             "../assets/content/palms/brahea/brahea_armata/1.jpeg",
             "../assets/content/palms/brahea/brahea_armata/2.jpeg",
@@ -239,7 +234,7 @@ export class DataService {
         },
         {
           title: "Brahea edulis",
-          description: "Palma Guadalupe lub palma de Guadalupe, jest endemiczną palmą występującą na wyspie Guadalupe w Meksyku, chociaż kilka drzewostanów zostało posadzonych w innych miejscach. Jest to palma wachlarzowa, która rośnie od 4,50 do 13 metrów. Rośnie na wysokości między 400 a 1000 metrów nad poziomem morza.",
+          description: "Palma Guadalupe lub palma de Guadalupe, jest endemiczną palmą występującą na wyspie Guadalupe w Meksyku, chociaż kilka drzewostanów zostało posadzonych w innych miejscach. Jest to palma wachlarzowa, która rośnie od 4,50 do 13 metrów. Rośnie na wysokości między 400 a 1000 metrów nad poziomem morza. <br><br><b>Tolerancja na mróz:</b> do -6.",
           images: [
             "../assets/content/palms/brahea/brahea_edulis/1.jpeg",
           ]
@@ -258,7 +253,7 @@ export class DataService {
       subspieces: [
         {
           title: "Jubaea chilensis",
-          description: "Gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. <br><br>Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). <br><br>Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich.",
+          description: "Gatunek rośliny z rodziny arekowatych z monotypowego rodzaju zwanego jubea Jubaea, zwyczajowo zwany palmą chilijską i palmą miodową. Pochodzi z południowo-zachodniego obszaru Ameryki Południowej i jest endemicznym gatunkiem obszaru chilijsko-patagońskiego. <br><br>Jest bardzo imponującą palmą osiągającą ponad 30 metrów wysokości, kłodzina u podstawy może osiągnąć do 1,5 m średnicy. Kłodzina jest krępa, szara i gładka. Obwód korony osiąga do dziewięciu metrów. Pierzaste liście mają długość od dwóch do czterech metrów. Palma ta rośnie bardzo wolno – jest jedną z najwolniej rosnących palm na świecie. Zakwita i owocuje dopiero po 60 latach. Dorosła palma w odpowiednim klimacie przyrasta do 20 cm rocznie. W klimacie umiarkowanym uprawa jubei jest możliwa, roślina przyrasta jednak znacznie wolniej (ok. 10 cm rocznie). <br><br>Jest tolerancyjna do około -15 °C, co czyni ją jedną z najbardziej odpornych na zimno palm z pierzastymi liśćmi. Ponieważ w swoim środowisku rośnie aż do wysokości 1400 metrów nad poziomem morza, nie wymaga gorących okresów letnich. <br><br><b>Tolerancja na mróz:</b> do -15.",
           images: [
             "../assets/content/palms/jubea_chilensis/1.jpeg",
             "../assets/content/palms/jubea_chilensis/2.jpeg",
@@ -281,7 +276,7 @@ export class DataService {
       subspieces: [
         {
           title: "Sabal minor",
-          description: "to gatunek palmy, pochodzącej z rodziny arekowatych. W warunkach naturalnych rośnie w Ameryce północnej. Jest to palma krzaczasta, dorastająca do 200 cm, o pięknych zielonych,dużych wachlarzowych liściach. Wiosną kwitnie drobnymi białymi kwiatkami, które górują nad koroną silnych, sztywnych liści. Latem można ją przetrzymywać na zewnątrz, ale zimą musi stać wewnątrz.",
+          description: "to gatunek palmy, pochodzącej z rodziny arekowatych. W warunkach naturalnych rośnie w Ameryce północnej. Jest to palma krzaczasta, dorastająca do 200 cm, o pięknych zielonych,dużych wachlarzowych liściach. Wiosną kwitnie drobnymi białymi kwiatkami, które górują nad koroną silnych, sztywnych liści. Latem można ją przetrzymywać na zewnątrz, ale zimą musi stać wewnątrz. <br><br><b>Tolerancja na mróz:</b> do -18.",
           images: [
             "../assets/content/palms/sabal_minor/1.jpeg",
           ]
@@ -298,14 +293,14 @@ export class DataService {
       subspieces: [
         {
           title: "Butia capitata (odorata)",
-          description: "Butia Capitata zwana też często palmą dżemową i bucją główkowatą w naturze występująca w Ameryce Połudiowej (Brazylii, Urugwaju na teranach Bahia, Goias, Minar Gerais). Dorastająca do około 5 metrów wysokości. W naturze czasami zdarza się iż występuje z podziemnym pniem, pień szeroki masywny. Liście łukowate wpadające w odcienie koloru niebieskiego i szarej-zieleni w kształcie piór osiągające do 170 cm długości w koronie. <br><br>Palmę najlepiej posadzić w miejscu dobrze nasłoneczniony (jednak miejsca częsciowo zacienione równiez będą tolerowane), palma jest dość prosta w uprawie, dobrze znosi suszę oraz nie jest wymagająca jeśli chodzi o warunki glebowe. Palma rośnie wolno, rozłożyste liście.Nasiona owalne do jajowatych z zarysowanym włóknem (ala kokos). <br><br>Odporność na mróz: Tak do -12°C",
+          description: "Butia Capitata zwana też często palmą dżemową i bucją główkowatą w naturze występująca w Ameryce Połudiowej (Brazylii, Urugwaju na teranach Bahia, Goias, Minar Gerais). Dorastająca do około 5 metrów wysokości. W naturze czasami zdarza się iż występuje z podziemnym pniem, pień szeroki masywny. Liście łukowate wpadające w odcienie koloru niebieskiego i szarej-zieleni w kształcie piór osiągające do 170 cm długości w koronie. <br><br>Palmę najlepiej posadzić w miejscu dobrze nasłoneczniony (jednak miejsca częsciowo zacienione równiez będą tolerowane), palma jest dość prosta w uprawie, dobrze znosi suszę oraz nie jest wymagająca jeśli chodzi o warunki glebowe. Palma rośnie wolno, rozłożyste liście.Nasiona owalne do jajowatych z zarysowanym włóknem (ala kokos). <br><br><b>Tolerancja na mróz:</b> do -12.",
           images: [
             "../assets/content/palms/butia/1.jpeg"
           ]
         },
         {
           title: "Butia yatay",
-          description: "galaretowa palma lub palma yatay, to palma Butia pochodząca z południowej Brazylii, Urugwaju i północnej Argentyny. Jest znany jako butiá-jataí w języku portugalskim na południu Brazylii, a także po prostu jataí lub butiá. Czasami jest uprawiany jako roślina ozdobna w Europie i Stanach Zjednoczonych.",
+          description: "galaretowa palma lub palma yatay, to palma Butia pochodząca z południowej Brazylii, Urugwaju i północnej Argentyny. Jest znany jako butiá-jataí w języku portugalskim na południu Brazylii, a także po prostu jataí lub butiá. Czasami jest uprawiany jako roślina ozdobna w Europie i Stanach Zjednoczonych. <br><br><b>Tolerancja na mróz:</b> do -12.",
           images: [
             "../assets/content/palms/butia/1.jpeg"
           ]
@@ -326,7 +321,7 @@ export class DataService {
       subspieces: [
         {
           title: "Aarchontophoenics alexandra",
-          description: "Gatunek pochodzi z lasów deszczowych porastających nadbrzeże północno-wschodniej Australii. Ma piękny, smukły, szary pień i rozszerzoną podstawę liści z widocznymi śladami po opadłych liściach. Duże, pierzaste liście są jasnozielone od góry, srebrno-białe od spodu. Wykształca białe rozgałęzione kwiatostany, które zwisają spomiędzy liści. Owoce są okrągłe i czerwone. Dobrze rośnie w wilgotnej ziemi, ważny jest też dobry drenaż. Kiedy jest sucho warto pamiętać o dodatkowym podlewaniu. Dobrze odnajduje się w pełnym słońcu i półcieniu. Ta piękna palma doskonale nadaje się jako palma doniczkowa do jasnych pomieszczeń.",
+          description: "Gatunek pochodzi z lasów deszczowych porastających nadbrzeże północno-wschodniej Australii. Ma piękny, smukły, szary pień i rozszerzoną podstawę liści z widocznymi śladami po opadłych liściach. Duże, pierzaste liście są jasnozielone od góry, srebrno-białe od spodu. Wykształca białe rozgałęzione kwiatostany, które zwisają spomiędzy liści. Owoce są okrągłe i czerwone. Dobrze rośnie w wilgotnej ziemi, ważny jest też dobry drenaż. Kiedy jest sucho warto pamiętać o dodatkowym podlewaniu. Dobrze odnajduje się w pełnym słońcu i półcieniu. Ta piękna palma doskonale nadaje się jako palma doniczkowa do jasnych pomieszczeń. <br><br><b>Tolerancja na mróz:</b> do -5.",
           images: [
             "../assets/content/palms/archontophoenics_alexandra/1.jpeg",
             "../assets/content/palms/archontophoenics_alexandra/2.jpeg",
@@ -344,7 +339,7 @@ export class DataService {
       subspieces: [
         {
           title: "Coco nucifera",
-          description: "Coco nucifera często występuje również pod nazwami kokos właściwy, kokosowiec właściwy czy kokosowiec to należąca do rodziny arekowatych roślina którą spotkać możemy niemal na całym świecie. Najpopularniejsz w krajach Azjatyckich oraz w Ameryce Południowej. <br><br>Dorastająca do 30 metrów palma kokosowa o pojedynczym prostym pniu którego średnica nie przekracza 40 cm. Dorosła coco nucifera wypuszcza wiele łodyk których długie liście mogące dochodzić nawet do 6 metrów. Palma ta wymaga odpowiednio wysokiej temperatury, nie jest mrozoodporna, zimowanie powinniśmy przeprowadzić w chłodnym miejscu w którym to temperatura nie spada poniżej 10 stopni lub bez zimowania zapewnić palmie jasne stanowisko z temperaturą powyżej 20 stopni i odpowiednią wilgotnością powietrza. <br><br>Palma kokosowa uwielbia podlewanie, nie powinniśmy dopuszczać do całkowitego przeschnięcia podłoża które powinno być lekko kwaśne i przepuszczalne. <br><br>Palma preferuje stanowisko jasne, nasłonecznione.",
+          description: "Coco nucifera często występuje również pod nazwami kokos właściwy, kokosowiec właściwy czy kokosowiec to należąca do rodziny arekowatych roślina którą spotkać możemy niemal na całym świecie. Najpopularniejsz w krajach Azjatyckich oraz w Ameryce Południowej. <br><br>Dorastająca do 30 metrów palma kokosowa o pojedynczym prostym pniu którego średnica nie przekracza 40 cm. Dorosła coco nucifera wypuszcza wiele łodyk których długie liście mogące dochodzić nawet do 6 metrów. Palma ta wymaga odpowiednio wysokiej temperatury, nie jest mrozoodporna, zimowanie powinniśmy przeprowadzić w chłodnym miejscu w którym to temperatura nie spada poniżej 10 stopni lub bez zimowania zapewnić palmie jasne stanowisko z temperaturą powyżej 20 stopni i odpowiednią wilgotnością powietrza. <br><br>Palma kokosowa uwielbia podlewanie, nie powinniśmy dopuszczać do całkowitego przeschnięcia podłoża które powinno być lekko kwaśne i przepuszczalne. <br><br>Palma preferuje stanowisko jasne, nasłonecznione. <br><br><b>Tolerancja na mróz:</b> do -5.",
           images: [
             "../assets/content/palms/coco_nucifera/1.jpeg"
           ]
@@ -360,7 +355,7 @@ export class DataService {
       subspieces: [
         {
           title: "Trithrinax campestris",
-          description: "Niesamowita palma pochodząca z Argentyny i Urugwaju. Jest w stanie wytrzymać zarówno bardzo duże mrozy jak i silny wiatr, ponieważ liście tej palmy są niezwykle sztywne. Bardziej niż u Trachycarpus wagnerianus. Znane są przypadki, gdzie dorosłe, dobrze ukorzenione palmy wytrzymały bez uszkodzeń nawet -17C. <br><br>Sztywne liście na końcu pokryte są bardzo dużymi kolcami. Pień również jest uzbrojony w kolce (igły). Trzeba być bardzo ostrożnym. Wysokość palmy w naturze dochodzi do 5 metrów. Z reguły wytwarza kilka pni. Liście są majestatyczne w kolorze srebrzysto-niebieskim. <br>W naturze palma rośnie w rejonach górskich Ameryki Południowej. wytrzymuje zarówno ekstremalne susze i gorąco jak i mróz. <br><br>Palma bardzo trudna do zdobycia. Rośnie niezwykle wolno przez co jej ceny są wysokie. <br><br>Według mojej opinii mrozoodporność tej palmy, przy krótkotrwałych (kilku godzinnych) spadkach temperatury dla dorosłego dobrze ukorzenionego osobnika w gruncie to ok -12C. <br><br>Liście dorosłej palmy wytrzymują spadki temperatur do -10C, -12C. Zalecam okrywać zanim temperatura dojdzie do -10C",
+          description: "Niesamowita palma pochodząca z Argentyny i Urugwaju. Jest w stanie wytrzymać zarówno bardzo duże mrozy jak i silny wiatr, ponieważ liście tej palmy są niezwykle sztywne. Bardziej niż u Trachycarpus wagnerianus. Znane są przypadki, gdzie dorosłe, dobrze ukorzenione palmy wytrzymały bez uszkodzeń nawet -17C. <br><br>Sztywne liście na końcu pokryte są bardzo dużymi kolcami. Pień również jest uzbrojony w kolce (igły). Trzeba być bardzo ostrożnym. Wysokość palmy w naturze dochodzi do 5 metrów. Z reguły wytwarza kilka pni. Liście są majestatyczne w kolorze srebrzysto-niebieskim. <br>W naturze palma rośnie w rejonach górskich Ameryki Południowej. wytrzymuje zarówno ekstremalne susze i gorąco jak i mróz. <br><br>Palma bardzo trudna do zdobycia. Rośnie niezwykle wolno przez co jej ceny są wysokie. <br><br>Według mojej opinii mrozoodporność tej palmy, przy krótkotrwałych (kilku godzinnych) spadkach temperatury dla dorosłego dobrze ukorzenionego osobnika w gruncie to ok -12C. <br><br>Liście dorosłej palmy wytrzymują spadki temperatur do -10C, -12C. Zalecam okrywać zanim temperatura dojdzie do -10C <br><br><b>Tolerancja na mróz:</b> od -10 do -12.",
           images: [
             "../assets/content/palms/trithrinax_campestris/1.jpeg",
           ]
@@ -381,7 +376,7 @@ export class DataService {
       subspieces: [
         {
           title: "Yucca rostrata",
-          description: "To mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. Wytrzymuje spadek temperatury do – 20 C.",
+          description: "To mrozoodporny gatunek Jukki o srebrno – niebieskich lancetowatych wąskich liściach może rosnąć w pełnym słońcu, jest to mało wymagająca roślina, kwitnie latem kwiaty białe zebrane w grona. <br><br><b>Tolerancja na mróz:</b> do -23.",
           images: [
             "../assets/content/yuccas/yucca_rostrata/1.jpeg",
             "../assets/content/yuccas/yucca_rostrata/2.jpeg",
@@ -422,7 +417,7 @@ export class DataService {
       subspieces: [
         {
           title: "Yucca aloifolia",
-          description: "Gatunek z rodzaju Yucca. Popularne nazwy to aloes, roślina sztyletu i hiszpański bagnet. Rośnie na glebach piaszczystych, szczególnie na wydmach wzdłuż wybrzeża",
+          description: "Gatunek z rodzaju Yucca. Popularne nazwy to aloes, roślina sztyletu i hiszpański bagnet. Rośnie na glebach piaszczystych, szczególnie na wydmach wzdłuż wybrzeża. <br><br><b>Tolerancja na mróz:</b> do -18.",
           images: [
             "../assets/content/yuccas/yucca_aloifolia/1.jpeg",
             "../assets/content/yuccas/yucca_aloifolia/2.jpeg",
@@ -446,7 +441,7 @@ export class DataService {
       subspieces: [
         {
           title: "Yucca filifera",
-          description: "Juki należą do rodziny agawowatych. Juka nitkowata (Yucca filifera) tworzy rozgałęziający się pień, dzięki czamu z daleka może przypominać drzewo. W swoim naturalnym środowisku dorasta do 10-15 m wysokości, licząc przy tym do 50 rozgałęzień. Szorstkie liście są matowo zielone i mierzą 30-80 cm długości. Cechą charakterystyczną tej juki są wyraźnie widoczne włókna na brzegach liści.Kiedy zakwita, wykształca dzwonkowate, kremowe kwiaty. Mrozoodporna do -15°C – przy zapewnieniu bardzo suchego stanowiska. Doskonała do uprawy doniczkowej.",
+          description: "Juki należą do rodziny agawowatych. Juka nitkowata (Yucca filifera) tworzy rozgałęziający się pień, dzięki czamu z daleka może przypominać drzewo. W swoim naturalnym środowisku dorasta do 10-15 m wysokości, licząc przy tym do 50 rozgałęzień. Szorstkie liście są matowo zielone i mierzą 30-80 cm długości. Cechą charakterystyczną tej juki są wyraźnie widoczne włókna na brzegach liści.Kiedy zakwita, wykształca dzwonkowate, kremowe kwiaty. Mrozoodporna do -15°C – przy zapewnieniu bardzo suchego stanowiska. Doskonała do uprawy doniczkowej. <br><br><b>Tolerancja na mróz:</b> od -15 do -16.",
           images: [
             "../assets/content/yuccas/yucca_filifera/1.jpeg",
             "../assets/content/yuccas/yucca_filifera/2.jpeg",
@@ -475,7 +470,7 @@ export class DataService {
       subspieces: [
         {
           title: "Yucca rigida",
-          description: "Juka rigida bywa mylona z jukką rostrata, rigida ma jednak sztywniejsze i bardziej szorstkie liście. Roślina wykształca pień, który może się rozgałęziać, dorasta do 2-5 m. Liście niebieskawe, sztywne, ząbkowane, osiągają 30-60 cm długości.",
+          description: "Juka rigida bywa mylona z jukką rostrata, rigida ma jednak sztywniejsze i bardziej szorstkie liście. Roślina wykształca pień, który może się rozgałęziać, dorasta do 2-5 m. Liście niebieskawe, sztywne, ząbkowane, osiągają 30-60 cm długości. <br><br><b>Tolerancja na mróz:</b> do -20.",
           images: [
             "../assets/content/yuccas/yucca_rigidia/1.jpeg",
             "../assets/content/yuccas/yucca_rigidia/2.jpeg",
@@ -494,7 +489,7 @@ export class DataService {
       subspieces: [
         {
           title: "Yucca faxoniana",
-          description: "Nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C. <br><br>Juka ta dorasta do 6-10 metrów. Czasami formuje kilka głów pełnych liści. W naturze jej zielone liście mają 90-110 cm długości i 5 cm szerokości ale w uprawie ogrodowej mogą mieć 120-140 cm i tworzyć wielką symetryczną kulę.",
+          description: "Nazywana palmą ixtle, palmą istle lub palmą barretą – gatunek roślin należących do rodziny szparagowatych. Pochodzi z północnego Meksyku i Teksasu.. Najbardziej mrozoodporna jukka wytwarzająca tak duży pień. Wytrzymuje długie spadki temperatury do -18°C, a krótkotrwałe nawet do -23°C. <br><br>Juka ta dorasta do 6-10 metrów. Czasami formuje kilka głów pełnych liści. W naturze jej zielone liście mają 90-110 cm długości i 5 cm szerokości ale w uprawie ogrodowej mogą mieć 120-140 cm i tworzyć wielką symetryczną kulę. <br><br><b>Tolerancja na mróz:</b> od -23 do -25.",
           images: [
             "../assets/content/yuccas/yucca_faxoniana/1.jpeg",
             "../assets/content/yuccas/yucca_faxoniana/2.jpeg",
@@ -518,7 +513,7 @@ export class DataService {
       subspieces: [
         {
           title: "Cytrusy",
-          description: "Jeżeli chcemy uprawiać cytrusy, musimy niestety ograniczyć się do posadzenia ich w donicy i trzymania w domu. Drzewa cytrusowe nie poradziłyby sobie podczas polskich, mroźnych i długich zim. Możemy próbować budować osłony czy miniszklarnie, aby ochronić je przed zimnem, ale temperatura gleby jest tak niska, że korzenie najzwyczajniej przemarzają, a roślina szybko marnieje. Warto więc postawić na domową uprawę doniczkową. <br><br>Do wyboru mamy kilka rodzajów cytrusów. Najpopularniejsza jest oczywiście pomarańcza, często pojawiające się w sklepach niewielkie efektowne drzewko, lecz wymagające dużej uwagi. Przy nieodpowiednich warunkach liście zaczynają opadać i żółknąć. W naturalnych warunkach dorasta do 4 m, jednak my uprawiamy odmianę karłową, znacznie mniejszą. <br><br>Innym równie znanym owocem jest cytryna. Najpopularniejsza to cytryna skierniewicka. Ma drobne białe kwiaty i duże liście. Możemy także uprawiać drzewo grejpfrutowe, lecz polecane jest do ogrodów zimowych lub innych sporych pomieszczeń, ponieważ to duże drzewo. Cytrusem o małych owocach będzie mandarynka. Wolno rośnie i jest dość rzadko spotykana w polskich uprawach.",
+          description: "Jeżeli chcemy uprawiać cytrusy, musimy niestety ograniczyć się do posadzenia ich w donicy i trzymania w domu. Drzewa cytrusowe nie poradziłyby sobie podczas polskich, mroźnych i długich zim. Możemy próbować budować osłony czy miniszklarnie, aby ochronić je przed zimnem, ale temperatura gleby jest tak niska, że korzenie najzwyczajniej przemarzają, a roślina szybko marnieje. Warto więc postawić na domową uprawę doniczkową. <br><br>Do wyboru mamy kilka rodzajów cytrusów. Najpopularniejsza jest oczywiście pomarańcza, często pojawiające się w sklepach niewielkie efektowne drzewko, lecz wymagające dużej uwagi. Przy nieodpowiednich warunkach liście zaczynają opadać i żółknąć. W naturalnych warunkach dorasta do 4 m, jednak my uprawiamy odmianę karłową, znacznie mniejszą. <br><br>Innym równie znanym owocem jest cytryna. Najpopularniejsza to cytryna skierniewicka. Ma drobne białe kwiaty i duże liście. Możemy także uprawiać drzewo grejpfrutowe, lecz polecane jest do ogrodów zimowych lub innych sporych pomieszczeń, ponieważ to duże drzewo. Cytrusem o małych owocach będzie mandarynka. Wolno rośnie i jest dość rzadko spotykana w polskich uprawach. <br><br><b>Tolerancja na mróz:</b> nie.",
           images: [
             "../assets/content/exotic_plants/citruses/1.jpeg",
             "../assets/content/exotic_plants/citruses/2.jpeg",
@@ -551,7 +546,7 @@ export class DataService {
       subspieces: [
         {
           title: "Strelitzia augusta",
-          description: "Najbardziej znana i ceniona odmiana Rajskiego ptaka pochodząca z RPA w Afryce. Niezwykle okazała i szybko rosnąca roślina stała się nawet wizerunkiem na monetach RPA. <br><br>Charakterystyczne dla tej rośliny przepiękne biało niebieskie kwiatostany kształtem do złudzenia przypominają ptaka. Duże ciemnozielone liście i szybki wzrost pozwalają cieszyć się niezwykle okazałymi okazami w okresie ciepłym na zewnątrz natomiast zimą w ogrodach zimowych lub mieszkaniach. <br><br>Jest rośliną wieloletnią, preferującą stanowiska jasne o dużym natężeniu promieni słonecznych. Podłoże przepuszczalne z dobrym drenażem. Podlewać po przeschnięciu górnej warstwy ziemi. Nie dopuszczać do stania wody. Strelicja Augusta nie lubi silnego wiatru, powinniśmy wybrać stanowisko osłonięte od podmuchów. <br><br>W czasie wegetacji podlewać obficie natomiast w okresie spoczynku opodlewanie ograniczyć do minimum. Odpowiednia temperatura w domu dla rośliny to około 20 stopni. <br><br>Odporność na mróz: Nie",
+          description: "Najbardziej znana i ceniona odmiana Rajskiego ptaka pochodząca z RPA w Afryce. Niezwykle okazała i szybko rosnąca roślina stała się nawet wizerunkiem na monetach RPA. <br><br>Charakterystyczne dla tej rośliny przepiękne biało niebieskie kwiatostany kształtem do złudzenia przypominają ptaka. Duże ciemnozielone liście i szybki wzrost pozwalają cieszyć się niezwykle okazałymi okazami w okresie ciepłym na zewnątrz natomiast zimą w ogrodach zimowych lub mieszkaniach. <br><br>Jest rośliną wieloletnią, preferującą stanowiska jasne o dużym natężeniu promieni słonecznych. Podłoże przepuszczalne z dobrym drenażem. Podlewać po przeschnięciu górnej warstwy ziemi. Nie dopuszczać do stania wody. Strelicja Augusta nie lubi silnego wiatru, powinniśmy wybrać stanowisko osłonięte od podmuchów. <br><br>W czasie wegetacji podlewać obficie natomiast w okresie spoczynku opodlewanie ograniczyć do minimum. Odpowiednia temperatura w domu dla rośliny to około 20 stopni. <br><br><b>Tolerancja na mróz:</b> nie.",
           images: [
             "../assets/content/exotic_plants/strelicja/strelicja_augusta/1.jpeg",
             "../assets/content/exotic_plants/strelicja/strelicja_augusta/2.jpeg",
@@ -572,7 +567,7 @@ export class DataService {
         },
         {
           title: "Strelitzia reginae (królewska)",
-          description: "Gatunek pochodzący z Afryki Południowej, wyróżniający się efektownym, niezwykle oryginalnym kwitnieniem. Dorasta do około 100-120 cm wysokości. Zjawiskowe, okazałe kwiaty w pięknym, intensywnym, pomarańczowo-niebieskim kolorze pojawiają się wiosną i utrzymują nawet 6 miesięcy. Kształtem przypominają one kolorowego ptaka, stąd zwyczajowa nazwa rośliny 'Rajski ptak'. Kwiaty charakteryzują się nie tylko pięknym ubarwieniem i ciekawym kształtem, ale także niezwykłą trwałością, dlatego często sprzedawane są w kwiaciarniach jako kwiat cięty. Liście rośliny są eliptyczne, ciemno zielone (40cm), osadzone na bardzo długich, mięsistych ogonkach (60cm). Wyglądem przypominają one liście bananowca. <br><br>Strelicja królewska to niezwykle atrakcyjna roślina, stanowiąca oryginalną, wyjątkową ozdobę wnętrz. Gatunek zachwyca egzotycznym wyglądem, przepięknym kwitnieniem,  a dodatkowo jest  niewymagający i łatwy w uprawie.",
+          description: "Gatunek pochodzący z Afryki Południowej, wyróżniający się efektownym, niezwykle oryginalnym kwitnieniem. Dorasta do około 100-120 cm wysokości. Zjawiskowe, okazałe kwiaty w pięknym, intensywnym, pomarańczowo-niebieskim kolorze pojawiają się wiosną i utrzymują nawet 6 miesięcy. Kształtem przypominają one kolorowego ptaka, stąd zwyczajowa nazwa rośliny 'Rajski ptak'. Kwiaty charakteryzują się nie tylko pięknym ubarwieniem i ciekawym kształtem, ale także niezwykłą trwałością, dlatego często sprzedawane są w kwiaciarniach jako kwiat cięty. Liście rośliny są eliptyczne, ciemno zielone (40cm), osadzone na bardzo długich, mięsistych ogonkach (60cm). Wyglądem przypominają one liście bananowca. <br><br>Strelicja królewska to niezwykle atrakcyjna roślina, stanowiąca oryginalną, wyjątkową ozdobę wnętrz. Gatunek zachwyca egzotycznym wyglądem, przepięknym kwitnieniem,  a dodatkowo jest  niewymagający i łatwy w uprawie. <br><br><b>Tolerancja na mróz:</b> nie.",
           images: [
             "../assets/content/exotic_plants/strelicja/strelicja_reginae/1.jpeg",
             "../assets/content/exotic_plants/strelicja/strelicja_reginae/2.jpeg",
@@ -599,7 +594,7 @@ export class DataService {
       subspieces: [
         {
           title: "Alocazja Macrorrhiza",
-          description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymimi liśćmi, które mają około 1 – metra długości. <br><br>Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate, ciemnozielone liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. Alokazja macrorrhiza w odpowiednich warunkach domowych osiąga wysokość 1.5 metra. <br><br>Pielęgnacja Alokazja Macrorrhiza <br>Alokazja ma typowe wymagania związane z jej tropikalnym pochodzeniem, ale nie zgadza się na żadne kompromisy. Lubi ciepłe i wilgotne warunki w domu, ale nie znosi zimna. Latem należy zapewnić jej temperaturę około 22-28 stopni Celsjusza, zimą 18-22 stopnie oraz odpowiednie nawilżenie powietrza. Podłoże powinno być żyzne, próchnicze i przepuszczalne o lekko kwaśnym odczynie pH. W donicy należy zapewnić drenaż oraz otwory odpływowe. Alokazja nie akceptuje ani przesuszenia, ani przesadnego podlewania. W mieszkaniu należy ustawić nawilżacz powietrza lub odkryte akwarium oraz systematycznie zraszać ją letnią wodą. Jeśli nam się to nie uda i roślina straci większość liści, nie należy spisywać jej na straty, gdyż wiosną znów wznowi wegetację. Roślinę należy przesadzać w rękawiczkach. Nie powinny mieć do niej dostępu ani dzieci oraz zwierzęta domowe.",
+          description: "Pochodzi z obszarów tropikalnej Malezji, Australii oraz Wysp Salomona. Alokazja Macrorrhiza wyróżnia się na tle innych roślin olbrzymimi liśćmi, które mają około 1 – metra długości. <br><br>Alokazja ma pokrój wyprostowany, krzewiasty. Wytwarza duże, strzałkowate, ciemnozielone liście, które osadzone są na długich i grubych łodygach wyrastających z podziemnej bulwy. Alokazja macrorrhiza w odpowiednich warunkach domowych osiąga wysokość 1.5 metra. <br><br>Pielęgnacja Alokazja Macrorrhiza <br>Alokazja ma typowe wymagania związane z jej tropikalnym pochodzeniem, ale nie zgadza się na żadne kompromisy. Lubi ciepłe i wilgotne warunki w domu, ale nie znosi zimna. Latem należy zapewnić jej temperaturę około 22-28 stopni Celsjusza, zimą 18-22 stopnie oraz odpowiednie nawilżenie powietrza. Podłoże powinno być żyzne, próchnicze i przepuszczalne o lekko kwaśnym odczynie pH. W donicy należy zapewnić drenaż oraz otwory odpływowe. Alokazja nie akceptuje ani przesuszenia, ani przesadnego podlewania. W mieszkaniu należy ustawić nawilżacz powietrza lub odkryte akwarium oraz systematycznie zraszać ją letnią wodą. Jeśli nam się to nie uda i roślina straci większość liści, nie należy spisywać jej na straty, gdyż wiosną znów wznowi wegetację. Roślinę należy przesadzać w rękawiczkach. Nie powinny mieć do niej dostępu ani dzieci oraz zwierzęta domowe. <br><br><b>Tolerancja na mróz:</b> nie.",
           images: [
             "../assets/content/exotic_plants/alocazja_macrorrhiza/1.jpeg",
           ],
@@ -617,7 +612,7 @@ export class DataService {
       subspieces: [
         {
           title: "Dasylirion longisimum",
-          description: "meksykańskie drzewo trawiaste, to gatunek rośliny kwitnącej na pustyni Chihuahuan i innych siedliskach kserograficznych w północno-wschodnim Meksyku.",
+          description: "meksykańskie drzewo trawiaste, to gatunek rośliny kwitnącej na pustyni Chihuahuan i innych siedliskach kserograficznych w północno-wschodnim Meksyku.<br><br><b>Tolerancja na mróz:</b> do -16.",
           images: [
             "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/1.jpeg",
             "../assets/content/exotic_plants/dasylirion/dasylirion_longisimum/2.jpeg",
@@ -636,7 +631,7 @@ export class DataService {
         },
         {
           title: "Dasylirion serratifolium",
-          description: "Dasylirion Serratifolium rośnie w południowym stanie Oaxaca w Meksyku, na wysokości 1800-2350m na suchych i skalistych zboczach gór.Ta krzewiasta i wiecznie zielona roślina o powolnym wzroście osiąga w naturze wysokość 3m. <br><br>Roślina wyglądem podobna do juki, o masywnym i prostym, pojedynczym lub złożonym pniu.Pień zwieńczonym jest dekoracyjnym pióropuszem wąskich, mieczowatych, zielonych liści o długości do 1,2m. Z korony liści wyrastają długie, stojące kwiatostany w formie kolby dorastające do 4,5m wysokości. Kwiatostan kwitnie delikatnymi kwiatuszkami o kształcie dzwonu, w biało-beżowym kolorze. <br><br>Tolerancja na mróz -15",
+          description: "Dasylirion Serratifolium rośnie w południowym stanie Oaxaca w Meksyku, na wysokości 1800-2350m na suchych i skalistych zboczach gór.Ta krzewiasta i wiecznie zielona roślina o powolnym wzroście osiąga w naturze wysokość 3m. <br><br>Roślina wyglądem podobna do juki, o masywnym i prostym, pojedynczym lub złożonym pniu.Pień zwieńczonym jest dekoracyjnym pióropuszem wąskich, mieczowatych, zielonych liści o długości do 1,2m. Z korony liści wyrastają długie, stojące kwiatostany w formie kolby dorastające do 4,5m wysokości. Kwiatostan kwitnie delikatnymi kwiatuszkami o kształcie dzwonu, w biało-beżowym kolorze. <br><br><br><br><b>Tolerancja na mróz:</b> do -16.",
           images: [
             "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/1.jpeg",
             "../assets/content/exotic_plants/dasylirion/dasylirion_seratifolium/2.jpeg",
@@ -660,7 +655,7 @@ export class DataService {
         },
         {
           title: "Dasylirion wheeleri",
-          description: "Gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie.",
+          description: "Gatunek rośliny kwitnącej z rodziny szparagów Asparagaceae, pochodzącej z suchych środowisk w północnym Meksyku, w Chihuahua i Sonorze oraz w południowo-zachodnich Stanach Zjednoczonych, na pustyni Sonoran w Arizonie, a także w Nowym Meksyku i Teksasie. <br><br><b>Tolerancja na mróz:</b> do -16.",
           images: [
             "../assets/content/exotic_plants/dasylirion/dasylirion_wheeleri/1.jpg",
             "../assets/content/exotic_plants/dasylirion/dasylirion_wheeleri/2.jpg",
@@ -679,7 +674,7 @@ export class DataService {
       subspieces: [
         {
           title: "Cycas revoluta (Sagowiec odwinięty)",
-          description: "Gatunek roślin należących do klasy sagowców i rodziny sagowcowatych. Zasięg naturalny obejmuje południową Japonię. Popularna roślina ozdobna, w środkowoeuropejskich warunkach klimatycznych uprawiana jako roślina doniczkowa.",
+          description: "Gatunek roślin należących do klasy sagowców i rodziny sagowcowatych. Zasięg naturalny obejmuje południową Japonię. Popularna roślina ozdobna, w środkowoeuropejskich warunkach klimatycznych uprawiana jako roślina doniczkowa. <br><br><b>Tolerancja na mróz:</b> do -6.",
           images: [
             "../assets/content/exotic_plants/cycas_revoluta/1.jpeg",
             "../assets/content/exotic_plants/cycas_revoluta/2.jpeg",
@@ -709,7 +704,7 @@ export class DataService {
       subspieces: [
         {
           title: "Bougainvillea",
-          description: "Bougainvillea inaczej kącicierń, to rodzaj tak zwanych prymitywnych pnączy z rodziny nocnicowatych (Nyctaginaceae). Ich naturalnym miejscem występowania są tropikalne rejony Ameryki Południowej. W krajach klimatu śródziemnomorskiego porasta mury, ażurowe pergole i inne podpory, a w naszym klimacie rośliny te uprawiane są w pojemnikach. <br><br>Bugenwille mogą być prowadzone jako pnącza, krzewy lub drzewka. Ich długie, cienkie pędy osiągają nawet 12 m długości! Mają charakterystycznie zakrzywione ciernie ukryte w kątach liści, które służą roślinie do wspinania się na podpory. Eliptyczne, skórzaste liście rosną na krótkich ogonkach i mają włoski od spodniej strony blaszki. Właściwe kwiaty bugenwilli pojawiają się na całej długości pędu rośliny i są niepozorne, zazwyczaj białe lub różowe. Największą ich ozdobę stanowią imitujące kwiaty barwne podsadki, będące tak naprawdę liśćmi rośliny. Mogą być one różowe, pomarańczowe, łososiowe, czerwone, fioletowe, purpurowe i białe. <br><br> W chłodniejszym klimacie panującym w Polsce, kącicierń kwitnie niemal przez całe lato (zdarza się, że zakwita już wiosną!). <br><br>Uprawa i wymagania <br>Bugenwilla jest roślina wymagającą – w sezonie wiosenno-letnim roślina potrzebuje dużo słońca, preferuje południowe lub wschodnie stanowisko, wilgotne i żyzne podłoże oraz powinniśmy ją zraszać. Liście rośliny są wrażliwe i dość łatwo opadają! Aby tego uniknąć powinniśmy wybierać dla nich miejsca osłonięte od wiatru i uważać, by jej nie przelewać.Chcąc pobudzić kwitnienie dobrze jest stosunkowo często nawozić roślinę, a żeby obficie kwitła niektórzy polecają sadzić ją w mniejszych doniczkach.Jesienią kąciciernie chowamy do domu ograniczając podlewanie i starając się wybrać chłodniejsze pomieszczenie. Od listopada do lutego roślina przechodzi okres spoczynku i dobrze gdy uda się zapewnić jej temperaturę ok. 10 ºC. Wtedy też ogranicza się jej podlewanie (raz w tygodniu). W tym okresie liście rośliny mogą dość mocno opadać, jednak pędy pozostają żywe i nie tracą turgoru.Aby bugenwilla zachowała zwartą, krzaczastą formę oraz zawiązywała dużo pąków kwiatowych, pod koniec lutego należy skracać jej pędy o 1/3 długości.",
+          description: "Bougainvillea inaczej kącicierń, to rodzaj tak zwanych prymitywnych pnączy z rodziny nocnicowatych (Nyctaginaceae). Ich naturalnym miejscem występowania są tropikalne rejony Ameryki Południowej. W krajach klimatu śródziemnomorskiego porasta mury, ażurowe pergole i inne podpory, a w naszym klimacie rośliny te uprawiane są w pojemnikach. <br><br>Bugenwille mogą być prowadzone jako pnącza, krzewy lub drzewka. Mają charakterystycznie zakrzywione ciernie ukryte w kątach liści, które służą roślinie do wspinania się na podpory. Eliptyczne, skórzaste liście rosną na krótkich ogonkach i mają włoski od spodniej strony blaszki. Właściwe kwiaty bugenwilli pojawiają się na całej długości pędu rośliny i są niepozorne, zazwyczaj białe lub różowe. Największą ich ozdobę stanowią imitujące kwiaty barwne podsadki, będące tak naprawdę liśćmi rośliny. Mogą być one różowe, pomarańczowe, łososiowe, czerwone, fioletowe, purpurowe i białe. <br><br> W chłodniejszym klimacie panującym w Polsce, kącicierń kwitnie niemal przez całe lato. <br><br>Uprawa i wymagania <br>Bugenwilla jest roślina wymagającą – w sezonie wiosenno-letnim roślina potrzebuje dużo słońca, preferuje południowe lub wschodnie stanowisko, wilgotne i żyzne podłoże oraz powinniśmy ją zraszać. Liście rośliny są wrażliwe i dość łatwo opadają! Aby tego uniknąć powinniśmy wybierać dla nich miejsca osłonięte od wiatru i uważać, by jej nie przelewać.Chcąc pobudzić kwitnienie dobrze jest stosunkowo często nawozić roślinę, a żeby obficie kwitła niektórzy polecają sadzić ją w mniejszych doniczkach.Jesienią kąciciernie chowamy do domu ograniczając podlewanie i starając się wybrać chłodniejsze pomieszczenie. Od listopada do lutego roślina przechodzi okres spoczynku i dobrze gdy uda się zapewnić jej temperaturę ok. 10 ºC. Wtedy też ogranicza się jej podlewanie (raz w tygodniu). W tym okresie liście rośliny mogą dość mocno opadać, jednak pędy pozostają żywe i nie tracą turgoru.Aby bugenwilla zachowała zwartą, krzaczastą formę oraz zawiązywała dużo pąków kwiatowych, pod koniec lutego należy skracać jej pędy o 1/3 długości. <br><br><b>Tolerancja na mróz:</b> nie.",
           images: [
             "../assets/content/exotic_plants/bungewilla/1.jpeg",
             "../assets/content/exotic_plants/bungewilla/2.jpeg"
@@ -735,7 +730,7 @@ export class DataService {
             "../assets/content/yuccas/nolina_nelsoni/4.jpeg",
             "../assets/content/yuccas/nolina_nelsoni/5.jpeg",
           ],
-          description: "To roślina kwitnąca z rodzaju Nolina. Gatunek ten został po raz pierwszy opisany w 1906 roku; w swoim rodzaju jest morfologicznie najbardziej podobny do Nolina parryi."
+          description: "To roślina kwitnąca z rodzaju Nolina. Gatunek ten został po raz pierwszy opisany w 1906 roku; w swoim rodzaju jest morfologicznie najbardziej podobny do Nolina parryi. <br><br><b>Tolerancja na mróz:</b> od -12 do -14."
 
         }
       ]
@@ -757,7 +752,7 @@ export class DataService {
       subspieces: [
         {
           title: "Young skin",
-          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
+          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko. <br><br><b>Tolerancja na mróz:</b> od -14 do -16.",
           images: [
             "../assets/content/olive_trees/young_skin/1.jpeg",
             "../assets/content/olive_trees/young_skin/2.jpeg",
@@ -795,7 +790,7 @@ export class DataService {
       subspieces: [
         {
           title: "Old skin",
-          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
+          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko. <br><br><b>Tolerancja na mróz:</b> od -14 do -16.",
           images: [
             "../assets/content/olive_trees/old_skin/1.jpeg",
             "../assets/content/olive_trees/old_skin/2.jpeg",
@@ -835,8 +830,8 @@ export class DataService {
       ]
     },
     {
-      name: "pom_pom",
-      title: "Pom-pom",
+      name: "pon_pon",
+      title: "Pon-pon",
       images: [
         "../assets/content/olive_trees/pom_pom/1.jpeg",
         "../assets/content/olive_trees/pom_pom/2.jpeg",
@@ -844,8 +839,8 @@ export class DataService {
       ],
       subspieces: [
         {
-          title: "Pom-pom",
-          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
+          title: "Pon-pon",
+          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko. <br><br><b>Tolerancja na mróz:</b> od -14 do -16.",
           images: [
             "../assets/content/olive_trees/pom_pom/1.jpeg",
             "../assets/content/olive_trees/pom_pom/2.jpeg",
@@ -873,7 +868,7 @@ export class DataService {
       subspieces: [
         {
           title: "Bonsai",
-          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.",
+          description: "Oliwka, z łac. Olea europaea, jest drzewem z rodziny oliwkowatych, którego naturalnym środowiskiem są obszary Afryki, Półwyspu Arabskiego, śródziemnomorskiej Azji i Europy Południowej. W formie hodowlanej występuje w wielu rejonach świata, również w Polsce. Jej cechą charakterystyczną są wiecznie zielone liście z białym nalotem na spodzie oraz owoce – mięsiste pestkowce o owalnym kształcie. Drzewko osiąga w naturze do 12 metrów wysokości, w wersji hodowlanej nie przekracza jednak 6 metrów. <br><br>Drzewko oliwne jest rośliną idealną dla początkujących ogrodników, ponieważ dobrze znosi wszelkie zaniedbania. Charakteryzuje je również wysoka odporność na susze oraz ataki szkodników i chorób. W uprawie roślina preferuje lekko zasadowe, piaszczyste, przepuszczalne i żyzne gleby, jednak najważniejsze dla jej wzrostu jest odpowiednio nasłonecznione stanowisko.<br><br><b>Tolerancja na mróz:</b> od -14 do -16.",
           images: [
             "../assets/content/olive_trees/bonsai/1.jpeg",
             "../assets/content/olive_trees/bonsai/2.jpeg",
