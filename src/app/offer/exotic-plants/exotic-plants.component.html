@@ -13,7 +13,7 @@
             [navigation]="true"
             class="mySwiper"
             >
-            <ng-template *ngFor="let image of exoticPlant.images"  swiperSlide><img src={{image}} class="img-fluid" /></ng-template>
+            <ng-template *ngFor="let image of exoticPlant.images"  swiperSlide><img src={{image}} alt={{exoticPlant.title}} class="img-fluid" /></ng-template>
 
             </swiper>
             <div class="card-body pointer" (click)="goToExoticPlantDetails(exoticPlant?.name)">
