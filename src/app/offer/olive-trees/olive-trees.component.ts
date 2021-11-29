@@ -18,7 +18,7 @@ export class OliveTreesComponent implements OnInit {
   }
 
   goToOliveTreeDetails(name: string) {
-    this.router.navigate(['drzewa_oliwne/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
+    this.router.navigate(['oferta/drzewa_oliwne/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
   }
 
 }

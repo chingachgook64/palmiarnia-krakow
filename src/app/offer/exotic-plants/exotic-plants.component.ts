@@ -17,7 +17,7 @@ export class ExoticPlantsComponent implements OnInit {
   }
 
   goToExoticPlantDetails(name: string) {
-    this.router.navigate(['rosliny_egzotyczne/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
+    this.router.navigate(['oferta/rosliny_egzotyczne/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
   }
 
 }

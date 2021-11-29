@@ -17,7 +17,7 @@ export class YuccasComponent implements OnInit {
   }
 
   goToYuccaDetails(name: string) {
-    this.router.navigate(['/jukki/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
+    this.router.navigate(['oferta/jukki/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
   }
 
 

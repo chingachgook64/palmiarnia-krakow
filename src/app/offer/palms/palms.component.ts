@@ -20,7 +20,7 @@ export class PalmsComponent implements OnInit {
   }
 
   goToPalmDetails(name: string) {
-    this.router.navigate(['/palmy/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
+    this.router.navigate(['/oferta/palmy/szczegoly'], { queryParams: { name: `${name}` }, queryParamsHandling: 'merge' });
   }
 
 }
